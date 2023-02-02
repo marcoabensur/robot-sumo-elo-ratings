@@ -1,154 +1,159 @@
 import math
 
-def calculate_elo(player1, player2, result, ratings):
+def calculate_elo(playerWinner, playerLoser, ratings):
     k = 20
-    rating1 = ratings[player1]
-    rating2 = ratings[player2]
+    rating1 = ratings[playerWinner]
+    rating2 = ratings[playerLoser]
     expected_score1 = 1 / (1 + 10 ** ((rating2 - rating1) / 400))
     expected_score2 = 1 / (1 + 10 ** ((rating1 - rating2) / 400))
-    if result == 'win':
-        ratings[player1] = rating1 + k * (1 - expected_score1)
-        ratings[player2] = rating2 + k * (0 - expected_score2)
-    elif result == 'lose':
-        ratings[player1] = rating1 + k * (0 - expected_score1)
-        ratings[player2] = rating2 + k * (1 - expected_score2)
-    else:
-        ratings[player1] = rating1 + k * (0.5 - expected_score1)
-        ratings[player2] = rating2 + k * (0.5 - expected_score2)
+
+    pointsWinner = k * (1 - expected_score1)
+    pointsLoser  = k * (0 - expected_score2)
+    
+    ratings[playerWinner] = rating1 + pointsWinner
+    ratings[playerLoser]  = rating2 + pointsLoser
+
+    # print(playerWinner + " + " + str(round(pointsWinner)))
+    # print(playerLoser + " - " + str(round(pointsWinner)))
+    # print("")
+
+
     return ratings
 
 def update_ratings(matches):
     ratings = {}
     for match in matches:
-        player1, player2, result = match
-        if player1 not in ratings:
-            ratings[player1] = 1500
-        if player2 not in ratings:
-            ratings[player2] = 1500
-        ratings = calculate_elo(player1, player2, result, ratings)
+        playerWinner, playerLoser = match
+        if playerWinner not in ratings:
+            ratings[playerWinner] = 1500
+        if playerLoser not in ratings:
+            ratings[playerLoser] = 1500
+        ratings = calculate_elo(playerWinner, playerLoser, ratings)
     return ratings
 
 matches = [
     ## ROBOTO LAB - AUTO
-    ('Equipe-Paralela',  'Raiju',             'win'), 
-    ('ThundeRatz',       'KIMAUÁNISSO',       'win'),
-    ('KIMAUÁNISSO',      'Equipe-Paralela',   'win'),
-    ('ThundeRatz',       'OMEGABOTZ',         'win'),
-    ('OMEGABOTZ',        'Raiju',             'win'),
-    ('KIMAUÁNISSO',      'Equipe-Paralela',   'win'),
-    ('KIMAUÁNISSO',      'ThundeRatz',        'win'),
-    ('KIMAUÁNISSO',      'OMEGABOTZ',         'win'),
-    ('KIMAUÁNISSO',      'ThundeRatz',        'win'),
+    ('Equipe-Paralela',  'Raiju'           ), 
+    ('ThundeRatz',       'KIMAUÁNISSO'     ),
+    ('KIMAUÁNISSO',      'Equipe-Paralela' ),
+    ('ThundeRatz',       'OMEGABOTZ'       ),
+    ('OMEGABOTZ',        'Raiju'           ),
+    ('KIMAUÁNISSO',      'Equipe-Paralela' ),
+    ('KIMAUÁNISSO',      'ThundeRatz'      ),
+    ('KIMAUÁNISSO',      'OMEGABOTZ'       ),
+    ('KIMAUÁNISSO',      'ThundeRatz'      ),
 
     ## RSM - AUTO
-    ('KIMAUÁNISSO',      'RobotBulls',    'win'), 
-    ('OMEGABOTZ',        'RobotBulls',    'win'),
-    ('KIMAUÁNISSO',      'OMEGABOTZ',     'win'),
-    ('SIRE-UB',          'KIMAUÁNISSO',   'win'),
-    ('Raiju',            'KIMAUÁNISSO',   'win'),
-    ('Raiju',            'SIRE-UB',       'win'),
-    ('TRINCABOTZ',       'ThundeRatz',    'win'),
-    ('TRINCABOTZ',       'RobotBulls',    'win'),
-    ('ThundeRatz',       'RobotBulls',    'win'),
-    ('SIRE-UB',          'OMEGABOTZ',     'win'),
-    ('ThundeRatz',       'TRINCABOTZ',    'win'),
-    ('KIMAUÁNISSO',      'SIRE-UB',       'win'),
-    ('Raiju',            'ThundeRatz',    'win'),
-    ('TRINCABOTZ',       'SIRE-UB',       'win'),
-    ('ThundeRatz',       'OMEGABOTZ',     'win'),
-    ('TRINCABOTZ',       'ThundeRatz',    'win'),
-    ('KIMAUÁNISSO',      'Raiju',         'win'),
-    ('Raiju',            'TRINCABOTZ',    'win'),
-    ('KIMAUÁNISSO',      'Raiju',         'win'),
+    ('KIMAUÁNISSO',      'RobotBulls'  ), 
+    ('OMEGABOTZ',        'RobotBulls'  ),
+    ('KIMAUÁNISSO',      'OMEGABOTZ'   ),
+    ('SIRE-UB',          'KIMAUÁNISSO' ),
+    ('Raiju',            'KIMAUÁNISSO' ),
+    ('Raiju',            'SIRE-UB'     ),
+    ('TRINCABOTZ',       'ThundeRatz'  ),
+    ('TRINCABOTZ',       'RobotBulls'  ),
+    ('ThundeRatz',       'RobotBulls'  ),
+    ('SIRE-UB',          'OMEGABOTZ'   ),
+    ('ThundeRatz',       'TRINCABOTZ'  ),
+    ('KIMAUÁNISSO',      'SIRE-UB'     ),
+    ('Raiju',            'ThundeRatz'  ),
+    ('TRINCABOTZ',       'SIRE-UB'     ),
+    ('ThundeRatz',       'OMEGABOTZ'   ),
+    ('TRINCABOTZ',       'ThundeRatz'  ),
+    ('KIMAUÁNISSO',      'Raiju'       ),
+    ('Raiju',            'TRINCABOTZ'  ),
+    ('KIMAUÁNISSO',      'Raiju'       ),
 
 
     ## RoboChallenge - Auto
-    ('Raiju',            'MinervaBots',        'win'), 
-    ('Raiju',            'Equipe-Paralela',    'win'),
-    ('OMEGABOTZ',        'MinervaBots',        'win'),
-    ('KIMAUÁNISSO',      'OMEGABOTZ',          'win'),
-    ('ThundeRatz',       'RobotBulls',         'win'),
-    ('KIMAUÁNISSO',      'MinervaBots',        'win'),
-    ('KIMAUÁNISSO',      'Raiju',              'win'),
-    ('Equipe-Paralela',  'MinervaBots',        'win'),
-    ('RobotBulls',       'Equipe-Paralela',    'win'),
-    ('ThundeRatz',       'KIMAUÁNISSO',        'win'),
-    ('ThundeRatz',       'KIMAUÁNISSO',        'win'),
-    ('Raiju',            'RobotBulls',         'win'),
-    ('KIMAUÁNISSO',      'OMEGABOTZ',          'win'),
-    ('KIMAUÁNISSO',      'ThundeRatz',         'win'),
-    ('KIMAUÁNISSO',      'Raiju',              'win'),
-    ('KIMAUÁNISSO',      'ThundeRatz',         'win'),
-    ('ThundeRatz',       'KIMAUÁNISSO',        'win'),
+    ('Raiju',            'MinervaBots'     ), 
+    ('Raiju',            'Equipe-Paralela' ),
+    ('OMEGABOTZ',        'MinervaBots'     ),
+    ('KIMAUÁNISSO',      'OMEGABOTZ'       ),
+    ('ThundeRatz',       'RobotBulls'      ),
+    ('KIMAUÁNISSO',      'MinervaBots'     ),
+    ('KIMAUÁNISSO',      'Raiju'           ),
+    ('Equipe-Paralela',  'MinervaBots'     ),
+    ('RobotBulls',       'Equipe-Paralela' ),
+    ('ThundeRatz',       'KIMAUÁNISSO'     ),
+    ('ThundeRatz',       'KIMAUÁNISSO'     ),
+    ('Raiju',            'RobotBulls'      ),
+    ('KIMAUÁNISSO',      'OMEGABOTZ'       ),
+    ('KIMAUÁNISSO',      'ThundeRatz'      ),
+    ('KIMAUÁNISSO',      'Raiju'           ),
+    ('KIMAUÁNISSO',      'ThundeRatz'      ),
+    ('ThundeRatz',       'KIMAUÁNISSO'     ),
 
 
     ## Inatel - Auto
-    ('FEG-Robótica',            'RobotBulls',          'win'),
-    ('Uai!rrior',               'OMEGABOTZ',           'win'),
-    ('FEG-Robótica',            'ThundeRatz',          'win'),
-    ('RobotBulls',              'UERJBotz',            'win'),
-    ('OMEGABOTZ',               'Phoenix',             'win'),
-    ('KIMAUÁNISSO',             'Raiju',               'win'),
-    ('KIMAUÁNISSO',             'ThundeRatz',          'win'),
-    ('ThundeRatz',              'KIMAUÁNISSO',         'win'),
-    ('RobotBulls',              'OMEGABOTZ',           'win'),
-    ('FEG-Robótica',            'Uai!rrior',           'win'),
-    ('FEG-Robótica',            'TRINCABOTZ',          'win'),
-    ('MinervaBots',             'RobotBulls',          'win'),
-    ('RobotBulls',              'OMEGABOTZ',           'win'),
-    ('MinervaBots',             'ThundeRatz',          'win'),
-    ('TRINCABOTZ',              'UERJBotz',            'win'),
-    ('Phoenix',                 'Uai!rrior',           'win'),
-    ('RobotBulls',              'OMEGABOTZ',           'win'),
-    ('RobotBulls',              'MinervaBots',         'win'),
-    ('Phoenix',                 'TRINCABOTZ',          'win'),
-    ('OMEGABOTZ',               'RobotBulls',          'win'),
-    ('FEG-Robótica',            'Phoenix',             'win'),
-    ('RobotBulls',              'FEG-Robótica',        'win'),
-    ('OMEGABOTZ',               'FEG-Robótica',        'win'),
-    ('RobotBulls',              'FEG-Robótica',        'win'),
-    ('RobotBulls',              'OMEGABOTZ',           'win'), ##Final dupla
-    ('RobotBulls',              'OMEGABOTZ',           'win'),
+    ('FEG-Robótica',       'RobotBulls'    ),
+    ('Uai!rrior',          'OMEGABOTZ'     ),
+    ('FEG-Robótica',       'ThundeRatz'    ),
+    ('RobotBulls',         'UERJBotz'      ),
+    ('OMEGABOTZ',          'Phoenix'       ),
+    ('KIMAUÁNISSO',        'Raiju'         ),
+    ('KIMAUÁNISSO',        'ThundeRatz'    ),
+    ('ThundeRatz',         'KIMAUÁNISSO'   ),
+    ('RobotBulls',         'OMEGABOTZ'     ),
+    ('FEG-Robótica',       'Uai!rrior'     ),
+    ('FEG-Robótica',       'TRINCABOTZ'    ),
+    ('MinervaBots',        'RobotBulls'    ),
+    ('RobotBulls',         'OMEGABOTZ'     ),
+    ('MinervaBots',        'ThundeRatz'    ),
+    ('TRINCABOTZ',         'UERJBotz'      ),
+    ('Phoenix',            'Uai!rrior'     ),
+    ('RobotBulls',         'OMEGABOTZ'     ),
+    ('RobotBulls',         'MinervaBots'   ),
+    ('Phoenix',            'TRINCABOTZ'    ),
+    ('OMEGABOTZ',          'RobotBulls'    ),
+    ('FEG-Robótica',       'Phoenix'       ),
+    ('RobotBulls',         'FEG-Robótica'  ),
+    ('OMEGABOTZ',          'FEG-Robótica'  ),
+    ('RobotBulls',         'FEG-Robótica'  ),
+
+    #Final dupla
+    ('RobotBulls',         'OMEGABOTZ'     ), 
+    ('RobotBulls',         'OMEGABOTZ'     ),
 
 
     ## RCX - Auto
-    ('KIMAUÁNISSO',            'RAS-UFRB',                  'win'),
-    ('Equipe-Paralela',        'RobotBulls',                'win'),
-    ('Robótica-TERA',          'TRINCABOTZ',                'win'),
-    ('Sumomasters',            'ThundeRatz',                'win'),
-    ('KIMAUÁNISSO',            'OMEGABOTZ',                 'win'),
-    ('RioBotz',                'Sumomasters',               'win'),
-    ('Sumomasters',            'RobotBulls',                'win'),
+    ('KIMAUÁNISSO',        'RAS-UFRB'         ),
+    ('Equipe-Paralela',    'RobotBulls'       ),
+    ('Robótica-TERA',      'TRINCABOTZ'       ),
+    ('Sumomasters',        'ThundeRatz'       ),
+    ('KIMAUÁNISSO',        'OMEGABOTZ'        ),
+    ('RioBotz',            'Sumomasters'      ),
+    ('Sumomasters',        'RobotBulls'       ),
 
-    ('RobotBulls',             'RAS-UFRB',                  'win'),
-    ('TRINCABOTZ',             'ThundeRatz',                'win'),
-    ('OMEGABOTZ',              'Sumomasters',               'win'),
+    ('RobotBulls',         'RAS-UFRB'         ),
+    ('TRINCABOTZ',         'ThundeRatz'       ),
+    ('OMEGABOTZ',          'Sumomasters'      ),
 
-    ('Equipe-Paralela',        'KIMAUÁNISSO',               'win'),
-    ('Sumomasters',            'Robótica-TERA',             'win'),
-    ('KIMAUÁNISSO',            'RioBotz',                   'win'),
-    ('ThundeRatz',             'Sumomasters',               'win'),
+    ('Equipe-Paralela',    'KIMAUÁNISSO'      ),
+    ('Sumomasters',        'Robótica-TERA'    ),
+    ('KIMAUÁNISSO',        'RioBotz'          ),
+    ('ThundeRatz',         'Sumomasters'      ),
 
-    ('RobotBulls',             'Sumomasters',               'win'),
-    ('RioBotz',                'TRINCABOTZ',                'win'),
-    ('OMEGABOTZ',              'Robótica-TERA',             'win'),
-    ('KIMAUÁNISSO',            'RobotBulls',                'win'),
+    ('RobotBulls',         'Sumomasters'      ),
+    ('RioBotz',            'TRINCABOTZ'       ),
+    ('OMEGABOTZ',          'Robótica-TERA'    ),
+    ('KIMAUÁNISSO',        'RobotBulls'       ),
 
-    ('RobotBulls',             'RioBotz',                   'win'),
-    ('KIMAUÁNISSO',            'OMEGABOTZ',                 'win'),
+    ('RobotBulls',         'RioBotz'          ),
+    ('KIMAUÁNISSO',        'OMEGABOTZ'        ),
 
-    ('Equipe-Paralela',        'Sumomasters',               'win'),
-    ('KIMAUÁNISSO',            'ThundeRatz',                'win'),
+    ('Equipe-Paralela',    'Sumomasters'      ),
+    ('KIMAUÁNISSO',        'ThundeRatz'       ),
 
-    ('Sumomasters',            'RobotBulls',                'win'),
+    ('Sumomasters',        'RobotBulls'       ),
 
-    ('Equipe-Paralela',        'KIMAUÁNISSO',               'win'),
+    ('Equipe-Paralela',    'KIMAUÁNISSO'      ),
 
-    ('Sumomasters',            'KIMAUÁNISSO',               'win'),
+    ('Sumomasters',        'KIMAUÁNISSO'      ),
 
-    ##Final  dupla
-    ('Sumomasters',             'Equipe-Paralela',           'win'),
-    ('Sumomasters',             'Equipe-Paralela',           'win'),
+    #Final dupla
+    ('Sumomasters',        'Equipe-Paralela'  ),
+    ('Sumomasters',        'Equipe-Paralela'  ),
 
 
 
