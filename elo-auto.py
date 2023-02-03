@@ -88,18 +88,15 @@ matches = [
     ## Inatel - Auto
     ('FEG-Robótica',       'RobotBulls'    ),
     ('Uai!rrior',          'OMEGABOTZ'     ),
-    ('FEG-Robótica',       'ThundeRatz'    ),
+    # ('FEG-Robótica',       'ThundeRatz'    ), Thunder nem foi na competição
     ('RobotBulls',         'UERJBotz'      ),
     ('OMEGABOTZ',          'Phoenix'       ),
-    ('KIMAUÁNISSO',        'Raiju'         ),
-    ('KIMAUÁNISSO',        'ThundeRatz'    ),
-    ('ThundeRatz',         'KIMAUÁNISSO'   ),
     ('RobotBulls',         'OMEGABOTZ'     ),
     ('FEG-Robótica',       'Uai!rrior'     ),
     ('FEG-Robótica',       'TRINCABOTZ'    ),
     ('MinervaBots',        'RobotBulls'    ),
     ('RobotBulls',         'OMEGABOTZ'     ),
-    ('MinervaBots',        'ThundeRatz'    ),
+    # ('MinervaBots',        'ThundeRatz'    ), Thunder nem foi na competição
     ('TRINCABOTZ',         'UERJBotz'      ),
     ('Phoenix',            'Uai!rrior'     ),
     ('RobotBulls',         'OMEGABOTZ'     ),
