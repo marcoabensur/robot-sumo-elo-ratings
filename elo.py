@@ -34,7 +34,7 @@ def read_competitions(path):
     # Read all .json files from given directory
     for filename in os.listdir(path):
         if filename.endswith(".json"):
-            with open(os.path.join(path, filename), "r") as f:
+            with open(os.path.join(path, filename), "rb") as f:
                 data = json.load(f)
                 all_competitions.append(data)
 
