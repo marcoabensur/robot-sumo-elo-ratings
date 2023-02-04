@@ -1,0 +1,183 @@
+{
+  "year": 2019,
+  "competitions": {
+    "competition": [
+      {
+        "name": "Iron Cup",
+        "date": "10-03-2019",
+        "link": "https://events.robocore.net/ironcup-2019/brackets/20",
+        "matches": [
+          ["MinervaBots",   "RioBotz"     ], 
+
+          ["OMEGABOTZ",     "MinervaBots" ],
+          ["DragBotz",      "UERJBotz"    ],
+          ["ThundeRatz",    "OMEGABOTZ"   ],
+          ["RobotBulls",    "UFBATS"      ],
+
+          ["UFBATS",        "RioBotz"     ],
+
+          ["OMEGABOTZ",     "DragBotz"    ],
+          ["ThundeRatz",    "RobotBulls"  ],
+
+          ["OMEGABOTZ",     "UFBATS"      ],
+          ["MinervaBots",   "UERJBotz"    ],
+
+          ["ThundeRatz",    "OMEGABOTZ"   ],
+
+          ["OMEGABOTZ",     "RobotBulls"  ],
+          ["MinervaBots",   "DragBotz"    ],
+
+          ["MinervaBots",   "OMEGABOTZ"   ],
+
+          ["MinervaBots",   "OMEGABOTZ"   ],
+
+          ["MinervaBots",   "ThundeRatz"  ],
+
+          ["ThundeRatz",    "MinervaBots" ]
+        ],
+
+        "matches-robots": [
+          ["Auterna",    "Coiote+"    ], 
+
+          ["Drakkar",    "Auterna"    ],
+          ["SIGMA",      "Sr.Tarugo"  ],
+          ["Moai",       "Itiban"     ],
+          ["Bullbasaur", "Thanos"     ],
+
+          ["Thanos",     "Coiote+"    ],
+
+          ["Drakkar",    "SIGMA"      ],
+          ["Moai",       "Bullbasaur" ],
+
+          ["Itiban",     "Thanos"     ],
+          ["Auterna",    "Sr.Tarugo"  ],
+
+          ["Moai",       "Drakkar"    ],
+
+          ["Itiban",     "Bullbasaur" ],
+          ["Auterna",    "SIGMA"      ],
+
+          ["Auterna",    "Itiban"     ],
+
+          ["Auterna",    "Drakkar"    ],
+
+          ["Auterna",    "Moai"       ],
+
+          ["Moai",       "Auterna"    ]
+          
+        ]
+      }, 
+      {
+        "name": "Iron Cup",
+        "date": "25-03-2019",
+        "link": "https://challonge.com/rsm_2019_sumo_3kg_autonomo",
+        "matches": [
+          ["KIMAUÁNISSO",      "FEG-Robótica" ],
+          ["OMEGABOTZ",        "KIMAUÁNISSO"  ],
+          ["KIMAUÁNISSO",      "FEG-Robótica" ],
+          ["OMEGABOTZ",        "RobotBulls"   ],
+          ["RobotBulls",       "KIMAUÁNISSO"  ],
+          ["RobotBulls",       "FEG-Robótica" ],
+          ["OMEGABOTZ",        "FEG-Robótica" ],
+          ["OMEGABOTZ",        "RobotBulls"   ],
+          ["KIMAUÁNISSO",      "OMEGABOTZ"    ],
+          ["KIMAUÁNISSO",      "OMEGABOTZ"    ]
+        ],
+
+        "matches-robots": [
+          ["Paçoca",      "Projeto-X"        ],
+          ["Itiban",      "Eleven"           ],
+          ["Paçoca",      "Metal-Garurumon"  ],
+          ["Drakkar",     "Bullbasaur"       ],
+          ["Bullbasaur",  "Eleven"           ],
+          ["Bullbasaur",  "Metal-Garurumon"  ],
+          ["Itiban",      "Projeto-X"        ],
+          ["Itiban",      "Bullbasaur"       ],
+          ["Paçoca",      "Drakkar"          ],
+          ["Paçoca",      "Drakkar"          ]
+        ]
+      }, 
+      {
+        "name": "Segundo Torneio SMILE",
+        "date": "25-05-2019",
+        "link": "https://challonge.com/smileAuto",
+        "matches": [
+          ["KIMAUÁNISSO",    "OMEGABOTZ"       ],
+          ["Equipe-Phoenix", "ThundeRatz"      ],
+          ["OMEGABOTZ",      "Equipe-Phoenix"  ],
+          ["FEG-Robótica",   "OMEGABOTZ"       ],
+          ["RobotBulls",     "FEG-Robótica"    ],
+          ["FEG-Robótica",   "Equipe-Paralela" ],
+          ["Trincabotz",     "MinervaBots"     ],
+          ["KIMAUÁNISSO",    "OMEGABOTZ"       ],
+          ["FEG-Robótica",   "French-Team"     ],
+          ["OMEGABOTZ",      "FEG-Robótica"    ],
+          ["RobotBulls",     "Valeska"         ],
+          ["FEG-Robótica",   "Trincabotz"      ],
+          ["FEG-Robótica",   "Equipe-Phoenix"  ],
+          ["KIMAUÁNISSO",    "OMEGABOTZ"       ],
+          ["KIMAUÁNISSO",    "RobotBulls"      ],
+          ["Equipe-Phoenix", "OMEGABOTZ"       ],
+          ["OMEGABOTZ",      "MinervaBots"     ],
+          ["ThundeRatz",     "French-Team"     ],
+          ["KIMAUÁNISSO",    "FEG-Robótica"    ],
+          ["FEG-Robótica",   "KIMAUÁNISSO"     ],
+          ["OMEGABOTZ",      "Equipe-Paralela" ],
+          ["OMEGABOTZ",      "FEG-Robótica"    ],
+          ["Valeska",        "Equipe-Phoenix"  ],
+          ["Valeska",        "Trincabotz"      ],
+          ["OMEGABOTZ",      "ThundeRatz"      ],
+          ["OMEGABOTZ",      "FEG-Robótica"    ],
+          ["OMEGABOTZ",      "Equipe-Phoenix"  ],
+          ["RobotBulls",     "OMEGABOTZ"       ],
+          ["OMEGABOTZ",      "Valeska"         ],
+          ["OMEGABOTZ",      "RobotBulls"      ],
+          ["OMEGABOTZ",      "FEG-Robótica"    ],
+          ["KIMAUÁNISSO",    "OMEGABOTZ"       ],
+          ["KIMAUÁNISSO",    "FEG-Robótica"    ],
+          ["KIMAUÁNISSO",    "OMEGABOTZ"       ],
+          ["KIMAUÁNISSO",    "FEG-Robótica" ]
+        ],
+
+        "matches-robots": [
+          ["Eleven",     "Shiryu"         ],
+          ["Golem",      "Moai"           ],
+          ["Itiban",     "Ronda"          ],
+          ["Hachiko",    "Drakkar"        ],
+          ["Bullbasaur", "Metalgarurumon" ],
+          ["Projeto-X",  "Kuro-Usagi"     ],
+          ["Hariyama",   "Auterna"        ],
+          ["Frank",      "Doge"           ],
+          ["Hachiko",    "Tobías"         ],
+          ["Itiban",     "Loba"           ],
+          ["Bullbasaur", "Valeska"        ],
+          ["Projeto-X",  "Hariyama"       ],
+          ["Hachiko",    "Golem"          ],
+          ["Frank",      "Itiban"         ],
+          ["Eleven",     "Bullbasaur"     ],
+          ["Ronda",      "Shiryu"         ],
+          ["Drakkar",    "Auterna"        ],
+          ["Moai",       "Tobías"         ],
+          ["Frank",      "Projeto-X"      ],
+          ["Hachiko",    "Eleven"         ],
+          ["Drakkar",    "Kuro-Usagi"     ],
+          ["Doge",       "Metalgarurumon" ],
+          ["Valeska",    "Ronda"          ],
+          ["Valeska",    "Hariyama"       ],
+          ["Itiban",     "Moai"           ],
+          ["Doge",       "Loba"           ],
+          ["Doge",       "Golem"          ],
+          ["Bullbasaur", "Drakkar"        ],
+          ["Itiban",     "Valeska"        ],
+          ["Doge",       "Bullbasaur"     ],
+          ["Doge",       "Projeto-X"      ],
+          ["Eleven",     "Itiban"         ],
+          ["Frank",      "Hachiko"        ],
+          ["Eleven",     "Doge"           ],
+          ["Eleven",     "Hachiko"        ]
+        ]
+      }
+      
+    ]
+  }
+}
