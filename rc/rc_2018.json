@@ -16,9 +16,9 @@
 
         "matches-robots": [
           ["Eleven",            "Stonehenge"                           ],
-          ["Moai RC",           "Paçoca"                               ],
+          ["Moai-RC",           "Paçoca"                               ],
           ["Paçoca",            "Stonehenge"                           ],
-          ["Eleven",            "Moai RC"                              ]
+          ["Eleven",            "Moai-RC"                              ]
         ]
       },
 
@@ -29,58 +29,58 @@
 
         "matches": [
           ["KIMAUÁNISSO",       "Uai!rrior"                            ],
-          ["Quantum team",      "DragonBotz"                           ],
-          ["ThundeRatz",        "SALVADOR VIPERS"                      ], 
-          ["MinervaBots",       "ESC - Escola de Robótica São Caetano" ], 
+          ["Quantum-team",      "DragonBotz"                           ],
+          ["ThundeRatz",        "SALVADOR-VIPERS"                      ], 
+          ["MinervaBots",       "ESC-Escola-de-Robótica-São-Caetano"   ], 
           ["UFFight",           "Phoenix"                              ], 
-          ["Imperial Botz",     "DragonBotz"                           ],
-          ["Imperial Botz",     "Bodetronic"                           ], 
+          ["Imperial-Botz",     "DragonBotz"                           ],
+          ["Imperial-Botz",     "Bodetronic"                           ], 
           ["KIMAUÁNISSO",       "Trincabotz"                           ],
-          ["ThundeRatz",        "Imperial Botz"                        ],
+          ["ThundeRatz",        "Imperial-Botz"                        ],
       
-          ["KIMAUÁNISSO",       "Quantum team"                         ], 
+          ["KIMAUÁNISSO",       "Quantum-team"                         ], 
           ["ThundeRatz",        "RobotBulls"                           ], 
-          ["MinervaBots",       "SALVADOR VIPERS"                      ], 
+          ["MinervaBots",       "SALVADOR-VIPERS"                      ], 
           ["UFFight",           "DragonBotz"                           ], 
-          ["Phoenix",           "Imperial Botz"                        ], 
-          ["Imperial Botz",     "OMEGABOTZ"                            ], 
+          ["Phoenix",           "Imperial-Botz"                        ], 
+          ["Imperial-Botz",     "OMEGABOTZ"                            ], 
           ["KIMAUÁNISSO",       "RioBotz"                              ], 
           ["ThundeRatz",        "OVERLOAD"                             ], 
       
           ["DragonBotz",        "Uai!rrior"                            ], 
           ["DragonBotz",        "OVERLOAD"                             ], 
-          ["SALVADOR VIPERS",   "RioBotz"                              ], 
-          ["OMEGABOTZ",         "ESC - Escola de Robótica São Caetano" ], 
-          ["Imperial Botz",     "Phoenix"                              ], 
-          ["SALVADOR VIPERS",   "Bodetronic"                           ], 
+          ["SALVADOR-VIPERS",   "RioBotz"                              ], 
+          ["OMEGABOTZ",         "ESC-Escola-de-Robótica-São-Caetano"   ], 
+          ["Imperial-Botz",     "Phoenix"                              ], 
+          ["SALVADOR-VIPERS",   "Bodetronic"                           ], 
           ["Trincabotz",        "RobotBulls"                           ], 
-          ["Quantum team",      "Imperial Botz"                        ], 
+          ["Quantum-team",      "Imperial-Botz"                        ], 
       
           ["ThundeRatz",        "KIMAUÁNISSO"                          ], 
           ["MinervaBots",       "UFFight"                              ], 
-          ["Phoenix",           "Imperial Botz"                        ], 
+          ["Phoenix",           "Imperial-Botz"                        ], 
           ["KIMAUÁNISSO",       "ThundeRatz"                           ], 
       
-          ["SALVADOR VIPERS",   "DragonBotz"                           ], 
-          ["Imperial Botz",     "OMEGABOTZ"                            ], 
-          ["SALVADOR VIPERS",   "DragonBotz"                           ], 
-          ["Trincabotz",        "Quantum team"                         ], 
+          ["SALVADOR-VIPERS",   "DragonBotz"                           ], 
+          ["Imperial-Botz",     "OMEGABOTZ"                            ], 
+          ["SALVADOR-VIPERS",   "DragonBotz"                           ], 
+          ["Trincabotz",        "Quantum-team"                         ], 
       
           ["ThundeRatz",        "MinervaBots"                          ], 
           ["KIMAUÁNISSO",       "Phoenix"                              ], 
 
-          ["SALVADOR VIPERS",   "UFFight"                              ], 
-          ["KIMAUÁNISSO",       "Imperial Botz"                        ], 
-          ["ThundeRatz",        "SALVADOR VIPERS"                      ], 
-          ["Imperial Botz",     "Trincabotz"                           ], 
+          ["SALVADOR-VIPERS",   "UFFight"                              ], 
+          ["KIMAUÁNISSO",       "Imperial-Botz"                        ], 
+          ["ThundeRatz",        "SALVADOR-VIPERS"                      ], 
+          ["Imperial-Botz",     "Trincabotz"                           ], 
       
           ["ThundeRatz",        "KIMAUÁNISSO"                          ], 
       
-          ["KIMAUÁNISSO",       "SALVADOR VIPERS"                      ], 
-          ["Imperial Botz",     "ThundeRatz"                           ], 
+          ["KIMAUÁNISSO",       "SALVADOR-VIPERS"                      ], 
+          ["Imperial-Botz",     "ThundeRatz"                           ], 
       
           ["Phoenix",           "KIMAUÁNISSO"                          ], 
-          ["MinervaBots",       "Imperial Botz"                        ], 
+          ["MinervaBots",       "Imperial-Botz"                        ], 
       
           ["Phoenix",           "MinervaBots"                          ], 
       
@@ -90,59 +90,59 @@
           ],
 
         "matches-robots": [
-          ["Eleven",            "Supra Sumo"       ],
+          ["Eleven",            "Supra-Sumo"       ],
           ["Gordox",            "MiniZord"         ],
-          ["Stonehenge",        "Traga Vasilha"    ],
+          ["Stonehenge",        "Traga-Vasilha"    ],
           ["Valeska",           "Rampinha"         ],
           ["Paladino",          "Golem"            ],
-          ["Harry Porco",       "Ninjai"           ],
-          ["Mr. PIG",           "Tomoe"            ],
+          ["Harry-Porco",       "Ninjai"           ],
+          ["Mr.PIG",            "Tomoe"            ],
           ["CaiPiloto",         "Hariyama"         ],
-          ["Moai RC",           "Porco Aranha"     ],
+          ["Moai-RC",           "Porco-Aranha"     ],
       
           ["Eleven",            "Gordox"           ],
           ["Stonehenge",        "HeavyBull"        ],
           ["Valeska",           "Môzóvs"           ],
           ["Paladino",          "Killer"           ],
-          ["Ronda",             "Harry Porco"      ],
-          ["Mr. PIG",           "Fanático"         ],
+          ["Ronda",             "Harry-Porco"      ],
+          ["Mr.PIG",            "Fanático"         ],
           ["CaiPiloto",         "C3"               ],
-          ["Moai RC",           "Clayton"          ],
+          ["Moai-RC",           "Clayton"          ],
       
-          ["MiniZord",          "Supra Sumo"       ],
+          ["MiniZord",          "Supra-Sumo"       ],
           ["MiniZord",          "Clayton"          ],
-          ["Traga Vasilha",     "C3"               ],
+          ["Traga-Vasilha",     "C3"               ],
           ["Fanático",          "Rampinha"         ],
-          ["Harry Porco",       "Golem"            ],
+          ["Harry-Porco",       "Golem"            ],
           ["Môzóvs",            "Tomoe"            ],
           ["Hariyama",          "HeavyBull"        ],
-          ["Gordox",            "Porco Aranha"     ],
+          ["Gordox",            "Porco-Aranha"     ],
       
           ["Stonehenge",        "Eleven"           ],
           ["Valeska",           "Paladino"         ],
-          ["Ronda",             "Mr. PIG"          ],
-          ["CaiPiloto",         "Moai RC"          ],
+          ["Ronda",             "Mr.PIG"           ],
+          ["CaiPiloto",         "Moai-RC"          ],
       
-          ["Traga Vasiha",      "MiniZord"         ],
-          ["Harry Porco",       "Fanático"         ],
+          ["Traga-Vasilha",     "MiniZord"         ],
+          ["Harry-Porco",       "Fanático"         ],
           ["Môzóvs",            "Killer"           ],
           ["Hariyama",          "Gordox"           ],
       
           ["Stonehenge",        "Valeska"          ],
           ["CaiPiloto",         "Ronda"            ],
       
-          ["Traga Vasilha",     "Paladino"         ],
-          ["Eleven",            "Harry Porco"      ],
-          ["Moai RC",           "Môzóvs"           ],
-          ["Mr. PIG",           "Hariyama"         ],
+          ["Traga-Vasilha",     "Paladino"         ],
+          ["Eleven",            "Harry-Porco"      ],
+          ["Moai-RC",           "Môzóvs"           ],
+          ["Mr.PIG",            "Hariyama"         ],
       
           ["Stonehenge",        "CaiPiloto"        ],
       
-          ["Eleven",            "Traga Vasilha"    ],
-          ["Mr. PIG",           "Moai RC"          ],
+          ["Eleven",            "Traga-Vasilha"    ],
+          ["Mr.PIG",            "Moai-RC"          ],
 
           ["Ronda",             "Eleven"           ],
-          ["Valeska",           "Mr. PIG"          ],
+          ["Valeska",           "Mr.PIG"           ],
       
           ["Ronda",             "Valeska"          ],
       
@@ -158,7 +158,7 @@
         "link": "https://challonge.com/pt_BR/rbbRC",
 
         "matches": [
-          ["KIMAUÁNISSO",       "ESC - Escola de Robótica São Caetano" ], 
+          ["KIMAUÁNISSO",       "ESC-Escola-de-Robótica-São-Caetano"   ], 
           ["Phoenix",           "MinervaBots"                          ], 
           ["ThundeRatz",        "OMEGABOTZ"                            ], 
           ["KIMAUÁNISSO",       "OMEGABOTZ"                            ],
@@ -166,7 +166,7 @@
           ["ThundeRatz",        "Phoenix"                              ], 
       
           ["MinervaBots",       "OMEGABOTZ"                            ], 
-          ["OMEGABOTZ",         "ESC - Escola de Robótica São Caetano" ], 
+          ["OMEGABOTZ",         "ESC-Escola-de-Robótica-São-Caetano"   ], 
           ["KIMAUÁNISSO",       "MinervaBots"                          ], 
           ["Phoenix",           "OMEGABOTZ"                            ], 
 
@@ -183,28 +183,28 @@
           ],
 
         "matches-robots": [
-          ["Paçoca RC",   "Poco-Loco" ],  
+          ["Paçoca-RC",   "Poco-Loco" ],  
           ["Ronda",       "Valeska"   ],
-          ["Moai RC",     "Zerum"     ],
-          ["Eleven RC",   "Fanático"  ],
-          ["Golem",       "Paçoca RC" ],
+          ["Moai-RC",     "Zerum"     ],
+          ["Eleven-RC",   "Fanático"  ],
+          ["Golem",       "Paçoca-RC" ],
           ["Stonehenge",  "Ronda"     ],
       
           ["Valeska",     "Zerum"     ],
           ["Fanático",    "Poco-Loco" ],
-          ["Paçoca RC",   "Valeska"   ],
+          ["Paçoca-RC",   "Valeska"   ],
           ["Ronda",       "Fanático"  ],
 
-          ["Moai RC",     "Golem"     ],
-          ["Stonehenge",  "Eleven RC" ],
+          ["Moai-RC",     "Golem"     ],
+          ["Stonehenge",  "Eleven-RC" ],
           
-          ["Paçoca RC",   "Golem"     ],
+          ["Paçoca-RC",   "Golem"     ],
       
-          ["Paçoca RC",   "Moai RC"   ],
+          ["Paçoca-RC",   "Moai-RC"   ],
       
-          ["Paçoca RC",   "Stonehenge"],
+          ["Paçoca-RC",   "Stonehenge"],
       
-          ["Stonehenge",  "Paçoca RC" ] 
+          ["Stonehenge",  "Paçoca-RC" ] 
         ]
       },
 
@@ -232,18 +232,18 @@
 
         "matches-robots": [
           ["Blanka",         "Ronda"        ], 
-          ["Eleven RC",      "Zerum"        ], 
+          ["Eleven-RC",      "Zerum"        ], 
           ["Golem",          "Itiban"       ], 
-          ["Paçoca RC",      "Drakkar"      ], 
+          ["Paçoca-RC",      "Drakkar"      ], 
 
           ["Zerum",          "Ronda"        ], 
 
-          ["Eleven RC",      "Blanka"       ], 
-          ["Paçoca RC",      "Golem"        ],   
+          ["Eleven-RC",      "Blanka"       ], 
+          ["Paçoca-RC",      "Golem"        ],   
 
           ["Zerum",          "Golem"        ], 
 
-          ["Paçoca RC",      "Drakkar"      ]
+          ["Paçoca-RC",      "Drakkar"      ]
 
         ]
       }
