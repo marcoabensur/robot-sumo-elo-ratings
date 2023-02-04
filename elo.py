@@ -94,12 +94,16 @@ def print_header(header):
 
 def main():
 
-    if len(sys.argv) != 3:
-        print('Usage: python3 elo.py <folder_path(auto/rc)> <print_logs(true/false)>')
+    if len(sys.argv) != 4:
+        print('Usage: python3 elo.py <folder_path(auto/rc)> <robot/team> <print_logs(true/false)>')
         sys.exit()
 
     folder_name = sys.argv[1]
-    print_logs = sys.argv[2] == "true"
+    print_logs = sys.argv[3] == "true"
+
+    rating_type = 'matches'
+    if (sys.argv[2] == "robot"):
+        rating_type = 'matches-robots'
 
     all_competitions = read_competitions(folder_name)
     all_matches = []
@@ -119,7 +123,7 @@ def main():
         year_wins_and_losses = {}
 
         for competition in year_competitions:
-            matches = competition['matches']
+            matches = competition[rating_type]
 
             year_wins_and_losses = update_wins_losses(matches, year_wins_and_losses)
             complete_wins_and_losses = update_wins_losses(matches, complete_wins_and_losses)
