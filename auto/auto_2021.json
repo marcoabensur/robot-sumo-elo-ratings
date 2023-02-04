@@ -5,7 +5,7 @@
       {
         "name": "4º Tech Challenge",
         "date": "21-11-2021",
-        "link": "https://challonge.com/TC2021_AUTO/log",
+        "link": "https://challonge.com/TC2021_AUTO",
         "matches": [
           ["KIMAUÁNISSO",      "OMEGABOTZ"        ], 
           ["ThundeRatz",       "Equipe-Paralela"  ], 
@@ -24,20 +24,20 @@
         ],
 
         "matches-robots": [
-          ["Charizard",                 "RiscaFaca"                ], 
-          ["Moai",                      "KuroUsagi"                ], 
-          ["Hachiko",                   "Shiryu"                   ], 
-          ["Eleven",                    "Shiryu"                   ], 
-          ["Bullvidoso-Descontrolado",  "Hachiko"                  ], 
-          ["Eleven",                    "Bullvidoso-Descontrolado" ], 
-          ["KuroUsagi",                 "RiscaFaca"                ], 
-          ["Moai",                      "Charizard"                ], 
-          ["KuroUsagi",                 "Bullvidoso-Descontrolado" ], 
-          ["Hachiko",                   "Charizard"                ], 
-          ["KuroUsagi",                 "Hachiko"                  ], 
-          ["Eleven",                    "Moai"                     ], 
-          ["Moai",                      "KuroUsagi"                ], 
-          ["Eleven",                    "Moai"                     ]
+          ["Charizard",                  "RiscaFaca"                 ], 
+          ["Moai",                       "Kuro-Usagi"                ], 
+          ["Hachiko",                    "Shiryu"                    ], 
+          ["Eleven",                     "Shiryu"                    ], 
+          ["Bullvidoso-Descontrolado",   "Hachiko"                   ], 
+          ["Eleven",                     "Bullvidoso-Descontrolado"  ], 
+          ["Kuro-Usagi",                 "RiscaFaca"                 ], 
+          ["Moai",                       "Charizard"                 ], 
+          ["Kuro-Usagi",                 "Bullvidoso-Descontrolado"  ], 
+          ["Hachiko",                    "Charizard"                 ], 
+          ["Kuro-Usagi",                 "Hachiko"                   ], 
+          ["Eleven",                     "Moai"                      ], 
+          ["Moai",                       "Kuro-Usagi"                ], 
+          ["Eleven",                     "Moai"                      ]
         ]
       },
       {
@@ -45,39 +45,39 @@
         "date": "19-12-2021",
         "link": "https://challonge.com/rsm2021_3kauto",
         "matches": [
-          ["RobotBulls",           "EquipePhoenix"         ], 
-          ["ThundeRatz",           "OMEGABOTZ"             ],
-          ["Equipe-Paralela",      "SALVADORVIPERS"        ],
-          ["OMEGABOTZ",            "EquipePhoenix"         ],
-          ["ThundeRatz",           "RobotBulls"            ], 
-          ["Equipe-Paralela",      "OMEGABOTZ"             ], 
-          ["SALVADORVIPERS",       "EquipePhoenix"         ],
-          ["EquipePhoenix",        "OMEGABOTZ"             ],
-          ["OMEGABOTZ",            "EquipePhoenix"         ],
-          ["RobotBulls",           "SALVADORVIPERS"        ], 
-          ["Equipe-Paralela",      "ThundeRatz"            ], 
-          ["RobotBulls",           "OMEGABOTZ"             ], 
-          ["ThundeRatz",           "RobotBulls"            ], 
-          ["ThundeRatz",           "Equipe-Paralela"       ],
-          ["ThundeRatz",           "Equipe-Paralela"       ]
+          ["RobotBulls",            "Equipe-Phoenix"         ], 
+          ["ThundeRatz",            "OMEGABOTZ"              ],
+          ["Equipe-Paralela",       "SALVADORVIPERS"         ],
+          ["OMEGABOTZ",             "Equipe-Phoenix"         ],
+          ["ThundeRatz",            "RobotBulls"             ], 
+          ["Equipe-Paralela",       "OMEGABOTZ"              ], 
+          ["SALVADORVIPERS",        "Equipe-Phoenix"         ],
+          ["Equipe-Phoenix",        "OMEGABOTZ"              ],
+          ["OMEGABOTZ",             "Equipe-Phoenix"         ],
+          ["RobotBulls",            "SALVADORVIPERS"         ], 
+          ["Equipe-Paralela",       "ThundeRatz"             ], 
+          ["RobotBulls",            "OMEGABOTZ"              ], 
+          ["ThundeRatz",            "RobotBulls"             ], 
+          ["ThundeRatz",            "Equipe-Paralela"        ],
+          ["ThundeRatz",            "Equipe-Paralela"        ]
         ],
 
         "matches-robots": [
           ["Bullvidoso-Descontrolado",   "Mooncake"                            ], 
           ["Moai",                       "Shiryu"                              ],
-          ["KuroUsagi",                  "Traga-a-Vasilha"                     ],
+          ["Kuro-Usagi",                  "Traga-a-Vasilha"                    ],
           ["RiscaFaca",                  "Mooncake"                            ],
           ["Moai",                       "Bullvidoso-Descontrolado"            ], 
-          ["KuroUsagi",                  "RiscaFaca"                           ], 
+          ["Kuro-Usagi",                  "RiscaFaca"                          ], 
           ["Traga-a-Vasilha",            "Mooncake"                            ],
           ["Mooncake",                   "Shiny"                               ],
           ["RiscaFaca",                  "Mooncake"                            ],
           ["Bullvidoso-Descontrolado",   "Traga-a-Vasilha"                     ], 
-          ["KuroUsagi",                  "Moai"                                ], 
+          ["Kuro-Usagi",                  "Moai"                               ], 
           ["Bullvidoso-Descontrolado",   "RiscaFaca"                           ], 
           ["Moai",                       "Bullvidoso-Descontrolado"            ], 
-          ["Moai",                       "KuroUsagi"                           ],
-          ["Moai",                       "KuroUsagi"                           ]
+          ["Moai",                       "Kuro-Usagi"                          ],
+          ["Moai",                       "Kuro-Usagi"                          ]
         ]
       }
     ]

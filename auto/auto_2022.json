@@ -19,15 +19,15 @@
         ],
 
         "matches-robots": [
-          ["KuroUsagi",        "Raijū"          ], 
-          ["Moai",             "Charizard"      ],
-          ["Eleven",           "KuroUsagi"      ],
-          ["Moai",             "RiscaFaca"      ],
-          ["RiscaFaca",        "Raijū"          ],
-          ["Charizard",        "KuroUsagi"      ],
-          ["Eleven",           "Moai"           ],
-          ["Charizard",        "RiscaFaca"      ],
-          ["Charizard",        "Moai"           ]
+          ["Kuro-Usagi",        "Raijū"           ], 
+          ["Moai",              "Charizard"       ],
+          ["Eleven",            "Kuro-Usagi"      ],
+          ["Moai",              "RiscaFaca"       ],
+          ["RiscaFaca",         "Raijū"           ],
+          ["Charizard",         "Kuro-Usagi"      ],
+          ["Eleven",            "Moai"            ],
+          ["Charizard",         "RiscaFaca"       ],
+          ["Charizard",         "Moai"            ]
         ]
       },
       {
@@ -58,23 +58,23 @@
         "matches-robots": [
           ["Eleven",           "Bullbasauro-Descontrolado"  ], 
           ["RiscaFaca",        "Bullbasauro-Descontrolado"  ],
-          ["Eleven",           "RiscaFaca"                ],
-          ["SIRE-UB",          "Charizard"                ],
-          ["Raijū",            "Charizard"                ],
-          ["Raijū",            "SIRE-UB"                  ],
-          ["Hariyama",         "Moai"                     ],
-          ["Hariyama",         "Bullbasauro-Descontrolado" ],
-          ["Moai",             "Bullbasauro-Descontrolado" ],
-          ["SIRE-UB",          "RiscaFaca"                ],
-          ["Moai",             "Hariyama"                 ],
-          ["Eleven",           "SIRE-UB"                  ],
-          ["Raijū",            "Moai"                     ],
-          ["Hariyama",         "SIRE-UB"                  ],
-          ["Moai",             "RiscaFaca"                ],
-          ["Hariyama",         "Moai"                     ],
-          ["Eleven",           "Raijū"                    ],
-          ["Raijū",            "Hariyama"                 ],
-          ["Eleven",           "Raijū"                    ]
+          ["Eleven",           "RiscaFaca"                  ],
+          ["SIRE-UB",          "Charizard"                  ],
+          ["Raijū",            "Charizard"                  ],
+          ["Raijū",            "SIRE-UB"                    ],
+          ["Hariyama",         "Moai"                       ],
+          ["Hariyama",         "Bullbasauro-Descontrolado"  ],
+          ["Moai",             "Bullbasauro-Descontrolado"  ],
+          ["SIRE-UB",          "RiscaFaca"                  ],
+          ["Moai",             "Hariyama"                   ],
+          ["Eleven",           "SIRE-UB"                    ],
+          ["Raijū",            "Moai"                       ],
+          ["Hariyama",         "SIRE-UB"                    ],
+          ["Moai",             "RiscaFaca"                  ],
+          ["Hariyama",         "Moai"                       ],
+          ["Eleven",           "Raijū"                      ],
+          ["Raijū",            "Hariyama"                   ],
+          ["Eleven",           "Raijū"                      ]
         ]
       }
       ,
@@ -102,23 +102,23 @@
           ["ThundeRatz",       "KIMAUÁNISSO"     ]
         ],
         "matches-robots": [
-          ["Raijū",                     "Atena"                     ], 
-          ["Raijū",                     "KuroUsagi"                 ],
-          ["RiscaFaca",                 "Atena"                     ],
-          ["Eleven",                    "RiscaFaca"                 ],
-          ["Galena",                    "Bullbasauro-Descontrolado" ],
-          ["Paçoca",                    "Valeska"                   ],
-          ["Eleven",                    "Raijū"                     ],
-          ["KuroUsagi",                 "Valeska"                   ],
-          ["Bullbasauro-Descontrolado", "Kuro Usagi"                ],
-          ["Galena",                    "Paçoca"                    ],
-          ["Galena",                    "Eleven"                    ],
-          ["Raijū",                     "Bullbasauro-Descontrolado" ],
-          ["Paçoca",                    "RiscaFaca"                 ],
-          ["Eleven",                    "Galena"                    ],
-          ["Eleven",                    "Galena"                    ],
-          ["Paçoca",                    "Raijū"                     ],
-          ["Galena",                    "Eleven"                    ]
+          ["Raijū",                      "Atena"                      ], 
+          ["Raijū",                      "Kuro-Usagi"                 ],
+          ["RiscaFaca",                  "Atena"                      ],
+          ["Eleven",                     "RiscaFaca"                  ],
+          ["Galena",                     "Bullbasauro-Descontrolado"  ],
+          ["Paçoca",                     "Valeska"                    ],
+          ["Eleven",                     "Raijū"                      ],
+          ["Kuro-Usagi",                 "Valeska"                    ],
+          ["Bullbasauro-Descontrolado",  "Kuro-Usagi"                 ],
+          ["Galena",                     "Paçoca"                     ],
+          ["Galena",                     "Eleven"                     ],
+          ["Raijū",                      "Bullbasauro-Descontrolado"  ],
+          ["Paçoca",                     "RiscaFaca"                  ],
+          ["Eleven",                     "Galena"                     ],
+          ["Eleven",                     "Galena"                     ],
+          ["Paçoca",                     "Raijū"                      ],
+          ["Galena",                     "Eleven"                     ]
         ]
       },
       {
@@ -126,35 +126,35 @@
         "date": "16-10-2022",
         "link": "https://events.robocore.net/ironcup-2022/brackets/20",
         "matches": [
-          ["FEG-Robótica",            "RobotBulls"            ],
-          ["Uai!rrior",               "OMEGABOTZ"             ],
-          ["RobotBulls",              "UERJBotz"              ],
-          ["OMEGABOTZ",               "EquipePhoenix"         ],
+          ["FEG-Robótica",              "RobotBulls"             ],
+          ["Uai!rrior",                 "OMEGABOTZ"              ],
+          ["RobotBulls",                "UERJBotz"               ],
+          ["OMEGABOTZ",                 "Equipe-Phoenix"         ],
 
-          ["FEG-Robótica",             "Uai!rrior"           ],
-          ["FEG-Robótica",             "Trincabotz"          ],
-          ["RobotBulls",               "MinervaBots"         ],
+          ["FEG-Robótica",              "Uai!rrior"              ],
+          ["FEG-Robótica",              "Trincabotz"             ],
+          ["RobotBulls",                "MinervaBots"            ],
 
-          ["RobotBulls",               "OMEGABOTZ"           ],
+          ["RobotBulls",                "OMEGABOTZ"              ],
 
-          ["Trincabotz",               "UERJBotz"            ],
-          ["EquipePhoenix",            "Uai!rrior"           ],
+          ["Trincabotz",                "UERJBotz"               ],
+          ["Equipe-Phoenix",            "Uai!rrior"              ],
 
-          ["OMEGABOTZ",                "RobotBulls"          ],
+          ["OMEGABOTZ",                 "RobotBulls"             ],
 
-          ["RobotBulls",               "MinervaBots"         ],
-          ["EquipePhoenix",            "Trincabotz"          ],
+          ["RobotBulls",                "MinervaBots"            ],
+          ["Equipe-Phoenix",            "Trincabotz"             ],
 
-          ["OMEGABOTZ",                "FEG-Robótica"        ],
+          ["OMEGABOTZ",                 "FEG-Robótica"           ],
 
-          ["FEG-Robótica",             "EquipePhoenix"       ],
+          ["FEG-Robótica",              "Equipe-Phoenix"         ],
 
-          ["RobotBulls",               "FEG-Robótica"        ],
+          ["RobotBulls",                "FEG-Robótica"           ],
 
-          ["RobotBulls",               "FEG-Robótica"        ],
+          ["RobotBulls",                "FEG-Robótica"           ],
 
-          ["RobotBulls",               "OMEGABOTZ"           ], 
-          ["RobotBulls",               "OMEGABOTZ"           ]
+          ["RobotBulls",                "OMEGABOTZ"              ], 
+          ["RobotBulls",                "OMEGABOTZ"              ]
 
         ],
         "matches-robots": [
@@ -235,46 +235,46 @@
           ["Sumomasters",        "Equipe-Paralela"  ]
         ],
         "matches-robots": [
-          ["Eleven",                            "Bruxão"                    ],
-          ["KuroUsagi",                         "Bullbasauro-Descontrolado" ],
-          ["Locomotiva",                        "Hariyama"                  ],
-          ["Masakrator",                        "Galena"                    ],
-          ["Paçoca",                            "RiscaFaca"                 ],
-          ["Aldebaran+",                        "Javelin"                   ],
-          ["Shiny",                             "Bullvidoso+Controlado"     ],
+          ["Eleven",                             "Bruxão"                     ],
+          ["Kuro-Usagi",                         "Bullbasauro-Descontrolado"  ],
+          ["Locomotiva",                         "Hariyama"                   ],
+          ["Masakrator",                         "Galena"                     ],
+          ["Paçoca",                             "RiscaFaca"                  ],
+          ["Aldebaran+",                         "Javelin"                    ],
+          ["Shiny",                              "Bullvidoso+Controlado"      ],
           
-          ["KuroUsagi",                         "Eleven"                    ],
-          ["Masakrator",                        "Locomotiva"                ],
-          ["Paçoca",                            "Aldebaran+"                ],
-          ["Moai",                              "Shiny"                     ],
+          ["Kuro-Usagi",                         "Eleven"                     ],
+          ["Masakrator",                         "Locomotiva"                 ],
+          ["Paçoca",                             "Aldebaran+"                 ],
+          ["Moai",                               "Shiny"                      ],
 
-          ["Bullbasauro-Descontrolado",         "Bruxão"                    ],
-          ["Hariyama",                          "Galena"                    ],
-          ["RiscaFaca",                         "Javelin"                   ],
+          ["Bullbasauro-Descontrolado",          "Bruxão"                     ],
+          ["Hariyama",                           "Galena"                     ],
+          ["RiscaFaca",                          "Javelin"                    ],
 
-          ["Bullbasauro-Descontrolado",         "Shiny"                     ],
-          ["Aldebaran+",                        "Hariyama"                  ],
-          ["RiscaFaca",                         "Locomotiva"                ],
-          ["Eleven",                            "Bullvidoso+Controlado"     ],
+          ["Bullbasauro-Descontrolado",          "Shiny"                      ],
+          ["Aldebaran+",                         "Hariyama"                   ],
+          ["RiscaFaca",                          "Locomotiva"                 ],
+          ["Eleven",                             "Bullvidoso+Controlado"      ],
 
-          ["KuroUsagi",                         "Masakrator"                ],
-          ["Paçoca",                            "Moai"                      ],
+          ["Kuro-Usagi",                         "Masakrator"                 ],
+          ["Paçoca",                             "Moai"                       ],
 
-          ["Bullbasauro-Descontrolado",         "Aldebaran+"                ],
-          ["Eleven",                            "RiscaFaca"                 ],
+          ["Bullbasauro-Descontrolado",          "Aldebaran+"                 ],
+          ["Eleven",                             "RiscaFaca"                  ],
 
-          ["KuroUsagi",                         "Paçoca"                    ],
+          ["Kuro-Usagi",                         "Paçoca"                     ],
 
-          ["Bullbasauro-Descontrolado",         "Moai"                      ],
-          ["Masakrator",                        "Eleven"                    ],
+          ["Bullbasauro-Descontrolado",          "Moai"                       ],
+          ["Masakrator",                         "Eleven"                     ],
 
-          ["Masakrator",                        "Bullbasauro-Descontrolado" ],
+          ["Masakrator",                         "Bullbasauro-Descontrolado"  ],
 
-          ["Masakrator",                        "Paçoca"                    ],
+          ["Masakrator",                         "Paçoca"                     ],
 
 
-          ["Masakrator",                        "KuroUsagi"                 ],
-          ["Masakrator",                        "KuroUsagi"                 ]
+          ["Masakrator",                         "Kuro-Usagi"                 ],
+          ["Masakrator",                         "Kuro-Usagi"                 ]
         ]
       }
     ]
