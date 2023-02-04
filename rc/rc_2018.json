@@ -90,7 +90,7 @@
           ],
 
         "matches-robots": [
-          ["Eleven",            "Supra  Sumo"      ],
+          ["Eleven",            "Supra Sumo"       ],
           ["Gordox",            "MiniZord"         ],
           ["Stonehenge",        "Traga Vasilha"    ],
           ["Valeska",           "Rampinha"         ],
@@ -105,14 +105,14 @@
           ["Valeska",           "Môzóvs"           ],
           ["Paladino",          "Killer"           ],
           ["Ronda",             "Harry Porco"      ],
-          ["Mr. PIG",           "Fanatico"         ],
+          ["Mr. PIG",           "Fanático"         ],
           ["CaiPiloto",         "C3"               ],
           ["Moai RC",           "Clayton"          ],
       
           ["MiniZord",          "Supra Sumo"       ],
           ["MiniZord",          "Clayton"          ],
           ["Traga Vasilha",     "C3"               ],
-          ["Fanatico",          "Rampinha"         ],
+          ["Fanático",          "Rampinha"         ],
           ["Harry Porco",       "Golem"            ],
           ["Môzóvs",            "Tomoe"            ],
           ["Hariyama",          "HeavyBull"        ],
@@ -124,7 +124,7 @@
           ["CaiPiloto",         "Moai RC"          ],
       
           ["Traga Vasiha",      "MiniZord"         ],
-          ["Harry Porco",       "Fanatico"         ],
+          ["Harry Porco",       "Fanático"         ],
           ["Môzóvs",            "Killer"           ],
           ["Hariyama",          "Gordox"           ],
       
@@ -150,8 +150,103 @@
       
           ["Stonehenge",        "CaiPiloto"        ]
         ]
-      }
+      },
 
+      {
+        "name": "Torneio Red Bull Basement",
+        "date": "08/09/2018",
+        "link": "https://challonge.com/pt_BR/rbbRC",
+
+        "matches": [
+          ["KIMAUÁNISSO",       "ESC - Escola de Robótica São Caetano" ], 
+          ["Phoenix",           "MinervaBots"                          ], 
+          ["ThundeRatz",        "OMEGABOTZ"                            ], 
+          ["KIMAUÁNISSO",       "OMEGABOTZ"                            ],
+          ["Phoenix",           "KIMAUÁNISSO"                          ], 
+          ["ThundeRatz",        "Phoenix"                              ], 
+      
+          ["MinervaBots",       "OMEGABOTZ"                            ], 
+          ["OMEGABOTZ",         "ESC - Escola de Robótica São Caetano" ], 
+          ["KIMAUÁNISSO",       "MinervaBots"                          ], 
+          ["Phoenix",           "OMEGABOTZ"                            ], 
+
+          ["ThundeRatz",        "Phoenix"                              ], 
+          ["ThundeRatz",        "KIMAUÁNISSO"                          ], 
+          
+          ["KIMAUÁNISSO",       "Phoenix"                              ], 
+      
+          ["KIMAUÁNISSO",       "ThundeRatz"                           ], 
+      
+          ["KIMAUÁNISSO",       "ThundeRatz"                           ],
+      
+          ["ThundeRatz",        "KIMAUÁNISSO"                          ]
+          ],
+
+        "matches-robots": [
+          ["Paçoca RC",   "Poco-Loco" ],  
+          ["Ronda",       "Valeska"   ],
+          ["Moai RC",     "Zerum"     ],
+          ["Eleven RC",   "Fanático"  ],
+          ["Golem",       "Paçoca RC" ],
+          ["Stonehenge",  "Ronda"     ],
+      
+          ["Valeska",     "Zerum"     ],
+          ["Fanático",    "Poco-Loco" ],
+          ["Paçoca RC",   "Valeska"   ],
+          ["Ronda",       "Fanático"  ],
+
+          ["Moai RC",     "Golem"     ],
+          ["Stonehenge",  "Eleven RC" ],
+          
+          ["Paçoca RC",   "Golem"     ],
+      
+          ["Paçoca RC",   "Moai RC"   ],
+      
+          ["Paçoca RC",   "Stonehenge"],
+      
+          ["Stonehenge",  "Paçoca RC" ] 
+        ]
+      },
+
+      {
+        "name": "1° Torneio Bosch",
+        "date": "10/10/2018",
+        "link": "https://challonge.com/pt_BR/boschRC",
+
+        "matches": [
+          ["OMEGABOTZ",        "Phoenix"        ], 
+          ["KIMAUÁNISSO",      "OMEGABOTZ"      ], 
+          ["Phoenix",          "OMEGABOTZ"      ], 
+          ["KIMAUÁNISSO",      "OMEGABOTZ"      ], 
+
+          ["OMEGABOTZ",        "Phoenix"        ], 
+
+          ["KIMAUÁNISSO",      "OMEGABOTZ"      ], 
+          ["KIMAUÁNISSO",      "Phoenix"        ],   
+
+          ["OMEGABOTZ",        "Phoenix"        ], 
+
+          ["KIMAUÁNISSO",      "OMEGABOTZ"      ]
+
+          ],
+
+        "matches-robots": [
+          ["Blanka",         "Ronda"        ], 
+          ["Eleven RC",      "Zerum"        ], 
+          ["Golem",          "Itiban"       ], 
+          ["Paçoca RC",      "Drakkar"      ], 
+
+          ["Zerum",          "Ronda"        ], 
+
+          ["Eleven RC",      "Blanka"       ], 
+          ["Paçoca RC",      "Golem"        ],   
+
+          ["Zerum",          "Golem"        ], 
+
+          ["Paçoca RC",      "Drakkar"      ]
+
+        ]
+      }
     ]
   }
 }
