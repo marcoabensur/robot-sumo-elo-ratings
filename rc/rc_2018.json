@@ -20,7 +20,138 @@
           ["Paçoca",            "Stonehenge"                           ],
           ["Eleven",            "Moai RC"                              ]
         ]
+      },
+
+      {
+        "name": "Winter Challenge XIV",
+        "date": "08/07/2018",
+        "link": "https://events.robocore.net/wc14/brackets/21",
+
+        "matches": [
+          ["KIMAUÁNISSO",       "Uai!rrior"                            ],
+          ["Quantum team",      "DragonBotz"                           ],
+          ["ThundeRatz",        "SALVADOR VIPERS"                      ], 
+          ["MinervaBots",       "ESC - Escola de Robótica São Caetano" ], 
+          ["UFFight",           "Phoenix"                              ], 
+          ["Imperial Botz",     "DragonBotz"                           ],
+          ["Imperial Botz",     "Bodetronic"                           ], 
+          ["KIMAUÁNISSO",       "Trincabotz"                           ],
+          ["ThundeRatz",        "Imperial Botz"                        ],
+      
+          ["KIMAUÁNISSO",       "Quantum team"                         ], 
+          ["ThundeRatz",        "RobotBulls"                           ], 
+          ["MinervaBots",       "SALVADOR VIPERS"                      ], 
+          ["UFFight",           "DragonBotz"                           ], 
+          ["Phoenix",           "Imperial Botz"                        ], 
+          ["Imperial Botz",     "OMEGABOTZ"                            ], 
+          ["KIMAUÁNISSO",       "RioBotz"                              ], 
+          ["ThundeRatz",        "OVERLOAD"                             ], 
+      
+          ["DragonBotz",        "Uai!rrior"                            ], 
+          ["DragonBotz",        "OVERLOAD"                             ], 
+          ["SALVADOR VIPERS",   "RioBotz"                              ], 
+          ["OMEGABOTZ",         "ESC - Escola de Robótica São Caetano" ], 
+          ["Imperial Botz",     "Phoenix"                              ], 
+          ["SALVADOR VIPERS",   "Bodetronic"                           ], 
+          ["Trincabotz",        "RobotBulls"                           ], 
+          ["Quantum team",      "Imperial Botz"                        ], 
+      
+          ["ThundeRatz",        "KIMAUÁNISSO"                          ], 
+          ["MinervaBots",       "UFFight"                              ], 
+          ["Phoenix",           "Imperial Botz"                        ], 
+          ["KIMAUÁNISSO",       "ThundeRatz"                           ], 
+      
+          ["SALVADOR VIPERS",   "DragonBotz"                           ], 
+          ["Imperial Botz",     "OMEGABOTZ"                            ], 
+          ["SALVADOR VIPERS",   "DragonBotz"                           ], 
+          ["Trincabotz",        "Quantum team"                         ], 
+      
+          ["ThundeRatz",        "MinervaBots"                          ], 
+          ["KIMAUÁNISSO",       "Phoenix"                              ], 
+
+          ["SALVADOR VIPERS",   "UFFight"                              ], 
+          ["KIMAUÁNISSO",       "Imperial Botz"                        ], 
+          ["ThundeRatz",        "SALVADOR VIPERS"                      ], 
+          ["Imperial Botz",     "Trincabotz"                           ], 
+      
+          ["ThundeRatz",        "KIMAUÁNISSO"                          ], 
+      
+          ["KIMAUÁNISSO",       "SALVADOR VIPERS"                      ], 
+          ["Imperial Botz",     "ThundeRatz"                           ], 
+      
+          ["Phoenix",           "KIMAUÁNISSO"                          ], 
+          ["MinervaBots",       "Imperial Botz"                        ], 
+      
+          ["Phoenix",           "MinervaBots"                          ], 
+      
+          ["KIMAUÁNISSO",       "Phoenix"                              ], 
+      
+          ["ThundeRatz",        "KIMAUÁNISSO"                          ]
+          ],
+
+        "matches-robots": [
+          ["Eleven",            "Supra  Sumo"      ],
+          ["Gordox",            "MiniZord"         ],
+          ["Stonehenge",        "Traga Vasilha"    ],
+          ["Valeska",           "Rampinha"         ],
+          ["Paladino",          "Golem"            ],
+          ["Harry Porco",       "Ninjai"           ],
+          ["Mr. PIG",           "Tomoe"            ],
+          ["CaiPiloto",         "Hariyama"         ],
+          ["Moai RC",           "Porco Aranha"     ],
+      
+          ["Eleven",            "Gordox"           ],
+          ["Stonehenge",        "HeavyBull"        ],
+          ["Valeska",           "Môzóvs"           ],
+          ["Paladino",          "Killer"           ],
+          ["Ronda",             "Harry Porco"      ],
+          ["Mr. PIG",           "Fanatico"         ],
+          ["CaiPiloto",         "C3"               ],
+          ["Moai RC",           "Clayton"          ],
+      
+          ["MiniZord",          "Supra Sumo"       ],
+          ["MiniZord",          "Clayton"          ],
+          ["Traga Vasilha",     "C3"               ],
+          ["Fanatico",          "Rampinha"         ],
+          ["Harry Porco",       "Golem"            ],
+          ["Môzóvs",            "Tomoe"            ],
+          ["Hariyama",          "HeavyBull"        ],
+          ["Gordox",            "Porco Aranha"     ],
+      
+          ["Stonehenge",        "Eleven"           ],
+          ["Valeska",           "Paladino"         ],
+          ["Ronda",             "Mr. PIG"          ],
+          ["CaiPiloto",         "Moai RC"          ],
+      
+          ["Traga Vasiha",      "MiniZord"         ],
+          ["Harry Porco",       "Fanatico"         ],
+          ["Môzóvs",            "Killer"           ],
+          ["Hariyama",          "Gordox"           ],
+      
+          ["Stonehenge",        "Valeska"          ],
+          ["CaiPiloto",         "Ronda"            ],
+      
+          ["Traga Vasilha",     "Paladino"         ],
+          ["Eleven",            "Harry Porco"      ],
+          ["Moai RC",           "Môzóvs"           ],
+          ["Mr. PIG",           "Hariyama"         ],
+      
+          ["Stonehenge",        "CaiPiloto"        ],
+      
+          ["Eleven",            "Traga Vasilha"    ],
+          ["Mr. PIG",           "Moai RC"          ],
+
+          ["Ronda",             "Eleven"           ],
+          ["Valeska",           "Mr. PIG"          ],
+      
+          ["Ronda",             "Valeska"          ],
+      
+          ["CaiPiloto",         "Ronda"            ],
+      
+          ["Stonehenge",        "CaiPiloto"        ]
+        ]
       }
+
     ]
   }
 }
