@@ -2,6 +2,21 @@ import sys
 import json
 import os
 
+def calculate_wins_losses(playerWinner, playerLoser, winsLosses):
+    winsLosses[playerWinner][0] += 1
+    winsLosses[playerLoser][1] += 1
+    return winsLosses
+
+def update_wins_losses(matches, winsLosses):
+    for match in matches:
+        playerWinner, playerLoser = match
+        if playerWinner not in winsLosses:
+            winsLosses[playerWinner] = [0,0]
+        if playerLoser not in winsLosses:
+            winsLosses[playerLoser] = [0,0]
+        winsLosses = calculate_wins_losses(playerWinner, playerLoser, winsLosses)
+    return winsLosses
+
 def calculate_elo(playerWinner, playerLoser, ratings):
     k = 20
     rating1 = ratings[playerWinner]
@@ -44,21 +59,26 @@ def read_competitions(path):
 
 
 
-def print_ordered(rankings):
+def print_ordered(rankings, win_ratio):
     for v in sorted( rankings.values(), reverse=True):
             for key in rankings:
                 if rankings[ key ] == v:
-                    print (str(round(v)) + " - " + key)
+                    print("[", end="")
+                    print(", ".join(f"{num:03d}" for num in win_ratio[key]), end="] - ")
+                    print (str(round(v)), end=" - ")
+                    print (key)
                     break
     print("")
 
-def print_detailed_info(competition_name, year_ratings, complete_ratings, competition_date):
+
+def print_detailed_info(competition_name, year_ratings, complete_ratings, competition_date, year_win_ratio, complete_win_ratio):
     print_header(competition_name)
     print_header(competition_date)
     print("\r\nYear Ratings")
-    print_ordered(year_ratings)
+    print_ordered(year_ratings, year_win_ratio)
     print("Complete Ratings")
-    print_ordered(complete_ratings)
+    print_ordered(complete_ratings, complete_win_ratio)
+
 
 def print_header(header):
     len_header = len(header)
@@ -84,6 +104,7 @@ def main():
     all_competitions = read_competitions(folder_name)
     all_matches = []
     complete_ratings = {}
+    complete_wins_and_losses = {}
     
     # Calculate Elo for each year, and then calculate a general from all files
     for year_data in all_competitions:
@@ -95,9 +116,13 @@ def main():
         year_competitions = year_data['competitions']['competition']
         year_matches = []
         year_ratings = {}
+        year_wins_and_losses = {}
 
         for competition in year_competitions:
             matches = competition['matches']
+
+            year_wins_and_losses = update_wins_losses(matches, year_wins_and_losses)
+            complete_wins_and_losses = update_wins_losses(matches, complete_wins_and_losses)
             
             year_matches += matches
             year_ratings = update_ratings(matches, year_ratings)
@@ -106,11 +131,11 @@ def main():
             complete_ratings = update_ratings(matches, complete_ratings)
 
             if (print_logs):
-                print_detailed_info(competition['name'], year_ratings, complete_ratings, competition['date'])
+                print_detailed_info(competition['name'], year_ratings, complete_ratings, competition['date'], year_wins_and_losses, complete_wins_and_losses)
 
         if (not print_logs):
             print("Complete Ratings\r\n")
-            print_ordered(complete_ratings)
+            print_ordered(complete_ratings, complete_wins_and_losses)
 
 
 
