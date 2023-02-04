@@ -1,0 +1,77 @@
+{
+  "year": 2020,
+  "competitions": {
+    "competition": [
+      {
+        "name": "Iron Cup",
+        "date": "01-03-2021",
+        "link": "https://events.robocore.net/ironcup-2020/brackets/20",
+        "matches": [
+          ["ThundeRatz",              "Senai-SC"           ], 
+          ["Equipe-Paralela",         "MinervaBots"        ], 
+          ["RioBotz",                 "DotBotz"            ], 
+          ["MinervaBots",             "UFBATS"             ], 
+          ["RobotBulls",              "Trincabotz"         ], 
+
+          ["ThundeRatz",              "Equipe-Paralela"    ], 
+          ["RioBotz",                 "RobotBulls"         ], 
+          ["ThundeRatz",              "RobotBulls"         ], 
+
+          ["MinervaBots",             "Senai-SC"           ], 
+
+          ["MinervaBots",             "RobotBulls"         ], 
+          ["DotBotz",                 "MinervaBots"        ], 
+          ["RobotBulls",              "UFBATS"             ], 
+          ["Equipe-Paralela",         "Trincabotz"         ], 
+
+          ["RioBotz",                 "ThundeRatz"         ], 
+          ["ThundeRatz",              "MinervaBots"        ], 
+
+          ["MinervaBots",             "DotBotz"            ], 
+          ["RobotBulls",              "Equipe-Paralela"    ], 
+
+          ["RioBotz",                 "ThundeRatz"         ], 
+
+          ["ThundeRatz",              "RobotBulls"         ], 
+
+          ["ThundeRatz",              "MinervaBots"        ], 
+
+          ["RioBotz",                 "ThundeRatz"         ]
+        ],
+
+        "matches-robots": [
+          ["Stonehenge-Auto",                         "Toro"                         ], 
+          ["Kuro-Usagi",                              "Atena"                        ], 
+          ["Aldebaran+",                              "Golden-Boy"                   ], 
+          ["Auterna",                                 "Thanos"                       ], 
+          ["PitBull-Descontrolado",                   "Hariyama"                     ], 
+
+          ["Stonehenge-Auto",                         "Kuro-Usagi"                   ], 
+          ["Aldebaran+",                              "Bullbasauro-Descontrolado"    ], 
+          ["Moai",                                    "PitBull-Descontrolado"        ], 
+
+          ["Atena",                                   "Toro"                         ], 
+
+          ["Atena",                                   "PitBull-Descontrolado"        ], 
+          ["Golden-Boy",                              "Auterna"                      ], 
+          ["Bullbasauro-Descontrolado",               "Thanos"                       ], 
+          ["Kuro-Usagi",                              "Hariyama"                     ], 
+
+          ["Aldebaran+",                              "Stonehenge-Auto"              ], 
+          ["Moai",                                    "Valeska"                      ], 
+
+          ["Atena",                                   "Golden-Boy"                   ], 
+          ["Bullbasauro-Descontrolado",               "Kuro-Usagi"                   ], 
+
+          ["Aldebaran+",                              "Moai"                         ], 
+
+          ["Stonehenge-Auto",                         "Bullbasauro-Descontrolado"    ], 
+
+          ["Stonehenge-Auto",                         "Atena"                        ], 
+
+          ["Aldebaran+",                              "Moai"                         ]
+        ]
+      }
+    ]
+  }
+}
