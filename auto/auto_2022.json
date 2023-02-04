@@ -5,6 +5,7 @@
       {
         "name": "Roboto-Lab",
         "date": "20-03-2022",
+        "link": "https://challonge.com/roboto_AUTO",
         "matches": [
           ["Equipe-Paralela",  "Raiju"          ], 
           ["ThundeRatz",       "KIMAUÁNISSO"    ],
@@ -20,6 +21,7 @@
       {
         "name": "RSM",
         "date": "23-04-2022",
+        "link": "https://challonge.com/pt_BR/rsm2022_sumo3gauto",
         "matches": [
           ["KIMAUÁNISSO",      "RobotBulls"  ], 
           ["OMEGABOTZ",        "RobotBulls"  ],
@@ -46,6 +48,7 @@
       {
         "name": "RoboChallenge",
         "date": "03-07-2022",
+        "link": "https://challonge.com/rcbr_auto",
         "matches": [
           ["Raiju",            "MinervaBots"     ], 
           ["Raiju",            "Equipe-Paralela" ],
@@ -69,6 +72,7 @@
       {
         "name": "Inatel",
         "date": "16-10-2022",
+        "link": "https://events.robocore.net/ironcup-2022/brackets/20",
         "matches": [
           ["FEG-Robótica",       "RobotBulls"    ],
           ["Uai!rrior",          "OMEGABOTZ"     ],
@@ -98,6 +102,7 @@
       {
         "name": "RCX",
         "date": "15-11-2022",
+        "link": "https://events.robocore.net/rcx-cpbr14/brackets/20",
         "matches": [
           ["KIMAUÁNISSO",        "RAS-UFRB"         ],
           ["Equipe-Paralela",    "RobotBulls"       ],
