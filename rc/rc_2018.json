@@ -1,0 +1,26 @@
+{
+  "year": 2018,
+  "competitions": {
+    "competition": [
+      {
+        "name": "1° Torneio SMILE",
+        "date": "26/05/2018",
+        "link": "https://challonge.com/pt_BR/smile_RC",
+
+        "matches": [
+          ["KIMAUÁNISSO",       "ThundeRatz"                           ], 
+          ["ThundeRatz",        "KIMAUÁNISSO"                          ], 
+          ["KIMAUÁNISSO",       "ThundeRatz"                           ],
+          ["KIMAUÁNISSO",       "ThundeRatz"                           ] 
+          ],
+
+        "matches-robots": [
+          ["Eleven",            "Stonehenge"                           ],
+          ["Moai RC",           "Paçoca"                               ],
+          ["Paçoca",            "Stonehenge"                           ],
+          ["Eleven",            "Moai RC"                              ]
+        ]
+      }
+    ]
+  }
+}
