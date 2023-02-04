@@ -1,113 +1,115 @@
 {
-    "competitions": {
-      "competition": [
-        {
-          "name": "Winter Challenge XII (2017)",
-          "link": "https://events.robocore.net/wc13/brackets/21",
+  "year": 2017,
+  "competitions": {
+    "competition": [
+      {
+        "name": "Winter Challenge XII",
+        "date": "09/07/2017",
+        "link": "https://events.robocore.net/wc13/brackets/21",
 
-          "matches": [
-            ["ThundeRatz",        "Phoenix"         ],
-            ["Phoenix",           "Haka"            ], 
-            ["Imperial Botz",     "GER"             ], 
-            ["UFFight",           "ThundeRatz"      ], 
-            ["MinervaBots",       "KIMAUÁNISSO"     ], 
-        
-            ["ThundeRatz",        "OMEGABOTZ"       ],
-            ["Phoenix",           "BrBots"          ], 
-            ["Expert Robots" ,    "Trincabotz"      ], 
-            ["Imperial Botz",     "Bodetronic"      ], 
-            ["Imperial Botz",     "UFFight"         ], 
-            ["MinervaBots",       "RioBotz"         ], 
-            ["Imperial Botz",     "Haka"            ], 
-        
-            ["Phoenix",           "Haka"            ], 
-            ["RioBotz",           "Haka"            ], 
-            ["UFFight",           "GER"             ],
-            ["ThundeRatz",        "Bodetronic"      ], 
-            ["KIMAUÁNISSO",       "BrBots"          ],
-        
-            ["ThundeRatz",        "Phoenix"         ],
-            ["Imperial Botz",     "Expert Robots"   ],
-            ["SALVADOR VIPERS",   "Imperial Botz"   ], 
-            ["Imperial Botz",     "MinervaBots"     ], 
-        
-            ["Phoenix",           "RioBotz"         ], 
-            ["UFFight",           "SALVADOR VIPERS" ], 
-            ["Trincabotz",        "ThundeRatz"      ], 
-            ["KIMAUÁNISSO",       "OMEGABOTZ"       ], 
-        
-            ["ThundeRatz",        "Imperial Botz"   ], 
-            ["Imperial Botz",     "SALVADOR VIPERS" ], 
-        
-            ["Phoenix",           "Expert Robots"   ], 
-            ["UFFight",           "Phoenix"         ], 
-            ["Trincabotz",        "MinervaBots"     ],
-            ["Imperial Botz",     "KIMAUÁNISSO"     ], 
-        
-            ["ThundeRatz",        "Imperial Botz"   ], 
-        
-            ["UFFight",           "Phoenix"         ],
-            ["Imperial Botz",     "Trincabotz"      ], 
-        
-            ["UFFight",           "SALVADOR VIPERS" ],
-        
-            ["Imperial Botz",     "UFFight"         ], 
+        "matches": [
+          ["ThundeRatz",        "Phoenix"         ],
+          ["Phoenix",           "Haka"            ], 
+          ["Imperial Botz",     "GER"             ], 
+          ["UFFight",           "ThundeRatz"      ], 
+          ["MinervaBots",       "KIMAUÁNISSO"     ], 
+      
+          ["ThundeRatz",        "OMEGABOTZ"       ],
+          ["Phoenix",           "BrBots"          ], 
+          ["Expert Robots" ,    "Trincabotz"      ], 
+          ["Imperial Botz",     "Bodetronic"      ], 
+          ["Imperial Botz",     "UFFight"         ], 
+          ["MinervaBots",       "RioBotz"         ], 
+          ["Imperial Botz",     "Haka"            ], 
+      
+          ["Phoenix",           "Haka"            ], 
+          ["RioBotz",           "Haka"            ], 
+          ["UFFight",           "GER"             ],
+          ["ThundeRatz",        "Bodetronic"      ], 
+          ["KIMAUÁNISSO",       "BrBots"          ],
+      
+          ["ThundeRatz",        "Phoenix"         ],
+          ["Imperial Botz",     "Expert Robots"   ],
+          ["SALVADOR VIPERS",   "Imperial Botz"   ], 
+          ["Imperial Botz",     "MinervaBots"     ], 
+      
+          ["Phoenix",           "RioBotz"         ], 
+          ["UFFight",           "SALVADOR VIPERS" ], 
+          ["Trincabotz",        "ThundeRatz"      ], 
+          ["KIMAUÁNISSO",       "OMEGABOTZ"       ], 
+      
+          ["ThundeRatz",        "Imperial Botz"   ], 
+          ["Imperial Botz",     "SALVADOR VIPERS" ], 
+      
+          ["Phoenix",           "Expert Robots"   ], 
+          ["UFFight",           "Phoenix"         ], 
+          ["Trincabotz",        "MinervaBots"     ],
+          ["Imperial Botz",     "KIMAUÁNISSO"     ], 
+      
+          ["ThundeRatz",        "Imperial Botz"   ], 
+      
+          ["UFFight",           "Phoenix"         ],
+          ["Imperial Botz",     "Trincabotz"      ], 
+      
+          ["UFFight",           "SALVADOR VIPERS" ],
+      
+          ["Imperial Botz",     "UFFight"         ], 
 
-            ["ThundeRatz",        "Imperial Botz"   ]
-          ],
+          ["ThundeRatz",        "Imperial Botz"   ]
+        ],
 
-          "matches-robots": [
-            ["Stonehenge",      "Ronda"         ],
-            ["Golem",           "HAKA B"        ],
-            ["Harry Porco",     "Urutu"         ],
-            ["Paladino",        "Moai RC"       ],
-            ["Valeska",         "Eleven"        ],
-            
-            ["Stonehenge",      "Hulk TSI"      ],
-            ["Golem",           "Anoobs II"     ],
-            ["Odyssay",         "Hariyama"      ],
-            ["Harry Porco",     "Tomoe"         ],
-            ["Porco Aranha",    "Paladino"      ],
-            ["Valeska",         "C3"            ],
-            ["Mr. PIG",         "HAKA A"        ],
-            
-            ["Ronda",           "HAKA A"        ],
-            ["C3",              "HAKA B"        ],
-            ["Paladino",        "Urutu"         ],
-            ["Moai RC",         "Tomoe"         ],
-            ["Eleven",          "Anoobs II"     ],
-            
-            ["Stonehenge",      "Golem"         ],
-            ["Harry Porco",     "Odyssay"       ],
-            ["Môzóvs",          "Porco Aranha"  ],
-            ["Mr. PIG",         "Valeska"       ],
+        "matches-robots": [
+          ["Stonehenge",      "Ronda"         ],
+          ["Golem",           "HAKA B"        ],
+          ["Harry Porco",     "Urutu"         ],
+          ["Paladino",        "Moai RC"       ],
+          ["Valeska",         "Eleven"        ],
+          
+          ["Stonehenge",      "Hulk TSI"      ],
+          ["Golem",           "Anoobs II"     ],
+          ["Odyssay",         "Hariyama"      ],
+          ["Harry Porco",     "Tomoe"         ],
+          ["Porco Aranha",    "Paladino"      ],
+          ["Valeska",         "C3"            ],
+          ["Mr. PIG",         "HAKA A"        ],
+          
+          ["Ronda",           "HAKA A"        ],
+          ["C3",              "HAKA B"        ],
+          ["Paladino",        "Urutu"         ],
+          ["Moai RC",         "Tomoe"         ],
+          ["Eleven",          "Anoobs II"     ],
+          
+          ["Stonehenge",      "Golem"         ],
+          ["Harry Porco",     "Odyssay"       ],
+          ["Môzóvs",          "Porco Aranha"  ],
+          ["Mr. PIG",         "Valeska"       ],
 
-            ["Ronda",           "C3"            ],
-            ["Paladino",        "Traga Vasilha" ],
-            ["Hariyama",        "Moai RC"       ],
-            ["Eleven",          "Hulk TSI"      ],
-        
-            ["Stonehenge",      "Harry Porco"   ],
-            ["Mr. PIG",         "Môzóvs"        ],
-        
-            ["Ronda",           "Odyssay"       ],
-            ["Paladino",        "Golem"         ],
-            ["Hariyama",        "Valeska"       ],
-            ["Porco Aranha",    "Eleven"        ],
-        
-            ["Stonehenge",      "Mr. PIG"       ],
-        
-            ["Paladino",        "Ronda"         ],
-            ["Porco Aranha",    "Hariyama"      ],
-        
-            ["Paladino",        "Môzóvs"        ],
-        
-            ["Porco Aranha",    "Paladino"      ],
-        
-            ["Stonehenge",      "Porco Aranha"  ]
-          ]
-        }
-        
-      ]
-    }
+          ["Ronda",           "C3"            ],
+          ["Paladino",        "Traga Vasilha" ],
+          ["Hariyama",        "Moai RC"       ],
+          ["Eleven",          "Hulk TSI"      ],
+      
+          ["Stonehenge",      "Harry Porco"   ],
+          ["Mr. PIG",         "Môzóvs"        ],
+      
+          ["Ronda",           "Odyssay"       ],
+          ["Paladino",        "Golem"         ],
+          ["Hariyama",        "Valeska"       ],
+          ["Porco Aranha",    "Eleven"        ],
+      
+          ["Stonehenge",      "Mr. PIG"       ],
+      
+          ["Paladino",        "Ronda"         ],
+          ["Porco Aranha",    "Hariyama"      ],
+      
+          ["Paladino",        "Môzóvs"        ],
+      
+          ["Porco Aranha",    "Paladino"      ],
+      
+          ["Stonehenge",      "Porco Aranha"  ]
+        ]
+      }
+      
+    ]
   }
+}
