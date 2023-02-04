@@ -15,10 +15,10 @@
           ],
 
         "matches-robots": [
-          ["Eleven",            "Stonehenge"                           ],
+          ["Eleven-RC",            "Stonehenge"                           ],
           ["Moai-RC",           "Paçoca"                               ],
           ["Paçoca",            "Stonehenge"                           ],
-          ["Eleven",            "Moai-RC"                              ]
+          ["Eleven-RC",            "Moai-RC"                              ]
         ]
       },
 
@@ -90,7 +90,7 @@
           ],
 
         "matches-robots": [
-          ["Eleven",            "Supra-Sumo"       ],
+          ["Eleven-RC",            "Supra-Sumo"       ],
           ["Gordox",            "MiniZord"         ],
           ["Stonehenge",        "Traga-Vasilha"    ],
           ["Valeska",           "Rampinha"         ],
@@ -100,7 +100,7 @@
           ["CaiPiloto",         "Hariyama"         ],
           ["Moai-RC",           "Porco-Aranha"     ],
       
-          ["Eleven",            "Gordox"           ],
+          ["Eleven-RC",            "Gordox"           ],
           ["Stonehenge",        "HeavyBull"        ],
           ["Valeska",           "Môzóvs"           ],
           ["Paladino",          "Killer"           ],
@@ -118,7 +118,7 @@
           ["Hariyama",          "HeavyBull"        ],
           ["Gordox",            "Porco-Aranha"     ],
       
-          ["Stonehenge",        "Eleven"           ],
+          ["Stonehenge",        "Eleven-RC"           ],
           ["Valeska",           "Paladino"         ],
           ["Ronda",             "Mr.PIG"           ],
           ["CaiPiloto",         "Moai-RC"          ],
@@ -132,16 +132,16 @@
           ["CaiPiloto",         "Ronda"            ],
       
           ["Traga-Vasilha",     "Paladino"         ],
-          ["Eleven",            "Harry-Porco"      ],
+          ["Eleven-RC",            "Harry-Porco"      ],
           ["Moai-RC",           "Môzóvs"           ],
           ["Mr.PIG",            "Hariyama"         ],
       
           ["Stonehenge",        "CaiPiloto"        ],
       
-          ["Eleven",            "Traga-Vasilha"    ],
+          ["Eleven-RC",            "Traga-Vasilha"    ],
           ["Mr.PIG",            "Moai-RC"          ],
 
-          ["Ronda",             "Eleven"           ],
+          ["Ronda",             "Eleven-RC"           ],
           ["Valeska",           "Mr.PIG"           ],
       
           ["Ronda",             "Valeska"          ],
@@ -227,7 +227,6 @@
           ["OMEGABOTZ",        "Phoenix"        ], 
 
           ["KIMAUÁNISSO",      "OMEGABOTZ"      ]
-
           ],
 
         "matches-robots": [
@@ -244,7 +243,56 @@
           ["Zerum",          "Golem"        ], 
 
           ["Paçoca-RC",      "Drakkar"      ]
+        ]
+      },
 
+      {
+        "name": "2° Torneio Tech Challenge",
+        "date": "23/10/2018",
+        "link": "https://challonge.com/pt_BR/tc3kgRC",
+
+        "matches": [
+          ["OMEGABOTZ",                                 "KIMAUÁNISSO"                               ],
+          ["ThundeRatz",                                "OMEGABOTZ"                                 ],
+          ["KIMAUÁNISSO",                               "OMEGABOTZ"                                 ],
+          ["KIMAUÁNISSO",                               "ESC-Escola-de-Robótica-São-Caetano"        ],
+          ["KIMAUÁNISSO",                               "OMEGABOTZ"                                 ],
+          ["ThundeRatz",                                "OMEGABOTZ"                                 ],
+
+          ["ESC-Escola-de-Robótica-São-Caetano",        "KIMAUÁNISSO"                               ],
+
+          ["OMEGABOTZ",                                 "ESC-Escola-de-Robótica-São-Caetano"        ],
+
+          ["KIMAUÁNISSO",                               "ThundeRatz"                                ],
+
+          ["KIMAUÁNISSO",                               "OMEGABOTZ"                                 ],
+          ["ThundeRatz",                                "OMEGABOTZ"                                 ],
+
+          ["ThundeRatz",                                "KIMAUÁNISSO"                               ],
+
+          ["KIMAUÁNISSO",                               "ThundeRatz"                                ]
+          ],
+
+        "matches-robots": [
+          ["Itiban",                   "Dolgorsuren-Dagvadorj"      ],
+          ["Stonehenge",               "Utopia"                     ],
+          ["Autistônomo",              "Drakkar"                    ],
+          ["Paçoca-RC",                "Poko-Loko"                  ],
+          ["Eleven-RC",                "Itiban"                     ],
+          ["Stonehenge",               "Blanka"                     ],
+
+          ["Poko-Loko",                "Dolgorsuren-Dagvadorj"      ],
+
+          ["Blanka",                   "Poko-Loko"                  ],
+
+          ["Paçoca-RC",                "Stonehenge"                 ],
+
+          ["Autistônomo",              "Blanka"                     ],
+          ["Stonehenge",               "Drakkar"                    ],
+
+          ["Stonehenge",               "Autistônomo"                ],
+
+          ["Eleven-RC",                "Stonehenge"                 ]
         ]
       }
     ]
