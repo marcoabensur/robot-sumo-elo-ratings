@@ -30,16 +30,16 @@
       
           ["ThundeRatz",        "Phoenix"         ],
           ["Imperial-Botz",     "Expert-Robots"   ],
-          ["SALVADOR VIPERS",   "Imperial-Botz"   ], 
+          ["SALVADOR-VIPERS",   "Imperial-Botz"   ], 
           ["Imperial-Botz",     "MinervaBots"     ], 
       
           ["Phoenix",           "RioBotz"         ], 
-          ["UFFight",           "SALVADOR VIPERS" ], 
+          ["UFFight",           "SALVADOR-VIPERS" ], 
           ["Trincabotz",        "ThundeRatz"      ], 
           ["KIMAUÁNISSO",       "OMEGABOTZ"       ], 
       
           ["ThundeRatz",        "Imperial-Botz"   ], 
-          ["Imperial-Botz",     "SALVADOR VIPERS" ], 
+          ["Imperial-Botz",     "SALVADOR-VIPERS" ], 
       
           ["Phoenix",           "Expert-Robots"   ], 
           ["UFFight",           "Phoenix"         ], 
@@ -51,7 +51,7 @@
           ["UFFight",           "Phoenix"         ],
           ["Imperial-Botz",     "Trincabotz"      ], 
       
-          ["UFFight",           "SALVADOR VIPERS" ],
+          ["UFFight",           "SALVADOR-VIPERS" ],
       
           ["Imperial-Botz",     "UFFight"         ], 
 
@@ -60,21 +60,21 @@
 
         "matches-robots": [
           ["Stonehenge",        "Ronda"           ],
-          ["Golem",             "HAKA B"          ],
+          ["Golem",             "HAKA-B"          ],
           ["Harry-Porco",       "Urutu"           ],
           ["Paladino",          "Moai-RC"         ],
           ["Valeska",           "Eleven"          ],
           
-          ["Stonehenge",        "Hulk TSI"        ],
+          ["Stonehenge",        "Hulk-TSI"        ],
           ["Golem",             "Anoobs-II"       ],
           ["Odyssay",           "Hariyama"        ],
           ["Harry-Porco",       "Tomoe"           ],
           ["Porco-Aranha",      "Paladino"        ],
           ["Valeska",           "C3"              ],
-          ["Mr.PIG",           "HAKA A"           ],
+          ["Mr.PIG",            "HAKA-A"          ],
           
-          ["Ronda",             "HAKA A"          ],
-          ["C3",                "HAKA B"          ],
+          ["Ronda",             "HAKA-A"          ],
+          ["C3",                "HAKA-B"          ],
           ["Paladino",          "Urutu"           ],
           ["Moai-RC",           "Tomoe"           ],
           ["Eleven",            "Anoobs-II"       ],
@@ -82,15 +82,15 @@
           ["Stonehenge",        "Golem"           ],
           ["Harry-Porco",       "Odyssay"         ],
           ["Môzóvs",            "Porco-Aranha"    ],
-          ["Mr.PIG",           "Valeska"          ],
+          ["Mr.PIG",            "Valeska"         ],
 
           ["Ronda",             "C3"              ],
           ["Paladino",          "Traga-Vasilha"   ],
           ["Hariyama",          "Moai-RC"         ],
-          ["Eleven",            "Hulk TSI"        ],
+          ["Eleven",            "Hulk-TSI"        ],
       
           ["Stonehenge",        "Harry-Porco"     ],
-          ["Mr.PIG",           "Môzóvs"           ],
+          ["Mr.PIG",            "Môzóvs"          ],
       
           ["Ronda",             "Odyssay"         ],
           ["Paladino",          "Golem"           ],
