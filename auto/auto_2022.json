@@ -31,7 +31,7 @@
         ]
       },
       {
-        "name": "RSM",
+        "name": "RSM CHALLENGE",
         "date": "23-04-2022",
         "link": "https://challonge.com/pt_BR/rsm2022_sumo3gauto",
         "matches": [
@@ -56,8 +56,8 @@
           ["KIMAUÁNISSO",      "Raijū"       ]
         ],
         "matches-robots": [
-          ["Eleven",           "Bullvidoso-Descontrolado"  ], 
-          ["RiscaFaca",        "Bullvidoso-Descontrolado"  ],
+          ["Eleven",           "Bullbasauro-Descontrolado"  ], 
+          ["RiscaFaca",        "Bullbasauro-Descontrolado"  ],
           ["Eleven",           "RiscaFaca"                ],
           ["SIRE-UB",          "Charizard"                ],
           ["Raijū",            "Charizard"                ],
@@ -103,14 +103,14 @@
         ],
         "matches-robots": [
           ["Raijū",                     "Atena"                     ], 
-          ["Raijū",                     "Kuro-Usagi"                ],
+          ["Raijū",                     "KuroUsagi"                 ],
           ["RiscaFaca",                 "Atena"                     ],
           ["Eleven",                    "RiscaFaca"                 ],
-          ["ThundeRatz",                "Bullbasauro-Descontrolado" ],
+          ["Galena",                    "Bullbasauro-Descontrolado" ],
           ["Paçoca",                    "Valeska"                   ],
           ["Eleven",                    "Raijū"                     ],
-          ["Kuro-Usagi",                "Valeska"                   ],
-          ["Bullbasauro-Descontrolado", "Kuro-Usagi"                ],
+          ["KuroUsagi",                 "Valeska"                   ],
+          ["Bullbasauro-Descontrolado", "Kuro Usagi"                ],
           ["Galena",                    "Paçoca"                    ],
           ["Galena",                    "Eleven"                    ],
           ["Raijū",                     "Bullbasauro-Descontrolado" ],
@@ -236,7 +236,7 @@
         ],
         "matches-robots": [
           ["Eleven",                            "Bruxão"                    ],
-          ["KuroUsagi",                         "RobotBulls"                ],
+          ["KuroUsagi",                         "Bullbasauro-Descontrolado" ],
           ["Locomotiva",                        "Hariyama"                  ],
           ["Masakrator",                        "Galena"                    ],
           ["Paçoca",                            "RiscaFaca"                 ],
