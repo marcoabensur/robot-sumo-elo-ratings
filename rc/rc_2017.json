@@ -59,57 +59,104 @@
         ],
 
         "matches-robots": [
-          ["Stonehenge",      "Ronda"         ],
-          ["Golem",           "HAKA B"        ],
-          ["Harry Porco",     "Urutu"         ],
-          ["Paladino",        "Moai RC"       ],
-          ["Valeska",         "Eleven"        ],
+          ["Stonehenge",        "Ronda"           ],
+          ["Golem",             "HAKA B"          ],
+          ["Harry Porco",       "Urutu"           ],
+          ["Paladino",          "Moai RC"         ],
+          ["Valeska",           "Eleven"          ],
           
-          ["Stonehenge",      "Hulk TSI"      ],
-          ["Golem",           "Anoobs II"     ],
-          ["Odyssay",         "Hariyama"      ],
-          ["Harry Porco",     "Tomoe"         ],
-          ["Porco Aranha",    "Paladino"      ],
-          ["Valeska",         "C3"            ],
-          ["Mr. PIG",         "HAKA A"        ],
+          ["Stonehenge",        "Hulk TSI"        ],
+          ["Golem",             "Anoobs II"       ],
+          ["Odyssay",           "Hariyama"        ],
+          ["Harry Porco",       "Tomoe"           ],
+          ["Porco Aranha",      "Paladino"        ],
+          ["Valeska",           "C3"              ],
+          ["Mr. PIG",           "HAKA A"          ],
           
-          ["Ronda",           "HAKA A"        ],
-          ["C3",              "HAKA B"        ],
-          ["Paladino",        "Urutu"         ],
-          ["Moai RC",         "Tomoe"         ],
-          ["Eleven",          "Anoobs II"     ],
+          ["Ronda",             "HAKA A"          ],
+          ["C3",                "HAKA B"          ],
+          ["Paladino",          "Urutu"           ],
+          ["Moai RC",           "Tomoe"           ],
+          ["Eleven",            "Anoobs II"       ],
           
-          ["Stonehenge",      "Golem"         ],
-          ["Harry Porco",     "Odyssay"       ],
-          ["Môzóvs",          "Porco Aranha"  ],
-          ["Mr. PIG",         "Valeska"       ],
+          ["Stonehenge",        "Golem"           ],
+          ["Harry Porco",       "Odyssay"         ],
+          ["Môzóvs",            "Porco Aranha"    ],
+          ["Mr. PIG",           "Valeska"         ],
 
-          ["Ronda",           "C3"            ],
-          ["Paladino",        "Traga Vasilha" ],
-          ["Hariyama",        "Moai RC"       ],
-          ["Eleven",          "Hulk TSI"      ],
+          ["Ronda",             "C3"              ],
+          ["Paladino",          "Traga Vasilha"   ],
+          ["Hariyama",          "Moai RC"         ],
+          ["Eleven",            "Hulk TSI"        ],
       
-          ["Stonehenge",      "Harry Porco"   ],
-          ["Mr. PIG",         "Môzóvs"        ],
+          ["Stonehenge",        "Harry Porco"     ],
+          ["Mr. PIG",           "Môzóvs"          ],
       
-          ["Ronda",           "Odyssay"       ],
-          ["Paladino",        "Golem"         ],
-          ["Hariyama",        "Valeska"       ],
-          ["Porco Aranha",    "Eleven"        ],
+          ["Ronda",             "Odyssay"         ],
+          ["Paladino",          "Golem"           ],
+          ["Hariyama",          "Valeska"         ],
+          ["Porco Aranha",      "Eleven"          ],
       
-          ["Stonehenge",      "Mr. PIG"       ],
+          ["Stonehenge",        "Mr. PIG"         ],
       
-          ["Paladino",        "Ronda"         ],
-          ["Porco Aranha",    "Hariyama"      ],
+          ["Paladino",          "Ronda"           ],
+          ["Porco Aranha",      "Hariyama"        ],
       
-          ["Paladino",        "Môzóvs"        ],
+          ["Paladino",          "Môzóvs"          ],
       
-          ["Porco Aranha",    "Paladino"      ],
+          ["Porco Aranha",      "Paladino"        ],
       
-          ["Stonehenge",      "Porco Aranha"  ]
+          ["Stonehenge",        "Porco Aranha"    ]
         ]
-      }
+      },
+
+      {
+        "name": "1° Torneio Tech Challenge",
+        "date": "23/11/2017",
+        "link": "https://challonge.com/pt_BR/tech_challenge_rc",
+
+        "matches": [
+          ["ThundeRatz",        "Imperial Botz"   ],
+          ["OMEGABOTZ",         "Imperial Botz"   ],
+          ["Imperial Botz",     "OMEGABOTZ"       ], 
+          ["KIMAUÁNISSO",       "ThundeRatz"      ], 
+          ["KIMAUÁNISSO",       "ThundeRatz"      ], 
       
+          ["ThundeRatz",        "Imperial Botz"   ],
+          ["Imperial Botz",     "ThundeRatz"      ], 
+          ["ThundeRatz",        "OMEGABOTZ"       ], 
+      
+          ["KIMAUÁNISSO",       "OMEGABOTZ"       ],
+          ["KIMAUÁNISSO",       "Imperial Botz"   ], 
+
+          ["ThundeRatz",        "OMEGABOTZ"       ],
+      
+          ["Imperial Botz",     "ThundeRatz"      ], 
+      
+          ["KIMAUÁNISSO",       "Imperial Botz"   ]
+        ],
+
+        "matches-robots": [
+          ["Stonehenge",        "Porco Aranha"    ],
+          ["Titan",             "Mr. Pig"         ],
+          ["Harry Porco",       "Zerum"           ],
+          ["Eleven RC",         "Moai RC"         ],
+          ["Paçoca RC",         "Stonehenge"      ],
+      
+          ["Moai RC",           "Porco Aranha"    ],
+          ["Mr. PIG",           "Stonehenge"      ],
+          ["Moai RC",           "Zerum"           ],
+    
+          ["Paçoca RC",         "Titan"           ],
+          ["Eleven RC",         "Harry Porco"     ],
+      
+          ["Moai RC",           "Titan"           ],
+      
+          ["Harry Porco",       "Moai RC"         ],
+      
+          ["Eleven RC",         "Harry Porco"     ]
+        ]
+      } 
     ]
   }
 }
