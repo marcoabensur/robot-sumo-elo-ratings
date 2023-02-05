@@ -8,17 +8,19 @@
         "link": "https://challonge.com/pt_BR/smile_RC",
 
         "matches": [
-          ["KIMAUÁNISSO",       "ThundeRatz"                           ], 
-          ["ThundeRatz",        "KIMAUÁNISSO"                          ], 
-          ["KIMAUÁNISSO",       "ThundeRatz"                           ],
-          ["KIMAUÁNISSO",       "ThundeRatz"                           ] 
+          ["KIMAUÁNISSO",       "ThundeRatz"     ], 
+          ["ThundeRatz",        "KIMAUÁNISSO"    ], 
+          ["KIMAUÁNISSO",       "ThundeRatz"     ],
+          ["KIMAUÁNISSO",       "ThundeRatz"     ],
+          ["KIMAUÁNISSO",       "ThundeRatz"     ]  
           ],
 
         "matches-robots": [
-          ["Eleven-RC",            "Stonehenge"                           ],
-          ["Moai-RC",              "Paçoca"                               ],
-          ["Paçoca",               "Stonehenge"                           ],
-          ["Eleven-RC",            "Moai-RC"                              ]
+          ["Eleven-RC",            "Stonehenge"      ],
+          ["Moai-RC",              "Paçoca"          ],
+          ["Eleven-RC",            "Moai-RC"         ],
+          ["Paçoca",               "Stonehenge"      ],
+          ["Paçoca",               "Moai-RC"         ],
         ]
       },
 
@@ -160,50 +162,38 @@
         "matches": [
           ["KIMAUÁNISSO",       "ESC-Escola-de-Robótica-São-Caetano"   ], 
           ["Phoenix",           "MinervaBots"                          ], 
+          ["Phoenix",           "KIMAUÁNISSO"                          ],
           ["ThundeRatz",        "OMEGABOTZ"                            ], 
           ["KIMAUÁNISSO",       "OMEGABOTZ"                            ],
-          ["Phoenix",           "KIMAUÁNISSO"                          ], 
-          ["ThundeRatz",        "Phoenix"                              ], 
-      
-          ["MinervaBots",       "OMEGABOTZ"                            ], 
+          ["ThundeRatz",        "Phoenix"                              ],       
           ["OMEGABOTZ",         "ESC-Escola-de-Robótica-São-Caetano"   ], 
-          ["KIMAUÁNISSO",       "MinervaBots"                          ], 
-          ["Phoenix",           "OMEGABOTZ"                            ], 
-
-          ["ThundeRatz",        "Phoenix"                              ], 
           ["ThundeRatz",        "KIMAUÁNISSO"                          ], 
-          
+          ["MinervaBots",       "OMEGABOTZ"                            ], 
+          ["Phoenix",           "OMEGABOTZ"                            ], 
+          ["ThundeRatz",        "Phoenix"                              ], 
+          ["KIMAUÁNISSO",       "MinervaBots"                          ], 
           ["KIMAUÁNISSO",       "Phoenix"                              ], 
-      
           ["KIMAUÁNISSO",       "ThundeRatz"                           ], 
-      
           ["KIMAUÁNISSO",       "ThundeRatz"                           ],
-      
           ["ThundeRatz",        "KIMAUÁNISSO"                          ]
           ],
 
         "matches-robots": [
           ["Paçoca-RC",   "Poco-Loco" ],  
           ["Ronda",       "Valeska"   ],
+          ["Golem",       "Paçoca-RC" ],
           ["Moai-RC",     "Zerum"     ],
           ["Eleven-RC",   "Fanático"  ],
-          ["Golem",       "Paçoca-RC" ],
-          ["Stonehenge",  "Ronda"     ],
-      
-          ["Valeska",     "Zerum"     ],
+          ["Stonehenge",  "Ronda"     ],     
           ["Fanático",    "Poco-Loco" ],
-          ["Paçoca-RC",   "Valeska"   ],
-          ["Ronda",       "Fanático"  ],
-
-          ["Moai-RC",     "Golem"     ],
           ["Stonehenge",  "Eleven-RC" ],
-          
-          ["Paçoca-RC",   "Golem"     ],
-      
+          ["Valeska",     "Zerum"     ],
+          ["Ronda",       "Fanático"  ],
+          ["Moai-RC",     "Golem"     ],
+          ["Paçoca-RC",   "Valeska"   ],
+          ["Paçoca-RC",   "Golem"     ],  
           ["Paçoca-RC",   "Moai-RC"   ],
-      
           ["Paçoca-RC",   "Stonehenge"],
-      
           ["Stonehenge",  "Paçoca-RC" ] 
         ]
       },
@@ -218,14 +208,10 @@
           ["KIMAUÁNISSO",      "OMEGABOTZ"      ], 
           ["Phoenix",          "OMEGABOTZ"      ], 
           ["KIMAUÁNISSO",      "OMEGABOTZ"      ], 
-
-          ["OMEGABOTZ",        "Phoenix"        ], 
-
           ["KIMAUÁNISSO",      "OMEGABOTZ"      ], 
           ["KIMAUÁNISSO",      "Phoenix"        ],   
-
           ["OMEGABOTZ",        "Phoenix"        ], 
-
+          ["OMEGABOTZ",        "Phoenix"        ], 
           ["KIMAUÁNISSO",      "OMEGABOTZ"      ]
           ],
 
@@ -234,14 +220,10 @@
           ["Eleven-RC",      "Zerum"        ], 
           ["Golem",          "Itiban"       ], 
           ["Paçoca-RC",      "Drakkar"      ], 
-
-          ["Zerum",          "Ronda"        ], 
-
+          ["Paçoca-RC",      "Golem"        ], 
           ["Eleven-RC",      "Blanka"       ], 
-          ["Paçoca-RC",      "Golem"        ],   
-
+          ["Zerum",          "Ronda"        ], 
           ["Zerum",          "Golem"        ], 
-
           ["Paçoca-RC",      "Drakkar"      ]
         ]
       },
@@ -255,43 +237,31 @@
           ["OMEGABOTZ",                                 "KIMAUÁNISSO"                               ],
           ["ThundeRatz",                                "OMEGABOTZ"                                 ],
           ["KIMAUÁNISSO",                               "OMEGABOTZ"                                 ],
+          ["ThundeRatz",                                "OMEGABOTZ"                                 ],
           ["KIMAUÁNISSO",                               "ESC-Escola-de-Robótica-São-Caetano"        ],
+          ["ESC-Escola-de-Robótica-São-Caetano",        "KIMAUÁNISSO"                               ],   
           ["KIMAUÁNISSO",                               "OMEGABOTZ"                                 ],
-          ["ThundeRatz",                                "OMEGABOTZ"                                 ],
-
-          ["ESC-Escola-de-Robótica-São-Caetano",        "KIMAUÁNISSO"                               ],
-
           ["OMEGABOTZ",                                 "ESC-Escola-de-Robótica-São-Caetano"        ],
-
           ["KIMAUÁNISSO",                               "ThundeRatz"                                ],
-
           ["KIMAUÁNISSO",                               "OMEGABOTZ"                                 ],
           ["ThundeRatz",                                "OMEGABOTZ"                                 ],
-
           ["ThundeRatz",                                "KIMAUÁNISSO"                               ],
-
           ["KIMAUÁNISSO",                               "ThundeRatz"                                ]
           ],
 
         "matches-robots": [
           ["Itiban",                   "Dolgorsuren-Dagvadorj"      ],
           ["Stonehenge",               "Utopia"                     ],
-          ["Autistônomo",              "Drakkar"                    ],
-          ["Paçoca-RC",                "Poko-Loko"                  ],
           ["Eleven-RC",                "Itiban"                     ],
           ["Stonehenge",               "Blanka"                     ],
-
-          ["Poko-Loko",                "Dolgorsuren-Dagvadorj"      ],
-
+          ["Paçoca-RC",                "Poko-Loko"                  ],
+          ["Poko-Loko",                "Dolgorsuren-Dagvadorj"      ],   
+          ["Autistônomo",              "Drakkar"                    ],
           ["Blanka",                   "Poko-Loko"                  ],
-
           ["Paçoca-RC",                "Stonehenge"                 ],
-
           ["Autistônomo",              "Blanka"                     ],
           ["Stonehenge",               "Drakkar"                    ],
-
           ["Stonehenge",               "Autistônomo"                ],
-
           ["Eleven-RC",                "Stonehenge"                 ]
         ]
       }

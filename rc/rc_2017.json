@@ -120,19 +120,14 @@
           ["OMEGABOTZ",         "Imperial-Botz"   ],
           ["Imperial-Botz",     "OMEGABOTZ"       ], 
           ["KIMAUÁNISSO",       "ThundeRatz"      ], 
-          ["KIMAUÁNISSO",       "ThundeRatz"      ], 
-      
           ["ThundeRatz",        "Imperial-Botz"   ],
-          ["Imperial-Botz",     "ThundeRatz"      ], 
+          ["KIMAUÁNISSO",       "ThundeRatz"      ], 
+          ["KIMAUÁNISSO",       "Imperial-Botz"   ],
           ["ThundeRatz",        "OMEGABOTZ"       ], 
-      
-          ["KIMAUÁNISSO",       "OMEGABOTZ"       ],
-          ["KIMAUÁNISSO",       "Imperial-Botz"   ], 
-
-          ["ThundeRatz",        "OMEGABOTZ"       ],
-      
           ["Imperial-Botz",     "ThundeRatz"      ], 
-      
+          ["KIMAUÁNISSO",       "OMEGABOTZ"       ],
+          ["ThundeRatz",        "OMEGABOTZ"       ],
+          ["Imperial-Botz",     "ThundeRatz"      ], 
           ["KIMAUÁNISSO",       "Imperial-Botz"   ]
         ],
 
@@ -141,19 +136,14 @@
           ["Titan",             "Mr.PIG"          ],
           ["Harry-Porco",       "Zerum"           ],
           ["Eleven-RC",         "Moai-RC"         ],
-          ["Paçoca-RC",         "Stonehenge"      ],
-      
           ["Moai-RC",           "Porco-Aranha"    ],
-          ["Mr.PIG",           "Stonehenge"       ],
-          ["Moai-RC",           "Zerum"           ],
-    
-          ["Paçoca-RC",         "Titan"           ],
+          ["Paçoca-RC",         "Stonehenge"      ],
           ["Eleven-RC",         "Harry-Porco"     ],
-      
+          ["Moai-RC",           "Zerum"           ],
+          ["Mr.PIG",            "Stonehenge"      ],
+          ["Paçoca-RC",         "Titan"           ],
           ["Moai-RC",           "Titan"           ],
-      
           ["Harry-Porco",       "Moai-RC"         ],
-      
           ["Eleven-RC",         "Harry-Porco"     ]
         ]
       } 

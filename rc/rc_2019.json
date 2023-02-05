@@ -49,6 +49,52 @@
           ["Stonehenge",            "Drakkar"                ]
 
         ]
+      },
+
+      {
+        "name": "RSM Challenge 2019",
+        "date": "25/03/2019",
+        "link": "https://challonge.com/pt_BR/rsm_2019_sumo_3kg_rc",
+
+        "matches": [
+          ["Phoenix",            "KIMAUÁNISSO"                              ],
+          ["Phoenix",            "RobotBulls"                               ],
+          ["KIMAUÁNISSO",        "ESC-Escola-de-Robótica-São-Caetano"       ],
+          ["OMEGABOTZ",          "Phoenix"                                  ],
+          ["KIMAUÁNISSO",        "OMEGABOTZ"                                ],
+          ["KIMAUÁNISSO",        "Phoenix"                                  ],
+          ["KIMAUÁNISSO",        "OMEGABOTZ"                                ],
+          ["OMEGABOTZ",          "KIMAUÁNISSO"                              ],
+          ["RobotBulls",         "OMEGABOTZ"                                ],
+          ["Phoenix",            "ESC-Escola-de-Robótica-São-Caetano"       ],
+          ["Phoenix",            "OMEGABOTZ"                                ],
+          ["Phoenix",            "RobotBulls"                               ],    
+          ["KIMAUÁNISSO",        "OMEGABOTZ"                                ],
+          ["KIMAUÁNISSO",        "Phoenix"                                  ],
+          ["Phoenix",            "OMEGABOTZ"                                ],
+          ["KIMAUÁNISSO",        "Phoenix"                                  ]
+        
+        
+        ],
+
+        "matches-robots": [
+          ["Golem",                      "Eleven-RC"            ],
+          ["Ronda",                      "Bullbasaur-RC"        ],
+          ["Paçoca-RC",                  "Rampinha"             ],
+          ["Itiban",                     "Golem"                ],
+          ["Dolgorsuren-Dagvadorj",      "EtecAP"               ],
+          ["Frank",                      "Ronda"                ],
+          ["Paçoca-RC",                  "Drakkar"              ],
+          ["Drakkar",                    "Eleven-RC"            ],
+          ["Bullbasaur-RC",              "EtecAP"               ],
+          ["Golem",                      "Rampinha"             ],
+          ["Ronda",                      "Drakkar"              ],
+          ["Golem",                      "Bullbasaur-RC"        ],
+          ["Dolgorsuren-Dagvadorj",      "Itiban"               ],
+          ["Paçoca-RC",                  "Golem"                ],
+          ["Ronda",                      "Itiban"               ],
+          ["Paçoca-RC",                  "Ronda"                ]
+        ]
       }
 
 
