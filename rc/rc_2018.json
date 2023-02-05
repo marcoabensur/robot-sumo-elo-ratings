@@ -16,11 +16,11 @@
           ],
 
         "matches-robots": [
-          ["Eleven-RC",            "Stonehenge"      ],
-          ["Moai-RC",              "Paçoca"          ],
-          ["Eleven-RC",            "Moai-RC"         ],
-          ["Paçoca",               "Stonehenge"      ],
-          ["Paçoca",               "Moai-RC"         ]
+          ["Eleven-RC",            "Stonehenge"         ],
+          ["Moai-RC",              "Paçoca-RC"          ],
+          ["Eleven-RC",            "Moai-RC"            ],
+          ["Paçoca-RC",            "Stonehenge"         ],
+          ["Paçoca-RC",            "Moai-RC"            ]
         ]
       },
 
