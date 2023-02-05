@@ -16,8 +16,8 @@
 
         "matches-robots": [
           ["Eleven-RC",            "Stonehenge"                           ],
-          ["Moai-RC",           "Paçoca"                               ],
-          ["Paçoca",            "Stonehenge"                           ],
+          ["Moai-RC",              "Paçoca"                               ],
+          ["Paçoca",               "Stonehenge"                           ],
           ["Eleven-RC",            "Moai-RC"                              ]
         ]
       },
@@ -90,7 +90,7 @@
           ],
 
         "matches-robots": [
-          ["Eleven-RC",            "Supra-Sumo"       ],
+          ["Eleven-RC",         "Supra-Sumo"       ],
           ["Gordox",            "MiniZord"         ],
           ["Stonehenge",        "Traga-Vasilha"    ],
           ["Valeska",           "Rampinha"         ],
@@ -100,7 +100,7 @@
           ["CaiPiloto",         "Hariyama"         ],
           ["Moai-RC",           "Porco-Aranha"     ],
       
-          ["Eleven-RC",            "Gordox"           ],
+          ["Eleven-RC",         "Gordox"           ],
           ["Stonehenge",        "HeavyBull"        ],
           ["Valeska",           "Môzóvs"           ],
           ["Paladino",          "Killer"           ],
@@ -118,7 +118,7 @@
           ["Hariyama",          "HeavyBull"        ],
           ["Gordox",            "Porco-Aranha"     ],
       
-          ["Stonehenge",        "Eleven-RC"           ],
+          ["Stonehenge",        "Eleven-RC"        ],
           ["Valeska",           "Paladino"         ],
           ["Ronda",             "Mr.PIG"           ],
           ["CaiPiloto",         "Moai-RC"          ],
@@ -132,16 +132,16 @@
           ["CaiPiloto",         "Ronda"            ],
       
           ["Traga-Vasilha",     "Paladino"         ],
-          ["Eleven-RC",            "Harry-Porco"      ],
+          ["Eleven-RC",         "Harry-Porco"      ],
           ["Moai-RC",           "Môzóvs"           ],
           ["Mr.PIG",            "Hariyama"         ],
       
           ["Stonehenge",        "CaiPiloto"        ],
       
-          ["Eleven-RC",            "Traga-Vasilha"    ],
+          ["Eleven-RC",         "Traga-Vasilha"    ],
           ["Mr.PIG",            "Moai-RC"          ],
 
-          ["Ronda",             "Eleven-RC"           ],
+          ["Ronda",             "Eleven-RC"        ],
           ["Valeska",           "Mr.PIG"           ],
       
           ["Ronda",             "Valeska"          ],

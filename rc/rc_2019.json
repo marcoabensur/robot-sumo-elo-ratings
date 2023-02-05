@@ -1,0 +1,57 @@
+{
+  "year": 2019,
+  "competitions": {
+    "competition": [
+      {
+        "name": "IRON Cup 2019",
+        "date": "10/03/2019",
+        "link": "https://events.robocore.net/ironcup-2019/brackets/21",
+
+        "matches": [
+          ["ThundeRatz",                "ESC-Escola-de-Robótica-São-Caetano"               ],
+          ["ThundeRatz",                "RioBotz"                                          ],
+          ["OMEGABOTZ",                 "Trincabotz"                                       ],
+          ["ThundeRatz",                "OMEGABOTZ"                                        ],
+          ["RobotBulls",                "MinervaBots"                                      ],
+
+          ["MinervaBots",               "ESC-Escola-de-Robótica-São-Caetano"               ],
+
+          ["ThundeRatz",                "OMEGABOTZ"                                        ],
+          ["ThundeRatz",                "RobotBulls"                                       ],
+
+          ["OMEGABOTZ",                 "MinervaBots"                                      ],
+          ["Trincabotz",                "RioBotz"                                          ],
+
+          ["OMEGABOTZ",                 "RobotBulls"                                       ],
+          ["OMEGABOTZ",                 "Trincabotz"                                       ],
+
+          ["ThundeRatz",                "OMEGABOTZ"                                        ]
+          ],
+
+        "matches-robots": [
+          ["Moai-RC",               "Rampinha"               ],
+          ["Moai-RC",               "Coiote"                 ],
+          ["Drakkar",               "Hariyama"               ],
+          ["Stonehenge",            "Itiban"                 ],
+          ["MadimBull",             "Valeska"                ],
+
+          ["Valeska",               "Rampinha"               ],
+
+          ["Moai-RC",               "Drakkar"                ],
+          ["Stonehenge",            "MadimBull"              ],
+
+          ["Itiban",                "Valeska"                ],
+          ["Hariyama",              "Coiote"                 ],
+
+          ["Itiban",                "MadimBull"              ],
+          ["Drakkar",               "Hariyama"               ],
+
+          ["Stonehenge",            "Drakkar"                ]
+
+        ]
+      }
+
+
+    ]
+  }
+}
