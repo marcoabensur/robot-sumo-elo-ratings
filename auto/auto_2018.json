@@ -1,0 +1,205 @@
+{
+  "year": 2018,
+  "competitions": {
+    "competition": [
+      {
+        "name": "RSM Challenge",
+        "date": "26-05-2018",
+        "link": "https://challonge.com/robosmile_auto",
+        "matches": [
+          ["ThundeRatz", "KIMAUÁNISSO" ],
+          ["KIMAUÁNISSO", "ThundeRatz" ],
+          ["ThundeRatz", "KIMAUÁNISSO" ],
+          ["KIMAUÁNISSO", "ThundeRatz" ]
+        ],
+
+        "matches-robots": [
+          ["Moai", "Paçoca" ],
+          ["Eleven", "Moai" ],
+          ["Moai", "Paçoca" ],
+          ["Eleven", "Moai" ]
+        ]
+      },
+      {
+        "name": "Winter Challenge XIV",
+        "date": "08-07-2018",
+        "link": "https://events.robocore.net/wc14/brackets/20",
+        "matches": [
+          ["Equipe-Phoenix",   "OMEGABOTZ"        ], 
+          ["BrBots",           "FEG-Robótica"     ], 
+          ["WestBots",         "FEG-Robótica"     ], 
+          ["KIMAUÁNISSO",      "Robrow-Team"      ], 
+
+          ["Equipe-Phoenix",   "RobotBulls"       ], 
+          ["Robótica-TERA",    "FEG-Robótica"     ], 
+          ["Equipe-Phoenix",   "Expert-Robots"    ], 
+          ["KIMAUÁNISSO",      "Trincabotz"       ], 
+          ["Polybot-Grenoble", "Ball-Robotics"    ], 
+          ["ThundeRatz",       "OMEGABOTZ"        ], 
+          ["BrBots",           "Machine-Eagle"    ], 
+          ["Ztronics-Unip",    "EquipePUCPR"      ], 
+          ["DotBotz",          "Vortex"           ], 
+          ["Expert-Robots",    "WestBots"         ], 
+          ["UFBATS",           "ZOW-E"            ], 
+          ["SALVADOR-VIPERS",  "RioBotz"          ], 
+          ["MinervaBots",      "GREAT"            ], 
+          ["DotBotz",          "UERJBotz"         ], 
+          ["KIMAUÁNISSO",      "WickedBotz"       ], 
+          ["SALVADOR-VIPERS",  "Polybot-Grenoble" ], 
+
+          ["OMEGABOTZ",        "Polybot-Grenoble" ], 
+          ["FEG-Robótica",     "WestBots"         ], 
+          ["FEG-Robótica",     "Machine-Eagle"    ], 
+          ["Robrow-Team",      "FEG-Robótica"     ], 
+
+          ["Equipe-Phoenix",   "Robótica-TERA"    ], 
+          ["KIMAUÁNISSO",      "Equipe-Phoenix"   ], 
+          ["ThundeRatz",       "Polybot-Grenoble" ], 
+          ["BrBots",           "Ztronics-Unip"    ], 
+          ["Expert-Robots",    "DotBotz"          ], 
+          ["SALVADOR-VIPERS",  "UFBATS"           ], 
+          ["MinervaBots",      "DotBotz"          ], 
+          ["KIMAUÁNISSO",      "SALVADOR-VIPERS"  ],
+
+          ["OMEGABOTZ",        "WickedBotz"       ], 
+          ["UERJBotz",         "GREAT"            ], 
+          ["ZOW-E",            "RioBotz"          ], 
+          ["FEG-Robótica",     "Vortex"           ], 
+          ["FEG-Robótica",     "EquipePUCPR"      ], 
+          ["OMEGABOTZ",        "Ball-Robotics"    ], 
+          ["Trincabotz",       "Expert-Robots"    ], 
+          ["Robrow-Team",      "RobotBulls"       ], 
+
+          ["KIMAUÁNISSO",      "Equipe-Phoenix"   ], 
+          ["ThundeRatz",       "BrBots"           ], 
+          ["Expert-Robots",    "SALVADOR-VIPERS"  ], 
+          ["KIMAUÁNISSO",      "MinervaBots"      ],
+
+          ["OMEGABOTZ",        "Ztronics-Unip"    ], 
+          ["Polybot-Grenoble", "UERJBotz"         ], 
+          ["Equipe-Phoenix",   "ZOW-E"            ], 
+          ["FEG-Robótica",     "Robótica-TERA"    ], 
+          ["SALVADOR-VIPERS",  "FEG-Robótica"     ], 
+          ["OMEGABOTZ",        "DotBotz"          ], 
+          ["Trincabotz",       "UFBATS"           ], 
+          ["Robrow-Team",      "DotBotz"          ], 
+
+          ["ThundeRatz",       "KIMAUÁNISSO"      ], 
+          ["KIMAUÁNISSO",      "Expert-Robots"    ], 
+
+          ["OMEGABOTZ",        "Polybot-Grenoble" ], 
+          ["FEG-Robótica",     "Equipe-Phoenix"   ], 
+          ["SALVADOR-VIPERS",  "OMEGABOTZ"        ], 
+          ["Robrow-Team",      "Trincabotz"       ], 
+
+          ["KIMAUÁNISSO",      "ThundeRatz"       ], 
+
+          ["OMEGABOTZ",        "BrBots"           ], 
+          ["Equipe-Phoenix",   "FEG-Robótica"     ], 
+          ["SALVADOR-VIPERS",  "MinervaBots"      ], 
+          ["SALVADOR-VIPERS",  "Robrow-Team"      ], 
+
+          ["Equipe-Phoenix",   "OMEGABOTZ"        ], 
+
+          ["Equipe-Phoenix",   "Expert-Robots"    ], 
+          ["KIMAUÁNISSO",      "SALVADOR-VIPERS"  ], 
+
+          ["Equipe-Phoenix",   "KIMAUÁNISSO"      ],
+
+          ["ThundeRatz",       "Equipe-Phoenix"   ],
+
+          ["KIMAUÁNISSO",      "ThundeRatz"       ]
+        ],
+
+        "matches-robots": [
+          ["Golem",              "Drakkar"            ], 
+          ["Paladino",           "MetalGarurumon"     ], 
+          ["Kakaroto",           "Lobo"               ], 
+          ["Dolgorsuren",        "Mensageiro-do-Caos" ], 
+
+          ["Golem",              "AngryBull"          ], 
+          ["Jack-Chumbo",        "Hachiko"            ], 
+          ["Ronda",              "Expert"             ], 
+          ["Paçoca",             "Daltonomo"          ], 
+          ["Jean-Michel",        "BLL"                ], 
+          ["Moai",               "Itiban"             ], 
+          ["Paladino",           "Robotnik"           ], 
+          ["PL-CH",              "Sumo-EquipePUCPR1"  ], 
+          ["Optimus",            "Tohru"              ], 
+          ["Odyssay",            "Kakaroto"           ], 
+          ["Thanos",             "ZOW-E"              ], 
+          ["Traga-a-Vasilha",    "C3+"                ], 
+          ["Auterna",            "Weng-Weng-2"        ], 
+          ["Carvão",             "Judith"             ], 
+          ["Dolgorsuren",        "Bender"             ], 
+          ["MÔZÓVS",             "Tòbias"             ], 
+
+          ["Drakkar",            "Tòbias"             ], 
+          ["MetalGarurumon",     "Kakaroto"           ], 
+          ["Lobo",               "Robotnik"           ], 
+          ["Mensageiro-do-Caos", "Hachiko"            ], 
+
+          ["Golem",              "Jack-Chumbo"        ], 
+          ["Paçoca",             "Ronda"              ], 
+          ["Moai",               "Jean-Michel"        ], 
+          ["Paladino",           "PL-CH"              ], 
+          ["Odyssay",            "Optimus"            ], 
+          ["Traga-a-Vasilha",    "Thanos"             ], 
+          ["Auterna",            "Carvão"             ], 
+          ["Dolgorsuren",        "MÔZÓVS"             ],
+
+          ["Drakkar",            "Bender"             ], 
+          ["Judith",             "Weng-Weng-2"        ], 
+          ["ZOW-E",              "C3+"                ], 
+          ["MetalGarurumon",     "Tohru"              ], 
+          ["Lobo",               "Sumo-EquipePUCPR1"  ], 
+          ["Itiban",             "BLL"                ], 
+          ["Daltonomo",          "Expert"             ], 
+          ["Mensageiro-do-Caos", "AngryBull"          ], 
+
+          ["Paçoca",             "Golem"              ], 
+          ["Moai",               "Paladino"           ], 
+          ["Odyssay",            "Traga-a-Vasilha"    ], 
+          ["Dolgorsuren",        "Auterna"            ],
+
+          ["Drakkar",            "PL-CH"              ], 
+          ["Jean-Michel",        "Judith"             ], 
+          ["Ronda",              "ZOW-E"              ], 
+          ["MetalGarurumon",     "Jack-Chumbo"        ], 
+          ["MÔZÓVS",             "Lobo"               ], 
+          ["Itiban",             "Carvão"             ], 
+          ["Daltonomo",          "Thanos"             ], 
+          ["Mensageiro-do-Caos", "Optimus"            ], 
+
+          ["Moai",               "Paçoca"             ], 
+          ["Dolgorsuren",        "Odyssay"            ], 
+
+          ["Drakkar",            "Jean-Michel"        ], 
+          ["MetalGarurumon",     "Ronda"              ], 
+          ["MÔZÓVS",             "Itiban"             ], 
+          ["Mensageiro-do-Caos", "Daltonomo"          ], 
+
+          ["Dolgorsuren",        "Moai"               ], 
+
+          ["Drakkar",            "Paladino"           ], 
+          ["Golem",              "MetalGarurumon"     ], 
+          ["MÔZÓVS",             "Auterna"            ], 
+          ["Traga-a-Vasilha",    "Mensageiro-do-Caos" ], 
+
+          ["Golem",              "Drakkar"            ], 
+
+          ["Golem",              "Odyssay"            ], 
+          ["Paçoca",             "MÔZÓVS"             ], 
+
+          ["Golem",              "Paçoca"             ],
+
+          ["Moai",               "Golem"              ],
+
+          ["Dolgorsuren",        "Moai" ]
+
+          
+        ]
+      }
+    ]
+  }
+}

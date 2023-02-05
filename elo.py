@@ -60,14 +60,9 @@ def read_competitions(path):
 
 
 def print_ordered(rankings, win_ratio):
-    for v in sorted( rankings.values(), reverse=True):
-            for key in rankings:
-                if rankings[ key ] == v:
-                    print("[", end="")
-                    print(", ".join(f"{num:03d}" for num in win_ratio[key]), end="] - ")
-                    print (str(round(v)), end=" - ")
-                    print (key)
-                    break
+    sorted_items = sorted(rankings.items(), key=lambda x: x[1], reverse=True)
+    for item in sorted_items:
+        print("[{:03d}, {:03d}] - {} - {}".format((win_ratio[item[0]][0]), (win_ratio[item[0]][1]), round(item[1]), item[0]))
     print("")
 
 
