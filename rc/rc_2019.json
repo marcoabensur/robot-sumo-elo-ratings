@@ -345,6 +345,66 @@
           ["Dolgorsuren-Dagvadorj",       "Kuro-Usagi"                  ],
           ["Dolgorsuren-Dagvadorj",       "Shiryu"                      ]
         ]
+      },
+
+      {
+        "name": "3° Torneio Tech Challenge",
+        "date": "02/11/2019",
+        "link": "https://challonge.com/pt_BR/tc_RC",
+
+        "matches": [
+          ["Trincabotz",           "OMEGABOTZ"                 ],
+          ["ThundeRatz",           "Phoenix"                   ],
+          ["OMEGABOTZ",            "KIMAUÁNISSO"               ],
+          ["Equipe-Paralela",      "OMEGABOTZ"                 ],
+          ["KIMAUÁNISSO",          "OMEGABOTZ"                 ],
+          ["Trincabotz",           "RSM-Robótica"              ],
+          ["ThundeRatz",           "OMEGABOTZ"                 ],
+          ["KIMAUÁNISSO",          "Equipe-Paralela"           ],
+          ["KIMAUÁNISSO",          "Phoenix"                   ],
+          ["ThundeRatz",           "Trincabotz"                ],
+          ["Equipe-Paralela",      "KIMAUÁNISSO"               ],
+          ["Raijū",                "ThundeRatz"                ],
+          ["ThundeRatz",           "OMEGABOTZ"                 ],
+          ["ThundeRatz",           "RSM-Robótica"              ],
+          ["KIMAUÁNISSO",          "Raijū"                     ],
+          ["ThundeRatz",           "OMEGABOTZ"                 ],
+          ["ThundeRatz",           "KIMAUÁNISSO"               ],
+          ["KIMAUÁNISSO",          "ThundeRatz"                ],
+          ["OMEGABOTZ",            "Raijū"                     ],
+          ["Equipe-Paralela",      "OMEGABOTZ"                 ],
+          ["Equipe-Paralela",      "Trincabotz"                ],
+          ["KIMAUÁNISSO",          "Equipe-Paralela"           ],
+          ["KIMAUÁNISSO",          "ThundeRatz"                ],
+          ["KIMAUÁNISSO",          "ThundeRatz"                ] 
+        ],
+
+        "matches-robots": [
+          ["Hariyama",                 "Drakkar"                          ],
+          ["Stonehenge",               "Ronda"                            ],
+          ["Shiryu",                   "Frank-RC"                         ],
+          ["Kuro-Usagi",               "RalaCoxa"                         ],
+          ["Dolgorsuren-Dagvadorj",    "RiscaFaca"                        ],
+          ["Hariyama",                 "JPLSM"                            ],
+          ["Stonehenge",               "Shiryu"                           ],
+          ["Eleven-RC",                "Kuro-Usagi"                       ],
+          ["Frank-RC",                 "Ronda"                            ],
+          ["Stonehenge",               "Hariyama"                         ],
+          ["Kuro-Usagi",               "Frank-RC"                         ],
+          ["Raijū",                    "Moai-RC"                          ],
+          ["Moai-RC",                  "RiscaFaca"                        ],
+          ["Moai-RC",                  "JPLSM"                            ],
+          ["Dolgorsuren-Dagvadorj",    "Raijū"                            ],
+          ["Moai-RC",                  "Shiryu"                           ],
+          ["Stonehenge",               "Dolgorsuren-Dagvadorj"            ],
+          ["Eleven-RC",                "Moai-RC"                          ],
+          ["Drakkar",                  "Raijū"                            ],
+          ["Kuro-Usagi",               "Drakkar"                          ],
+          ["Kuro-Usagi",               "Hariyama"                         ],
+          ["Eleven-RC",                "Kuro-Usagi"                       ],
+          ["Eleven-RC",                "Stonehenge"                       ],
+          ["Eleven-RC",                "Stonehenge"                       ]
+        ]
       }
     ]
   }
