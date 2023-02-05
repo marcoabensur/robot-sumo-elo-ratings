@@ -112,7 +112,7 @@
           ["KIMAUÁNISSO",    "OMEGABOTZ"       ],
           ["FEG-Robótica",   "French-Team"     ],
           ["OMEGABOTZ",      "FEG-Robótica"    ],
-          ["RobotBulls",     "Valeska"         ],
+          ["RobotBulls",     "MinervaBots"     ],
           ["FEG-Robótica",   "Trincabotz"      ],
           ["FEG-Robótica",   "Equipe-Phoenix"  ],
           ["KIMAUÁNISSO",    "OMEGABOTZ"       ],
@@ -124,13 +124,13 @@
           ["FEG-Robótica",   "KIMAUÁNISSO"     ],
           ["OMEGABOTZ",      "Equipe-Paralela" ],
           ["OMEGABOTZ",      "FEG-Robótica"    ],
-          ["Valeska",        "Equipe-Phoenix"  ],
-          ["Valeska",        "Trincabotz"      ],
+          ["MinervaBots",    "Equipe-Phoenix"  ],
+          ["MinervaBots",    "Trincabotz"      ],
           ["OMEGABOTZ",      "ThundeRatz"      ],
           ["OMEGABOTZ",      "FEG-Robótica"    ],
           ["OMEGABOTZ",      "Equipe-Phoenix"  ],
           ["RobotBulls",     "OMEGABOTZ"       ],
-          ["OMEGABOTZ",      "Valeska"         ],
+          ["OMEGABOTZ",      "MinervaBots"     ],
           ["OMEGABOTZ",      "RobotBulls"      ],
           ["OMEGABOTZ",      "FEG-Robótica"    ],
           ["KIMAUÁNISSO",    "OMEGABOTZ"       ],
@@ -176,8 +176,258 @@
           ["Eleven",     "Doge"           ],
           ["Eleven",     "Hachiko"        ]
         ]
+      },
+      {
+        "name": "Winter Challenge XV",
+        "date": "15-09-2019",
+        "link": "https://events.robocore.net/wcxv/brackets/20",
+        "matches": [
+          ["Trincabotz",       "Ball-Robotics"   ],
+          ["MinervaBots",      "Robótica-TERA"   ],
+          ["WestBots",         "RioBotz"         ],
+          ["RoboCamp",         "PatoBots"        ],
+          ["ThundeRatz",       "RobotBulls"      ],
+          ["OMEGABOTZ",        "WestBots"        ],
+
+          ["Trincabotz",       "MinervaBots"     ],
+          ["WestBots",         "RoboCamp"        ],
+          ["OMEGABOTZ",        "ThundeRatz"      ],
+          ["UERJBotz",         "DotBotz"         ],
+          ["MinervaBots",      "Crossbots"       ],
+          ["SALVADOR-VIPERS",  "MinervaBots"     ],
+          ["RobotBulls",       "Equipe-Paralela" ],
+          ["OMEGABOTZ",        "SALVADOR-VIPERS" ],
+
+          ["Robótica-TERA",    "Ball-Robotics"   ],
+          ["PatoBots",         "RioBotz"         ],
+          ["WestBots",         "RobotBulls"      ],
+
+          ["SALVADOR-VIPERS",  "Robótica-TERA"   ],
+          ["PatoBots",         "Equipe-Paralela" ],
+          ["WestBots",         "MinervaBots"     ],
+
+          ["WestBots",         "Trincabotz"      ],
+          ["OMEGABOTZ",        "UERJBotz"        ],
+          ["SALVADOR-VIPERS",  "MinervaBots"     ],
+          ["RobotBulls",       "OMEGABOTZ"       ],
+
+          ["PatoBots",         "SALVADOR-VIPERS" ],
+          ["WestBots",         "Crossbots"       ],
+          ["ThundeRatz",       "DotBotz"         ],
+          ["MinervaBots",      "RoboCamp"        ],
+
+          ["OMEGABOTZ",        "WestBots"        ],
+          ["RobotBulls",       "SALVADOR-VIPERS" ],
+
+          ["PatoBots",         "UERJBotz"        ],
+          ["Trincabotz",       "WestBots"        ],
+          ["ThundeRatz",       "OMEGABOTZ"       ],
+
+          ["RobotBulls",       "OMEGABOTZ"       ],
+
+          ["Trincabotz",       "PatoBots"        ],
+          ["MinervaBots",      "ThundeRatz"      ],
+
+          ["Trincabotz",       "SALVADOR-VIPERS" ],
+          ["MinervaBots",      "WestBots"        ],
+          
+          ["MinervaBots",      "Trincabotz"      ],
+          
+          ["MinervaBots",      "OMEGABOTZ"       ],
+
+          ["RobotBulls",       "MinervaBots"     ]
+        ],
+
+        "matches-robots": [
+          ["Hariyama",         "Sumo-BALL"        ],
+          ["Atena",            "Jack-Chumbo"      ],
+          ["Rancor",           "Aldebaran+"       ],
+          ["Brutus",           "Cinnamon-Breaker" ],
+          ["Moai",             "Bullbasaur"       ],
+          ["Shiryu",           "Cocha"            ],
+
+          ["Hariyama",         "Atena"            ],
+          ["Rancor",           "Brutus"           ],
+          ["Shiryu",           "Moai"             ],
+          ["Sr.Tarugo",        "Golden-Boy"       ],
+          ["Auterna",          "CaLipe"           ],
+          ["MÔZÓVS",           "Valeska"          ],
+          ["PitBull",          "Kuro-Usagi"       ],
+          ["RiscaFaca",        "Traga-a-Vasilha"  ],
+
+          ["Jack-Chumbo",      "Sumo-BALL"        ],
+          ["Cinnamon-Breaker", "Aldebaran+"       ],
+          ["Cocha",            "Bullbasaur"       ],
+
+          ["Traga-a-Vasilha",  "Jack-Chumbo"      ],
+          ["Cinnamon-Breaker", "Kuro-Usagi"       ],
+          ["Cocha",            "Valeska"          ],
+
+          ["Rancor",           "Hariyama"         ],
+          ["Shiryu",           "Sr.Tarugo"        ],
+          ["MÔZÓVS",           "Auterna"          ],
+          ["PitBull",          "RiscaFaca"        ],
+
+          ["Cinnamon-Breaker", "Traga-a-Vasilha"  ],
+          ["Cocha",            "CaLipe"           ],
+          ["Moai",             "Golden-Boy"       ],
+          ["Atena",            "Brutus"           ],
+
+          ["Shiryu",           "Rancor"           ],
+          ["PitBull",          "MÔZÓVS"           ],
+
+          ["Cinnamon-Breaker", "Sr.Tarugo"        ],
+          ["Hariyama",         "Cocha"            ],
+          ["Moai",             "RiscaFaca"        ],
+
+          ["PitBull",          "Shiryu"           ],
+
+          ["Hariyama",         "Cinnamon-Breaker" ],
+          ["Atena",            "Moai"             ],
+
+          ["Hariyama",         "MÔZÓVS"           ],
+          ["Atena",            "Rancor"           ],
+          
+          ["Atena",            "Hariyama"         ],
+          
+          ["Atena",            "Shiryu"           ],
+
+          ["PitBull",          "Atena"            ]
+          
+        ]
+      },
+      {
+        "name": "2° Torneio Bosch",
+        "date": "12-10-2019",
+        "link": "https://challonge.com/bosch_auto",
+        "matches": [
+          ["ThundeRatz",     "OMEGABOTZ"       ],
+          ["KIMAUÁNISSO",    "OMEGABOTZ"       ],
+          ["MinervaBots",    "Equipe-Phoenix"  ],
+          ["RobotBulls",     "OMEGABOTZ"       ],
+          ["Equipe-Phoenix", "MinervaBots"     ],
+          ["Robrow-Team",    "OMEGABOTZ"       ],
+          ["KIMAUÁNISSO",    "Equipe-Paralela" ],
+          ["ThundeRatz",     "OMEGABOTZ"       ],
+          ["Robrow-Team",    "MinervaBots"     ],
+          ["KIMAUÁNISSO",    "FEG-Robótica"    ],
+          ["RSM-Robótica",   "FEG-Robótica"    ],
+          ["ThundeRatz",     "KIMAUÁNISSO"     ],
+          ["RobotBulls",     "MinervaBots"     ],
+          ["KIMAUÁNISSO",    "Equipe-Phoenix"  ],
+          ["OMEGABOTZ",      "Equipe-Paralela" ],
+          ["OMEGABOTZ",      "OMEGABOTZ"       ],
+          ["OMEGABOTZ",      "Equipe-Phoenix"  ],
+          ["RSM-Robótica",   "Robrow-Team"     ],
+          ["RobotBulls",     "ThundeRatz"      ],
+          ["KIMAUÁNISSO",    "RSM-Robótica"    ],
+          ["OMEGABOTZ",      "FEG-Robótica"    ],
+          ["FEG-Robótica",   "MinervaBots"     ],
+          ["OMEGABOTZ",      "OMEGABOTZ"       ],
+          ["OMEGABOTZ",      "MinervaBots"     ],
+          ["KIMAUÁNISSO",    "FEG-Robótica"    ],
+          ["MinervaBots",    "OMEGABOTZ"       ],
+          ["Robrow-Team",    "OMEGABOTZ"       ],
+          ["Equipe-Phoenix", "OMEGABOTZ"       ],
+          ["KIMAUÁNISSO",    "MinervaBots"     ],
+          ["Robrow-Team",    "Equipe-Phoenix"  ],
+          ["KIMAUÁNISSO",    "RSM-Robótica"    ],
+          ["KIMAUÁNISSO",    "RobotBulls"      ],
+          ["Robrow-Team",    "ThundeRatz"      ],
+          ["KIMAUÁNISSO",    "Robrow-Team"     ],
+          ["KIMAUÁNISSO",    "RobotBulls" ]          
+        ],
+
+        "matches-robots": [
+          ["Stonehenge-Auto",          "Shiryu"                   ],
+          ["Eleven",                   "RiscaFaca"                ],
+          ["Atena",                    "Honda"                    ],
+          ["Bullbasaur-Descontrolado", "Zerum"                    ],
+          ["Golem",                    "Auterna"                  ],
+          ["Salomão",                  "Zeidan"                   ],
+          ["Frank",                    "Kuro-Usagi"               ],
+          ["Stonehenge-Auto",          "Doge"                     ],
+          ["Salomão",                  "Valeska"                  ],
+          ["Eleven",                   "Loba"                     ],
+          ["JPLSM",                    "Hachiko"                  ],
+          ["Stonehenge-Auto",          "Frank"                    ],
+          ["Bullbasaur-Descontrolado", "Atena"                    ],
+          ["Eleven",                   "Golem"                    ],
+          ["Zeidan",                   "Kuro-Usagi"               ],
+          ["RiscaFaca",                "Zerum"                    ],
+          ["RiscaFaca",                "Honda"                    ],
+          ["JPLSM",                    "Salomão"                  ],
+          ["Bullbasaur-Descontrolado", "Stonehenge-Auto"          ],
+          ["Eleven",                   "JPLSM"                    ],
+          ["Shiryu",                   "Hachiko"                  ],
+          ["Loba",                     "Auterna"                  ],
+          ["Doge",                     "Zeidan"                   ],
+          ["Shiryu",                   "Valeska"                  ],
+          ["Frank",                    "Loba"                     ],
+          ["Atena",                    "Shiryu"                   ],
+          ["Salomão",                  "RiscaFaca"                ],
+          ["Golem",                    "Doge"                     ],
+          ["Frank",                    "Atena"                    ],
+          ["Salomão",                  "Golem"                    ],
+          ["Frank",                    "JPLSM"                    ],
+          ["Eleven",                   "Bullbasaur-Descontrolado" ],
+          ["Salomão",                  "Stonehenge-Auto"          ],
+          ["Frank",                    "Salomão"                  ],
+          ["Frank",                    "Bullbasaur-Descontrolado" ]
+        ]
+      },
+      {
+        "name": "3º Tech Challenge",
+        "date": "25-03-2019",
+        "link": "https://challonge.com/rsm_2019_sumo_3kg_autonomo",
+        "matches": [
+          ["ThundeRatz", "Trincabotz" ],
+          ["KIMAUÁNISSO", "RSM-Robótica" ],
+          ["KIMAUÁNISSO", "OMEGABOTZ" ],
+          ["KIMAUÁNISSO", "FEG-Robótica" ],
+          ["ThundeRatz", "OMEGABOTZ" ],
+          ["ThundeRatz", "OMEGABOTZ" ],
+          ["ThundeRatz", "Equipe-Paralela" ],
+          ["RSM-Robótica", "FEG-Robótica" ],
+          ["Equipe-Paralela", "Trincabotz" ],
+          ["OMEGABOTZ", "OMEGABOTZ" ],
+          ["KIMAUÁNISSO", "ThundeRatz" ],
+          ["OMEGABOTZ", "RSM-Robótica" ],
+          ["Raijū", "KIMAUÁNISSO" ],
+          ["KIMAUÁNISSO", "OMEGABOTZ" ],
+          ["Equipe-Paralela", "KIMAUÁNISSO" ],
+          ["ThundeRatz", "Equipe-Paralela" ],
+          ["ThundeRatz", "Raijū" ],
+          ["Raijū", "OMEGABOTZ" ],
+          ["KIMAUÁNISSO", "ThundeRatz" ],
+          ["ThundeRatz", "Raijū" ],
+          ["KIMAUÁNISSO", "ThundeRatz" ]
+        ],
+
+        "matches-robots": [
+          ["Stonehenge-Auto", "Hariyama" ],
+          ["Frank", "JPLSM" ],
+          ["Eleven", "Shiryu" ],
+          ["Eleven", "Hachiko" ],
+          ["Moai", "Zeidan" ],
+          ["Stonehenge-Auto", "RiscaFaca" ],
+          ["Moai", "Kuro-Usagi" ],
+          ["JPLSM", "Hachiko" ],
+          ["Equipe-Paralela", "Hariyama" ],
+          ["RiscaFaca", "Zeidan" ],
+          ["Eleven", "Stonehenge-Auto" ],
+          ["RiscaFaca", "JPLSM" ],
+          ["Raijū", "Frank" ],
+          ["Frank", "Shiryu" ],
+          ["Kuro-Usagi", "Frank" ],
+          ["Stonehenge-Auto", "Kuro-Usagi" ],
+          ["Moai", "Raijū" ],
+          ["Raijū", "RiscaFaca" ],
+          ["Eleven", "Moai" ],
+          ["Stonehenge-Auto", "Raijū" ],
+          ["Eleven", "Moai" ]
+        ]
       }
-      
     ]
   }
 }
