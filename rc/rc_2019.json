@@ -73,8 +73,6 @@
           ["KIMAUÁNISSO",        "Phoenix"                                  ],
           ["Phoenix",            "OMEGABOTZ"                                ],
           ["KIMAUÁNISSO",        "Phoenix"                                  ]
-        
-        
         ],
 
         "matches-robots": [
@@ -95,8 +93,97 @@
           ["Ronda",                      "Itiban"               ],
           ["Paçoca-RC",                  "Ronda"                ]
         ]
-      }
+      },
 
+      {
+        "name": "2° Torneio SMILE",
+        "date": "25/05/2019",
+        "link": "https://challonge.com/pt_BR/smileRC",
+
+        "matches": [
+          ["Equipe-Paralela",       "OMEGABOTZ"                              ],
+          ["MinervaBots",           "OMEGABOTZ"                              ],
+          ["OMEGABOTZ",             "ESC-Escola-de-Robótica-São-Caetano"     ],
+          ["RobotBulls",            "ESC-Escola-de-Robótica-São-Caetano"     ],
+          ["ThundeRatz",            "OMEGABOTZ"                              ],
+          ["ThundeRatz",            "RSM-Robótica"                           ],
+          ["KIMAUÁNISSO",           "OMEGABOTZ"                              ],
+          ["MinervaBots",           "Phoenix"                                ],
+          ["KIMAUÁNISSO",           "RobotBulls"                             ],
+          ["Equipe-Paralela",       "Trincabotz"                             ],
+          ["OMEGABOTZ",             "Phoenix"                                ],
+          ["ThundeRatz",            "MinervaBots"                            ],
+          ["KIMAUÁNISSO",           "EtecAP"                                 ],
+          ["KIMAUÁNISSO",           "ThundeRatz"                             ],
+          ["MinervaBots",           "KIMAUÁNISSO"                            ],
+          ["ThundeRatz",            "Equipe-Paralela"                        ],
+          ["RobotBulls",            "OMEGABOTZ"                              ],
+          ["KIMAUÁNISSO",           "OMEGABOTZ"                              ],
+          ["ThundeRatz",            "KIMAUÁNISSO"                            ],
+          ["KIMAUÁNISSO",           "MinervaBots"                            ],
+          ["KIMAUÁNISSO",           "ThundeRatz"                             ],
+          ["MinervaBots",           "OMEGABOTZ"                              ],
+          ["Trincabotz",            "ESC-Escola-de-Robótica-São-Caetano"     ],
+          ["OMEGABOTZ",             "Phoenix"                                ],
+          ["OMEGABOTZ",             "ESC-Escola-de-Robótica-São-Caetano"     ],
+          ["Phoenix",               "RobotBulls"                             ],
+          ["OMEGABOTZ",             "RSM-Robótica"                           ],
+          ["Trincabotz",            "MinervaBots"                            ],
+          ["Equipe-Paralela",       "OMEGABOTZ"                              ],
+          ["ThundeRatz",            "Trincabotz"                             ],
+          ["KIMAUÁNISSO",           "OMEGABOTZ"                              ],
+          ["OMEGABOTZ",             "Phoenix"                                ],
+          ["ThundeRatz",            "KIMAUÁNISSO"                            ],
+          ["Equipe-Paralela",       "OMEGABOTZ"                              ],
+          ["KIMAUÁNISSO",           "ThundeRatz"                             ],
+          ["MinervaBots",           "Equipe-Paralela"                        ],
+          ["MinervaBots",           "KIMAUÁNISSO"                            ],
+          ["ThundeRatz",            "MinervaBots"                            ],
+          ["KIMAUÁNISSO",           "ThundeRatz"                             ]
+        ],
+
+        "matches-robots": [
+          ["Kuro-Usagi",                "Shiryu"                    ],
+          ["Valeska",                   "Zerum"                     ],
+          ["Itiban",                    "Rampinha"                  ],
+          ["Bullbasaur-RC",             "Máquina-do-Mal"            ],
+          ["Moai-RC",                   "Drakkar"                   ],
+          ["Moai-RC",                   "JPLSM"                     ],
+          ["Eleven-RC",                 "Blanka"                    ],
+          ["Valeska",                   "Ronda"                     ],
+          ["Dolgorsuren-Dagvadorj",     "Bullbasaur-RC"             ],
+          ["Kuro-Usagi",                "Hariyama"                  ],
+          ["Itiban",                    "Golem"                     ],
+          ["Stonehenge",                "Auterna"                   ],
+          ["Frank",                     "EtecAP"                    ],
+          ["Eleven-RC",                 "Moai-RC"                   ],
+          ["Valeska",                   "Dolgorsuren-Dagvadorj"     ],
+          ["Stonehenge",                "Kuro-Usagi"                ],
+          ["Bullbasaur-RC",             "Shiryu"                    ],
+          ["Frank",                     "Itiban"                    ],
+          ["Stonehenge",                "Frank"                     ],
+          ["Eleven-RC",                 "Valeska"                   ],
+          ["Eleven-RC",                 "Stonehenge"                ],
+          ["Auterna",                   "Zerum"                     ],
+          ["Hariyama",                  "Máquina-do-Mal"            ],
+          ["Drakkar",                   "Golem"                     ],
+          ["Blanka",                    "Rampinha"                  ],
+          ["Ronda",                     "Bullbasaur-RC"             ],
+          ["Blanka",                    "JPLSM"                     ],
+          ["Hariyama",                  "Auterna"                   ],
+          ["Kuro-Usagi",                "Blanka"                    ],
+          ["Moai-RC",                   "Hariyama"                  ],
+          ["Dolgorsuren-Dagvadorj",     "Drakkar"                   ],
+          ["Itiban",                    "Ronda"                     ],
+          ["Moai-RC",                   "Dolgorsuren-Dagvadorj"     ],
+          ["Kuro-Usagi",                "Itiban"                    ],
+          ["Frank",                     "Moai-RC"                   ],
+          ["Valeska",                   "Kuro-Usagi"                ],
+          ["Valeska",                   "Frank"                     ],
+          ["Stonehenge",                "Valeska"                   ],
+          ["Eleven-RC",                 "Stonehenge"                ]
+        ]
+      }
 
     ]
   }
