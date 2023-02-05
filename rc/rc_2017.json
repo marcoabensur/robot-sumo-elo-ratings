@@ -138,13 +138,13 @@
 
         "matches-robots": [
           ["Stonehenge",        "Porco-Aranha"    ],
-          ["Titan",             "Mr.PIG"         ],
+          ["Titan",             "Mr.PIG"          ],
           ["Harry-Porco",       "Zerum"           ],
           ["Eleven-RC",         "Moai-RC"         ],
           ["Paçoca-RC",         "Stonehenge"      ],
       
           ["Moai-RC",           "Porco-Aranha"    ],
-          ["Mr.PIG",           "Stonehenge"      ],
+          ["Mr.PIG",           "Stonehenge"       ],
           ["Moai-RC",           "Zerum"           ],
     
           ["Paçoca-RC",         "Titan"           ],
