@@ -3,6 +3,32 @@
   "competitions": {
     "competition": [
       {
+        "name": "IRON Cup 2018",
+        "date": "04/03/2018",
+        "link": "https://events.robocore.net/ironcup-2018/brackets/21",
+
+        "matches": [
+          ["ThundeRatz",                            "RioBotz"                                ],
+          ["ESC-Escola-de-Robótica-São-Caetano",    "Bodetronic"                             ],
+          ["RioBotz",                               "Bodetronic"                             ],
+          ["Stonehenge",                            "ESC-Escola-de-Robótica-São-Caetano"     ],
+          ["RioBotz",                               "ThundeRatz"                             ],
+          ["RioBotz",                               "ESC-Escola-de-Robótica-São-Caetano"     ],
+          ["Stonehenge",                            "RioBotz"                                ]
+          ],
+
+        "matches-robots": [
+          ["Moai-RC",        "C3"         ],
+          ["Mareta",         "Tomoe"      ],
+          ["C3",             "Tomoe"      ],
+          ["Stonehenge",     "Mareta"     ],
+          ["C3",             "Moai-RC"    ],
+          ["C3",             "Mareta"     ],
+          ["Stonehenge",     "C3"         ]
+        ]
+      },
+      
+      {
         "name": "1° Torneio SMILE",
         "date": "26/05/2018",
         "link": "https://challonge.com/pt_BR/smile_RC",
