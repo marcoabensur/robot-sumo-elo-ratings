@@ -61,8 +61,17 @@ def read_competitions(path):
 
 def print_ordered(rankings, win_ratio):
     sorted_items = sorted(rankings.items(), key=lambda x: x[1], reverse=True)
+    count = 0
     for item in sorted_items:
-        print("[{:03d}, {:03d}] - {} - {}".format((win_ratio[item[0]][0]), (win_ratio[item[0]][1]), round(item[1]), item[0]))
+        valid = False;
+        if (win_ratio[item[0]][0] + win_ratio[item[0]][1] >= 10):
+            count += 1
+            # print("| # " + str(count) + " | ", end="")
+            print("| #{:02d} | ".format(count), end="")
+        else:
+            print("|  *  | ", end="")
+
+        print("{:02d} / {:02d} | {} | {}".format((win_ratio[item[0]][0]), (win_ratio[item[0]][1]), round(item[1]), item[0]))
     print("")
 
 

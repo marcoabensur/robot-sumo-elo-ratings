@@ -58,10 +58,10 @@
           ["WickedBotz",       "SALVADOR-VIPERS"  ],
           ["ThundeRatz",       "FEG-Robótica"     ],
           ["KIMAUÁNISSO",      "Ztronics-Unip"    ],
-          ["KokiBot",          "MinervaBots"      ],
+          ["PatoBots",          "MinervaBots"      ],
 
           ["ThundeRatz",       "WickedBotz"       ],
-          ["KIMAUÁNISSO",      "KokiBot"          ],
+          ["KIMAUÁNISSO",      "PatoBots"          ],
 
           ["FEG-Robótica",     "ThundeRatz"       ],
           ["KIMAUÁNISSO",      "SALVADOR-VIPERS"  ],
