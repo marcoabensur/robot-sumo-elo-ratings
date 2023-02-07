@@ -54,6 +54,55 @@
           ["RiscaFaca",      "Hariyama"                 ],
           ["Eleven-RC",      "RiscaFaca"                ]
         ]
+      },
+
+      {
+        "name": "RSM Challenge 2021",
+        "date": "15/12/2021",
+        "link": "https://challonge.com/pt_BR/rsm2021_3krc",
+
+        "matches": [
+          ["RobotBulls",         "SALVADOR-VIPERS"      ],
+          ["ThundeRatz",         "OMEGABOTZ"            ],
+          ["ThundeRatz",         "Phoenix"              ],
+          ["Uai!rrior",          "RobotBulls"           ],
+          ["Equipe-Paralela",    "ThundeRatz"           ],
+          ["OMEGABOTZ",          "Phoenix"              ],
+          ["Phoenix",            "SALVADOR-VIPERS"      ],
+          ["Phoenix",            "OMEGABOTZ"            ],
+          ["Phoenix",            "ThundeRatz"           ],
+          ["Phoenix",            "RobotBulls"           ],
+          ["OMEGABOTZ",          "Uai!rrior"            ],
+          ["ThundeRatz",         "Equipe-Paralela"      ],
+          ["Phoenix",            "Uai!rrior"            ],
+          ["Equipe-Paralela",    "Phoenix"              ],
+          ["Equipe-Paralela",    "Phoenix"              ],
+          ["ThundeRatz",         "OMEGABOTZ"            ],
+          ["Equipe-Paralela",    "OMEGABOTZ"            ],
+          ["ThundeRatz",         "Equipe-Paralela"      ]
+          ],
+
+        "matches-robots": [
+          ["Bullvidoso-Controlado",  "Traga-Vasilha"            ],
+          ["Galena-RC",              "Shiryu"                   ],
+          ["Moai-RC",                "Mooncake"                 ],
+          ["Zoio",                   "Bullvidoso-Controlado"    ],
+          ["Kuro-Usagi",             "Galena-RC"                ],
+          ["RiscaFaca",              "Ronda"                    ],
+          ["Mooncake",               "Traga-Vasilha"            ],
+          ["Ronda",                  "Shiryu"                   ],
+          ["Mooncake",               "Galena-RC"                ],
+          ["Ronda",                  "Bullvidoso-Controlado"    ],
+          ["RiscaFaca",              "Zoio"                     ],
+          ["Moai-RC",                "Kuro-Usagi"               ],
+          ["Mooncake",               "Zoio"                     ],
+          ["Kuro-Usagi",             "Ronda"                    ],
+          ["Kuro-Usagi",             "Mooncake"                 ],
+          ["Moai-RC",                "RiscaFaca"                ],
+          ["Kuro-Usagi",             "RiscaFaca"                ],
+          ["Moai-RC",                "Kuro-Usagi"               ]
+          
+        ]
       }
     ]
   }
