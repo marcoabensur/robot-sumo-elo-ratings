@@ -59,12 +59,11 @@ def read_competitions(path):
 
 
 
-def print_ordered(rankings, win_ratio):
+def print_ordered(rankings, win_ratio, elo_threshold):
     sorted_items = sorted(rankings.items(), key=lambda x: x[1], reverse=True)
     count = 0
     for item in sorted_items:
-        valid = False;
-        if (win_ratio[item[0]][0] + win_ratio[item[0]][1] >= 10):
+        if (win_ratio[item[0]][0] + win_ratio[item[0]][1] >= elo_threshold):
             count += 1
             # print("| # " + str(count) + " | ", end="")
             print("| #{:02d} | ".format(count), end="")
@@ -75,14 +74,16 @@ def print_ordered(rankings, win_ratio):
     print("")
 
 
-def print_detailed_info(competition_name, year_ratings, complete_ratings, competition_date, year_win_ratio, complete_win_ratio):
+def print_detailed_info(competition_name, year_ratings, complete_ratings, competition_date, year_win_ratio, complete_win_ratio, rating_type):
     print_header(competition_name)
     print_header(competition_date)
     print("\r\nYear Ratings")
-    print_ordered(year_ratings, year_win_ratio)
+    print_ordered(year_ratings, year_win_ratio, 5)
     print("Complete Ratings")
-    print_ordered(complete_ratings, complete_win_ratio)
-
+    if (rating_type == "robot"):
+        print_ordered(complete_ratings, complete_win_ratio, 8)
+    else:
+        print_ordered(complete_ratings, complete_win_ratio, 10)
 
 def print_header(header):
     len_header = len(header)
@@ -139,11 +140,16 @@ def main():
             complete_ratings = update_ratings(matches, complete_ratings)
 
             if (print_logs):
-                print_detailed_info(competition['name'], year_ratings, complete_ratings, competition['date'], year_wins_and_losses, complete_wins_and_losses)
+                print_detailed_info(competition['name'], year_ratings, complete_ratings,
+                                    competition['date'], year_wins_and_losses, complete_wins_and_losses, rating_type)
 
         if (not print_logs):
             print("Complete Ratings\r\n")
-            print_ordered(complete_ratings, complete_wins_and_losses)
+            if (rating_type == "robot"):
+                print_ordered(complete_ratings, complete_wins_and_losses, 8)
+            else:
+                print_ordered(complete_ratings, complete_wins_and_losses, 10)
+
 
 
 
