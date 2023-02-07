@@ -29,7 +29,10 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 ## Ranking Times Sumô 3kg Autônomo
 
-### Ranking Geral 2017-2022
+### Ranking Geral Times 2017-2022
+
+<details>
+<summary>Times 2017-2022</summary>
 
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
@@ -76,6 +79,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 00 / 06 | 1443 | Ball-Robotics
 | #20 | 05 / 12 | 1441 | UERJBotz
 
+</details>
 
 ### Ranking Anual
 
@@ -239,7 +243,11 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 ## Ranking Robôs Sumô 3kg Autônomo
 
-### Ranking Geral 2017-2022
+### Ranking Geral Robôs 2017-2022
+
+<details>
+<summary>Robôs 2017-2022</summary>
+
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 43 / 11 | 1685 | Eleven
@@ -341,7 +349,9 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 00 / 04 | 1461 | Sumo-BALL
 | #35 | 06 / 13 | 1448 | Shiryu
 | #36 | 02 / 09 | 1443 | Valeska
+</details>
 
+### Ranking Anual
 <details>
 <summary>2022</summary>
 
