@@ -301,6 +301,32 @@
           ["Paçoca",             "Golem"              ],
           ["Drakkar",            "Eleven"             ]
         ]
+      },
+      {
+        "name": "2° Tech Challenge",
+        "date": "25-11-2018",
+        "link": "https://challonge.com/tcAuto",
+        "matches": [
+          ["FEG-Robótica", "KIMAUÁNISSO" ],
+          ["ThundeRatz",   "OMEGABOTZ"   ],
+          ["FEG-Robótica", "OMEGABOTZ"   ],
+          ["ThundeRatz",   "KIMAUÁNISSO" ],
+          ["OMEGABOTZ",    "KIMAUÁNISSO" ],
+          ["FEG-Robótica", "ThundeRatz"  ],
+          ["OMEGABOTZ",    "ThundeRatz"  ],
+          ["FEG-Robótica", "OMEGABOTZ"   ]
+        ],
+
+        "matches-robots": [
+          ["Metalgarurumon", "Paçoca"  ],
+          ["Moai",           "Itiban"  ],
+          ["Metalgarurumon", "Drakkar" ],
+          ["Moai",           "Eleven"  ],
+          ["Drakkar",        "Eleven"  ],
+          ["Metalgarurumon", "Moai"    ],
+          ["Drakkar",        "Moai"    ],
+          ["Metalgarurumon", "Drakkar" ]
+        ]
       }
       
     ]
