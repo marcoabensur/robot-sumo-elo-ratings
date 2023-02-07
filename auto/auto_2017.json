@@ -1,0 +1,150 @@
+{
+  "year": 2017,
+  "competitions": {
+    "competition": [
+      {
+        "name": "Winter Challenge XIII",
+        "date": "09-07-2017",
+        "link": "https://events.robocore.net/wc13/brackets/20",
+        "matches": [
+          ["Polybot-Grenoble", "SALVADOR-VIPERS"  ],
+          ["SALVADOR-VIPERS",  "OMEGABOTZ"        ],
+          ["FEG-Robótica",     "EniacChallengers" ],
+          ["PatoBots",         "UERJBotz"         ],
+          ["WestBots",         "Ball-Robotics"    ],
+          ["KIMAUÁNISSO",      "Trincabotz"       ],
+          ["Equipe-Phoenix",   "WestBots"         ],
+          ["MinervaBots",      "Engetonica"       ],
+          ["FEG-Robótica",     "Expert-Robots"    ],
+          ["ThundeRatz",       "GROM"             ],
+          ["FEG-Robótica",     "BrBots"           ],
+          ["Equipe-Phoenix",   "WestBots"         ],
+
+          ["SALVADOR-VIPERS",  "Polybot-Grenoble" ],
+          ["FEG-Robótica",     "PatoBots"         ],
+          ["WickedBotz",       "WestBots"         ],
+          ["Equipe-Phoenix",   "KIMAUÁNISSO"      ],
+          ["MinervaBots",      "Robótica-TERA"    ],
+          ["FEG-Robótica",     "ThundeRatz"       ],
+          ["FEG-Robótica",     "RioBotz"          ],
+          ["Ztronics",         "Equipe-Phoenix"   ],
+
+          ["SALVADOR-VIPERS",  "OMEGABOTZ"        ],
+          ["UERJBotz",         "EniacChallengers" ],
+          ["Trincabotz",       "WestBots"         ],
+          ["Expert-Robots",    "GROM"             ],
+
+          ["SALVADOR-VIPERS",  "FEG-Robótica"     ],
+          ["Equipe-Phoenix",   "WickedBotz"       ],
+          ["FEG-Robótica",     "MinervaBots"      ],
+          ["FEG-Robótica",     "Ztronics"         ],
+
+          ["SALVADOR-VIPERS",  "Equipe-Phoenix"   ],
+          ["UERJBotz",         "RioBotz"          ],
+          ["ThundeRatz",       "Ball-Robotics"    ],
+          ["Trincabotz",       "Robótica-TERA"    ],
+          ["KIMAUÁNISSO",      "Engetonica"       ],
+          ["Expert",           "WestBots"         ],
+          ["PatoBots",         "BrBots"           ],
+          ["Polybot-Grenoble", "WestBots"         ],
+
+          ["Equipe-Phoenix",   "SALVADOR-VIPERS"  ],
+
+          ["SALVADOR-VIPERS",  "UERJBotz"         ],
+          ["Moa",              "Trincabotz"       ],
+          ["KIMAUÁNISSO",      "Expert"           ],
+          ["PatoBots",         "Polybot-Grenoble" ],
+
+          ["WickedBotz",       "SALVADOR-VIPERS"  ],
+          ["ThundeRatz",       "FEG-Robótica"     ],
+          ["KIMAUÁNISSO",      "Ztronics"         ],
+          ["KokiBot",          "MinervaBots"      ],
+
+          ["ThundeRatz",       "WickedBotz"       ],
+          ["KIMAUÁNISSO",      "KokiBot"          ],
+
+          ["FEG-Robótica",     "ThundeRatz"       ],
+          ["KIMAUÁNISSO",      "SALVADOR-VIPERS"  ],
+
+          ["KIMAUÁNISSO",      "FEG-Robótica"     ],
+
+          ["KIMAUÁNISSO",      "FEG-Robótica"     ],
+
+          ["KIMAUÁNISSO",      "Equipe-Phoenix"],
+
+          ["KIMAUÁNISSO",      "Equipe-Phoenix"]
+        ],
+
+        "matches-robots": [
+          ["Hulk",            "MÔZÓVS"          ],
+          ["Traga-a-Vasilha", "Titan"           ],
+          ["Bernadete",       "Challenger"      ],
+          ["KokiBot",          "Catuaba"        ],
+          ["Gurizinho",       "Sumo-BALL"       ],
+          ["Paçoca",          "Daltonomo"       ],
+          ["Golem",           "Facão-de-Pau"    ],
+          ["Auterna",         "Panelinha"       ],
+          ["Lobo",            "Expert"          ],
+          ["Moai",            "Rhinoceros"      ],
+          ["MetalGarurumon",  "Cthulhu"         ],
+          ["Ronda",           "Ariticum"        ],
+
+          ["Traga-a-Vasilha", "Hulk"            ],
+          ["Bernadete",       "KokiBot"         ],
+          ["Bender-II",       "Gurizinho"       ],
+          ["Golem",           "Paçoca"          ],
+          ["Auterna",         "Unit-One"        ],
+          ["Lobo",            "Moai"            ],
+          ["MetalGarurumon",  "C3+"             ],
+          ["PLC-ROBOT",       "Ronda"           ],
+
+          ["MÔZÓVS",          "Titan"           ],
+          ["Catuaba",         "Challenger"      ],
+          ["Daltonomo",       "Facão-de-Pau"    ],
+          ["Expert",          "Rhinoceros"      ],
+
+          ["Traga-a-Vasilha", "Bernadete"       ],
+          ["Golem",           "Bender-II"       ],
+          ["Lobo",            "Auterna"         ],
+          ["MetalGarurumon",  "PLC-ROBOT"       ],
+
+          ["MÔZÓVS",          "Ronda"           ],
+          ["Catuaba",         "C3+"             ],
+          ["Moai",            "Sumo-BALL"       ],
+          ["Daltonomo",       "Unit-One"        ],
+          ["Paçoca",          "Panelinha"       ],
+          ["Expert",          "Gurizinho"       ],
+          ["KokiBot",         "Cthulhu"         ],
+          ["Hulk",            "Ariticum"        ],
+
+          ["Golem",           "Traga-a-Vasilha" ],
+
+          ["MÔZÓVS",          "Catuaba"         ],
+          ["Moa",             "Daltonomo"       ],
+          ["Paçoca",          "Expert"          ],
+          ["KokiBot",         "Hulk"            ],
+
+          ["Bender-II",       "MÔZÓVS"          ],
+          ["Moai",            "Bernadete"       ],
+          ["Paçoca",          "PLC-ROBOT"       ],
+          ["KokiBot",         "Auterna"         ],
+
+          ["Moai",            "Bender-II"       ],
+          ["Paçoca",          "KokiBot"         ],
+
+          ["Lobo",            "Moai"            ],
+          ["Paçoca",          "Traga-a-Vasilha" ],
+
+          ["Paçoca",          "Lobo"            ],
+
+          ["Paçoca",          "MetalGarurumon"  ],
+
+          ["Paçoca",          "Golem"],
+
+          ["Paçoca",          "Golem"]
+
+        ]
+      }
+    ]
+  }
+}
