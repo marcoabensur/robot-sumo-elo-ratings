@@ -11,10 +11,10 @@
           ["ThundeRatz",                            "RioBotz"                                ],
           ["ESC-Escola-de-Robótica-São-Caetano",    "Bodetronic"                             ],
           ["RioBotz",                               "Bodetronic"                             ],
-          ["Stonehenge",                            "ESC-Escola-de-Robótica-São-Caetano"     ],
+          ["ThundeRatz",                            "ESC-Escola-de-Robótica-São-Caetano"     ],
           ["RioBotz",                               "ThundeRatz"                             ],
           ["RioBotz",                               "ESC-Escola-de-Robótica-São-Caetano"     ],
-          ["Stonehenge",                            "RioBotz"                                ]
+          ["ThundeRatz",                            "RioBotz"                                ]
           ],
 
         "matches-robots": [
