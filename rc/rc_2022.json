@@ -1,0 +1,54 @@
+{
+  "year": 2022,
+  "competitions": {
+    "competition": [
+      {
+        "name": "ROBOTO LAB",
+        "date": "19/03/2022",
+        "link": "https://challonge.com/pt_BR/roboto_RC",
+
+        "matches": [
+          ["ThundeRatz",              "KIMAUÁNISSO"                      ],
+          ["KIMAUÁNISSO",             "Raijū"                            ],
+          ["KIMAUÁNISSO",             "ThundeRatz"                       ],
+          ["ThundeRatz",              "Equipe-Paralela"                  ],
+          ["KIMAUÁNISSO",             "OMEGABOTZ"                        ],
+          ["KIMAUÁNISSO",             "MinervaBots"                      ],
+          ["KIMAUÁNISSO",             "Phoenix"                          ],
+          ["Raijū",                   "MinervaBots"                      ],
+          ["Equipe-Paralela",         "Phoenix"                          ],
+          ["Equipe-Paralela",         "Raijū"                            ],
+          ["ThundeRatz",              "OMEGABOTZ"                        ],
+          ["KIMAUÁNISSO",             "ThundeRatz"                       ],
+          ["KIMAUÁNISSO",             "Phoenix"                          ],
+          ["ThundeRatz",              "KIMAUÁNISSO"                      ],
+          ["Equipe-Paralela",         "KIMAUÁNISSO"                      ],
+          ["Equipe-Paralela",         "ThundeRatz"                       ],
+          ["KIMAUÁNISSO",             "Equipe-Paralela"                  ]
+          ],
+
+        "matches-robots": [
+          ["Moai-RC",            "Charizard-RC"                ],
+          ["Frank-RC",           "Raijū-RC"                    ],
+          ["Paçoca-RC",          "Galena-RC"                   ],
+          ["Moai-RC",            "Kuro-Usagi"                  ],
+          ["Frank-RC",           "RiscaFaca"                   ],
+          ["Paçoca-RC",          "Valeska"                     ],
+          ["Eleven-RC",          "Ronda"                       ],
+          ["Raijū-RC",           "Valeska"                     ],
+          ["Kuro-Usagi",         "Mooncake"                    ],
+          ["Kuro-Usagi",         "Raijū-RC"                    ],
+          ["Galena-RC",          "RiscaFaca"                   ],
+          ["Paçoca-RC",          "Moai-RC"                     ],
+          ["Charizard-RC",       "Ronda"                       ],
+          ["Galena-RC",          "Charizard-RC"                ],
+          ["Kuro-Usagi",         "Frank-RC"                    ],
+          ["Kuro-Usagi",         "Galena-RC"                   ],
+          ["Eleven-RC",          "Kuro-Usagi"                  ]
+        ]
+      }
+
+     
+    ]
+  }
+}
