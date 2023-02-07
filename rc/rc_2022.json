@@ -188,6 +188,72 @@
           ["Galena-RC",                  "Eleven-RC"                    ],
           ["Paçoca-RC",                  "Galena-RC"                    ]
         ]
+      },
+
+      {
+        "name": "IRON Cup 2022",
+        "date": "16/10/2022",
+        "link": "https://events.robocore.net/ironcup-2022/brackets/21",
+
+        "matches": [
+          ["Phoenix",            "OMEGABOTZ"              ],
+          ["Phoenix",            "TamanduTech"            ],
+          ["RobotBulls",         "MinervaBots"            ],
+          ["RobotBulls",         "UFFight"                ],
+          ["Phoenix",            "ERA"                    ],
+          ["Uai!rrior",          "UERJBotz"               ],
+          ["OMEGABOTZ",          "Equipe-Atena-SEMEAR"    ],
+          ["OMEGABOTZ",          "Equipe-Atena-SEMEAR"    ],
+          ["UERJBotz",           "ERA"                    ],
+          ["MinervaBots",        "TamanduTech"            ],
+          ["Phoenix",            "RobotBulls"             ],
+          ["Trincabotz",         "RobotBulls"             ],
+          ["Uai!rrior",          "Phoenix"                ],
+          ["OMEGABOTZ",          "MinervaBots"            ],
+          ["RobotBulls",         "OMEGABOTZ"              ],
+          ["RobotBulls",         "UERJBotz"               ],
+          ["UFFight",            "MinervaBots"            ],
+          ["MinervaBots",        "Phoenix"                ],
+          ["Phoenix",            "Trincabotz"             ],
+          ["OMEGABOTZ",          "Uai!rrior"              ],
+          ["MinervaBots",        "UFFight"                ],
+          ["Phoenix",            "OMEGABOTZ"              ],
+          ["RobotBulls",         "Uai!rrior"              ],
+          ["Trincabotz",         "MinervaBots"            ],
+          ["RobotBulls",         "Trincabotz"             ],
+          ["RobotBulls",         "OMEGABOTZ"              ],
+          ["Phoenix",            "RobotBulls"             ]
+          ],
+
+        "matches-robots": [
+          ["Ronda",                       "RiscaFaca"                   ],
+          ["Ronda",                       "Pericão"                     ],
+          ["Bullbasaur-Controlado",       "Atena"                       ],
+          ["Bullvidoso-Controlado",       "Leia"                        ],
+          ["Mooncake",                    "Jotunheim"                   ],
+          ["Roberto",                     "Totoro-RC"                   ],
+          ["Shiryu",                      "Kurupira"                    ],
+          ["RiscaFaca",                   "Kurupira"                    ],
+          ["Totoro-RC",                   "Jotunheim"                   ],
+          ["Atena",                       "Pericão"                     ],
+          ["Ronda",                       "Bullbasaur-Controlado"       ],
+          ["Hariyama",                    "Bullvidoso-Controlado"       ],
+          ["Roberto",                     "Mooncake"                    ],
+          ["Shiryu",                      "Valeska"                     ],
+          ["Bullvidoso-Controlado",       "RiscaFaca"                   ],
+          ["Bullbasaur-Controlado",       "Totoro-RC"                   ],
+          ["Leia",                        "Valeska"                     ],
+          ["Atena",                       "Mooncake"                    ],
+          ["Ronda",                       "Hariyama"                    ],
+          ["Shiryu",                      "Roberto"                     ],
+          ["Atena",                       "Leia"                        ],
+          ["Ronda",                       "Shiryu"                      ],
+          ["Bullbasaur-Controlado",       "Roberto"                     ],
+          ["Hariyama",                    "Atena"                       ],
+          ["Bullbasaur-Controlado",       "Hariyama"                    ],
+          ["Bullbasaur-Controlado",       "Shiryu"                      ],
+          ["Ronda",                       "Bullbasaur-Controlado"       ]
+        ]
       }
     ]
   }
