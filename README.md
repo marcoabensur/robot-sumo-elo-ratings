@@ -6,15 +6,18 @@ O que é ELO? Porque escolhemos? Etc..
 ### Instruções
 Como rodar o programa?
 
-Como atualizar as planilhas
+Como atualizar as planilhas?
 
-Ordem das partidas
+Ordem das partidas?
 
+Partidas entre mesma equipes?
+
+W.O?
 
 ### Premissas
-Na tentaiv de se fazer um ranking mais justo e que reflita as reais habilidades dos competidores, optou-se por não se contabilizar no ranking geral times com menos de 10 partidas e duas competições e no ranking anual times com menos de 5 partidas. Isso porque para um elo ser mais representativo, um número maior de amostras se faz necessario.
+Na tentativa de se fazer um ranking mais justo e que reflita as reais habilidades dos competidores, optou-se por não se contabilizar no ranking geral times com menos de 10 partidas e duas competições e no ranking anual times com menos de 5 partidas. Isso porque para um elo ser mais representativo, um número maior de amostras se faz necessario.
 
-Além disso, para o ranking de robôs, considerou-se um mínimo de 8 partidas e 2 competições no ranking geral, e um mínimo de 5 partidas para o ranking anual.
+Além disso, para o ranking geral de robôs considerou-se um mínimo de 8 partidas e 2 competições. E, um mínimo de 5 partidas para o ranking anual.
 
 Dessa forma, as posições denominadas com "*" significam que o time ou o robô não atingiu o mínimo para ser contabilizado, entretanto seu "Elo" ja é calculado
 
