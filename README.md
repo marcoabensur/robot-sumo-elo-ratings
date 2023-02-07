@@ -1,5 +1,7 @@
 # Elo Ratings Sumô de Robôs Brasil
 
+## Table of Contents
+
 ## Introdução
 O que é ELO? Porque escolhemos? Etc..
 
@@ -27,7 +29,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 ### Ranking Geral 2017-2022
 
 | Position  | Win/Losses  | Elo  | Team              |
-|:---------: |:-----------:|-----:|:----------------:|
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 99 / 29 | 1703 | KIMAUÁNISSO
 | #02 | 61 / 37 | 1618 | ThundeRatz
 | #03 | 11 / 08 | 1553 | Robrow-Team
@@ -77,7 +79,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 #### 2022
 | Position  | Win/Losses  | Elo  | Team              |
-|:---------: |:-----------:|-----:|:----------------:|
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 23 / 10 | 1575 | KIMAUÁNISSO
 | #02 | 08 / 05 | 1536 | Sumomasters
 | #03 | 13 / 12 | 1518 | RobotBulls
@@ -98,7 +100,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 #### 2021
 | Position  | Win/Losses  | Elo  | Team              |
-|:---------: |:-----------:|-----:|:----------------:|
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 08 / 03 | 1548 | ThundeRatz
 | #02 | 05 / 02 | 1528 | KIMAUÁNISSO
 | #03 | 06 / 04 | 1517 | Equipe-Paralela
@@ -110,7 +112,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 #### 2020
 | Position  | Win/Losses  | Elo  | Team              |
-|:---------: |:-----------:|-----:|:----------------:|
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 05 / 00 | 1550 | RioBotz
 | #02 | 06 / 03 | 1528 | ThundeRatz
 | #03 | 04 / 04 | 1500 | MinervaBots
@@ -123,7 +125,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 #### 2019
 | Position  | Win/Losses  | Elo  | Team              |
-|:---------: |:-----------:|-----:|:----------------:|
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 31 / 06 | 1666 | KIMAUÁNISSO
 | #02 | 18 / 10 | 1572 | ThundeRatz
 | #03 | 14 / 10 | 1552 | RobotBulls
@@ -152,7 +154,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 #### 2018
 | Position  | Win/Losses  | Elo  | Team              |
-|:---------: |:-----------:|-----:|:----------------:|
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 25 / 10 | 1593 | KIMAUÁNISSO
 | #02 | 18 / 11 | 1557 | Equipe-Phoenix
 | #03 | 12 / 06 | 1551 | ThundeRatz
@@ -184,7 +186,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 #### 2017
 | Position  | Win/Losses  | Elo  | Team              |
-|:---------: |:-----------:|-----:|:----------------:|
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 15 / 01 | 1622 | KIMAUÁNISSO
 | #02 | 07 / 04 | 1529 | ThundeRatz
 | #03 | 04 / 02 | 1520 | PatoBots
@@ -213,7 +215,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 ### Ranking Geral 2017-2022
 | Position  | Win/Losses  | Elo  | Team              |
-|:---------: |:-----------:|-----:|:----------------:|
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 43 / 11 | 1685 | Eleven
 | #02 | 33 / 10 | 1641 | Paçoca
 |  *  | 07 / 00 | 1571 | Dolgorsuren
@@ -317,7 +319,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 #### 2022
 | Position  | Win/Losses  | Elo  | Team              |
-|:---------: |:-----------:|-----:|:----------------:|
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 14 / 04 | 1574 | Eleven
 | #02 | 07 / 01 | 1561 | Masakrator
 | #03 | 11 / 09 | 1527 | Bullbasauro-Descontrolado
@@ -348,7 +350,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 #### 2021
 | Position  | Win/Losses  | Elo  | Team              |
-|:---------: |:-----------:|-----:|:----------------:|
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 08 / 03 | 1549 | Moai
 |  *  | 04 / 00 | 1539 | Eleven
 | #02 | 06 / 04 | 1519 | Kuro-Usagi
@@ -363,7 +365,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 #### 2020
 | Position  | Win/Losses  | Elo  | Team              |
-|:---------: |:-----------:|-----:|:----------------:|
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 05 / 00 | 1549 | Aldebaran+
 | #02 | 04 / 01 | 1530 | Stonehenge-Auto
 | #03 | 03 / 02 | 1510 | Atena
@@ -380,7 +382,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 #### 2019
 | Position  | Win/Losses  | Elo  | Team              |
-|:---------: |:-----------:|-----:|:----------------:|
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 15 / 03 | 1610 | Eleven
 | #02 | 12 / 03 | 1571 | Frank
 | #03 | 05 / 00 | 1550 | PitBull
@@ -428,7 +430,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 #### 2018
 | Position  | Win/Losses  | Elo  | Team              |
-|:---------: |:-----------:|-----:|:----------------:|
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 07 / 00 | 1569 | Dolgorsuren
 | #02 | 11 / 05 | 1557 | Drakkar
 | #03 | 13 / 06 | 1556 | Golem
@@ -473,7 +475,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 #### 2017
 | Position  | Win/Losses  | Elo  | Team              |
-|:---------: |:-----------:|-----:|:----------------:|
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 13 / 01 | 1608 | Paçoca
 | #02 | 07 / 04 | 1525 | Moai
 | #03 | 04 / 02 | 1522 | Golem
