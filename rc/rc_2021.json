@@ -1,0 +1,60 @@
+{
+  "year": 2021,
+  "competitions": {
+    "competition": [
+      {
+        "name": "4° Torneio Tech Challenge",
+        "date": "20/11/2021",
+        "link": "https://challonge.com/pt_BR/TC2021_RC",
+
+        "matches": [
+          ["Trincabotz",          "OMEGABOTZ"         ],
+          ["Equipe-Paralela",     "RobotBulls"        ],
+          ["Uai!rrior",           "KIMAUÁNISSO"       ],
+          ["KIMAUÁNISSO",         "Uai!rrior"         ],
+          ["KIMAUÁNISSO",         "Phoenix"           ],
+          ["Phoenix",             "KIMAUÁNISSO"       ],
+          ["OMEGABOTZ",           "ThundeRatz"        ],
+          ["KIMAUÁNISSO",         "Phoenix"           ],
+          ["Trincabotz",          "KIMAUÁNISSO"       ],
+          ["Uai!rrior",           "RobotBulls"        ],
+          ["ThundeRatz",          "Phoenix"           ],
+          ["KIMAUÁNISSO",         "Equipe-Paralela"   ],
+          ["KIMAUÁNISSO",         "OMEGABOTZ"         ],
+          ["KIMAUÁNISSO",         "Uai!rrior"         ],
+          ["Equipe-Paralela",     "Phoenix"           ],
+          ["KIMAUÁNISSO",         "ThundeRatz"        ],
+          ["OMEGABOTZ",           "Uai!rrior"         ],
+          ["KIMAUÁNISSO",         "Equipe-Paralela"   ],
+          ["KIMAUÁNISSO",         "Trincabotz"        ],
+          ["OMEGABOTZ",           "Trincabotz"        ],
+          ["KIMAUÁNISSO",         "OMEGABOTZ"         ]
+          ],
+
+        "matches-robots": [
+          ["Hariyama",       "RiscaFaca"                ],
+          ["Kuro-Usagi",     "Bullvidoso-Controlado"    ],
+          ["Zoio",           "Charizard-RC"             ],
+          ["Frank-RC",       "Areki"                    ],
+          ["Eleven-RC",      "Mooncake"                 ],
+          ["Mooncake",       "Charizard-RC"             ],
+          ["Shiryu",         "Moai-RC"                  ],
+          ["Paçoca-RC",      "Ronda"                    ],
+          ["Hariyama",       "Banguela"                 ],
+          ["Areki",          "Bullvidoso-Controlado"    ],
+          ["Moai-RC",        "Ronda"                    ],
+          ["Frank-RC",       "Kuro-Usagi"               ],
+          ["Paçoca-RC",      "Shiryu"                   ],
+          ["Eleven-RC",      "Zoio"                     ],
+          ["Kuro-Usagi",     "Mooncake"                 ],
+          ["Banguela",       "Moai-RC"                  ],
+          ["RiscaFaca",      "Zoio"                     ],
+          ["Banguela",       "Kuro-Usagi"               ],
+          ["Frank-RC",       "Hariyama"                 ],
+          ["RiscaFaca",      "Hariyama"                 ],
+          ["Eleven-RC",      "RiscaFaca"                ]
+        ]
+      }
+    ]
+  }
+}
