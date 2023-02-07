@@ -254,6 +254,78 @@
           ["Bullbasaur-Controlado",       "Shiryu"                      ],
           ["Ronda",                       "Bullbasaur-Controlado"       ]
         ]
+      },
+
+      {
+        "name": "RoboCore Experience - CPBR14",
+        "date": "15/11/2022",
+        "link": "https://events.robocore.net/rcx-cpbr14/brackets/21",
+
+        "matches": [
+          ["ThundeRatz",          "Robótica-TERA"              ],
+          ["Trincabotz",          "Star-Bots"                  ],
+          ["Uai!rrior",           "TamanduTech"                ],
+          ["KIMAUÁNISSO",         "Equipe-Atena-SEMEAR"        ],
+          ["OMEGABOTZ",           "ThundeRatz"                 ],
+          ["KIMAUÁNISSO",         "RobotBulls"                 ],
+          ["RioBotz",             "Trincabotz"                 ],
+          ["ThundeRatz",          "Equipe-Paralela"            ],
+          ["KIMAUÁNISSO",         "Uai!rrior"                  ],
+          ["KIMAUÁNISSO",         "ERA"                        ],
+          ["ThundeRatz",          "Titans"                     ],
+          ["Robótica-TERA",       "ERA"                        ],
+          ["Equipe-Paralela",     "Star-Bots"                  ],
+          ["TamanduTech",         "RobotBulls"                 ],
+          ["KIMAUÁNISSO",         "OMEGABOTZ"                  ],
+          ["KIMAUÁNISSO",         "RioBotz"                    ],
+          ["KIMAUÁNISSO",         "ThundeRatz"                 ],
+          ["KIMAUÁNISSO",         "ThundeRatz"                 ],
+          ["Robótica-TERA",       "Titans"                     ],
+          ["Equipe-Paralela",     "Uai!rrior"                  ],
+          ["Trincabotz",          "TamanduTech"                ],
+          ["ThundeRatz",          "Equipe-Atena-SEMEAR"        ],
+          ["RioBotz",             "Robótica-TERA"              ],
+          ["Equipe-Paralela",     "OMEGABOTZ"                  ],
+          ["ThundeRatz",          "Trincabotz"                 ],
+          ["ThundeRatz",          "ThundeRatz"                 ],
+          ["Equipe-Paralela",     "RioBotz"                    ],
+          ["ThundeRatz",          "ThundeRatz"                 ],
+          ["KIMAUÁNISSO",         "Equipe-Paralela"            ],
+          ["KIMAUÁNISSO",         "ThundeRatz"                 ]
+          ],
+
+        "matches-robots": [
+          ["Moai-RC",                  "Seppuku"                     ],
+          ["Hariyama",                 "Vader-2"                     ],
+          ["Se-Pega-no-Olho",          "Pericão"                     ],
+          ["Banguela-RC",              "Kurupira"                    ],
+          ["RiscaFaca",                "Moai-RC"                     ],
+          ["Charizard-RC",             "Bullvidoso-Controlado"       ],
+          ["Aldebaran",                "Hariyama"                    ],
+          ["Bullbasaur-Controlado",    "Kuro-Usagi"                  ],
+          ["Eleven-RC",                "Se-Pega-no-Olho"             ],
+          ["Paçoca-RC",                "Jotunheim"                   ],
+          ["Galena-RC",                "Batata"                      ],
+          ["Seppuku",                  "Jotunheim"                   ],
+          ["Kuro-Usagi",               "Vader-2"                     ],
+          ["Pericão",                  "Bullvidoso-Controlado"       ],
+          ["Banguela-RC",              "RiscaFaca"                   ],
+          ["Charizard-RC",             "Aldebaran"                   ],
+          ["Eleven-RC",                "Bullbasaur-Controlado"       ],
+          ["Paçoca-RC",                "Galena-RC"                   ],
+          ["Seppuku",                  "Batata"                      ],
+          ["Kuro-Usagi",               "Se-Pega-no-Olho"             ],
+          ["Hariyama",                 "Pericão"                     ],
+          ["Moai-RC",                  "Kurupira"                    ],
+          ["Aldebaran",                "Seppuku"                     ],
+          ["Kuro-Usagi",               "RiscaFaca"                   ],
+          ["Galena-RC",                "Hariyama"                    ],
+          ["Bullbasaur-Controlado",    "Moai-RC"                     ],
+          ["Kuro-Usagi",               "Aldebaran"                   ],
+          ["Galena-RC",                "Bullbasaur-Controlado"       ],
+          ["Eleven-RC",                "Kuro-Usagi"                  ],
+          ["Charizard-RC",             "Galena-RC"                   ]
+        ]
       }
     ]
   }
