@@ -2,6 +2,23 @@ import sys
 import json
 import os
 
+# foreign participants don't count on brazilian rankings
+foreign_robots = [
+    "Masakrator",
+    "SIRE-UB",
+    "HAKA A",
+    "HAKA B",
+    "Grigio"
+]
+
+foreign_teams = [
+    "Sumomasters",
+    "SIRE-UB",
+    "SIRE-RC-UB",
+    "PinoyFlash"
+]
+
+
 def calculate_wins_losses(playerWinner, playerLoser, winsLosses):
     winsLosses[playerWinner][0] += 1
     winsLosses[playerLoser][1] += 1
@@ -63,12 +80,13 @@ def print_ordered(rankings, win_ratio, elo_threshold):
     sorted_items = sorted(rankings.items(), key=lambda x: x[1], reverse=True)
     count = 0
     for item in sorted_items:
-        if (win_ratio[item[0]][0] + win_ratio[item[0]][1] >= elo_threshold):
-            count += 1
-            # print("| # " + str(count) + " | ", end="")
-            print("| #{:02d} | ".format(count), end="")
-        else:
+        wins = win_ratio[item[0]][0]
+        losses = win_ratio[item[0]][1]
+        if ((item[0] in (foreign_robots + foreign_teams)) or (wins + losses < elo_threshold)):
             print("|  *  | ", end="")
+        else :
+            count += 1
+            print("| #{:02d} | ".format(count), end="")
 
         print("{:02d} / {:02d} | {} | {}".format((win_ratio[item[0]][0]), (win_ratio[item[0]][1]), round(item[1]), item[0]))
     print("")
@@ -80,7 +98,7 @@ def print_detailed_info(competition_name, year_ratings, complete_ratings, compet
     print("\r\nYear Ratings")
     print_ordered(year_ratings, year_win_ratio, 5)
     print("Complete Ratings")
-    if (rating_type == "robot"):
+    if (rating_type == "matches-robots"):
         print_ordered(complete_ratings, complete_win_ratio, 8)
     else:
         print_ordered(complete_ratings, complete_win_ratio, 10)
@@ -145,7 +163,7 @@ def main():
 
         if (not print_logs):
             print("Complete Ratings\r\n")
-            if (rating_type == "robot"):
+            if (rating_type == "matches-robots"):
                 print_ordered(complete_ratings, complete_wins_and_losses, 8)
             else:
                 print_ordered(complete_ratings, complete_wins_and_losses, 10)
