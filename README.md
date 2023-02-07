@@ -29,10 +29,8 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 ## Ranking Times Sumô 3kg Autônomo
 
-### Ranking Geral Times 2017-2022
-
 <details>
-<summary>Times 2017-2022</summary>
+<summary>Ranking Geral 2017-2022</summary>
 
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
@@ -81,7 +79,6 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 </details>
 
-### Ranking Anual
 
 <details>
 <summary>2022</summary>
@@ -243,10 +240,9 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 ## Ranking Robôs Sumô 3kg Autônomo
 
-### Ranking Geral Robôs 2017-2022
 
 <details>
-<summary>Robôs 2017-2022</summary>
+<summary>Ranking Geral 2017-2022</summary>
 
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
@@ -351,7 +347,6 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 | #36 | 02 / 09 | 1443 | Valeska
 </details>
 
-### Ranking Anual
 <details>
 <summary>2022</summary>
 
@@ -570,7 +565,6 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 ## Ranking Times Sumô 3kg Rádio-Controlado
 
-### Ranking Geral 2017-2022
 
 #### 2022
 #### 2021
@@ -582,7 +576,6 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 ## Ranking Robôs Sumô 3kg Rádio-Controlado
 
-### Ranking Geral 2017-2022
 
 #### 2022
 #### 2021
