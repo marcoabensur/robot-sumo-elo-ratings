@@ -50,7 +50,7 @@
 
       {
         "name": "RSM Challenge 2022",
-        "date": "19/04/2022",
+        "date": "21/04/2022",
         "link": "https://challonge.com/pt_BR/rsm2022_sumo3kgrc",
 
         "matches": [
@@ -126,9 +126,69 @@
           ["Paçoca-RC"   ,      "Galena-RC"               ],
           ["Eleven-RC"   ,      "Galena-RC"               ]
         ]
-      }
+      },
 
-     
+      {
+        "name": "RoboChallenge Brasil",
+        "date": "03/07/2022",
+        "link": "https://challonge.com/pt_BR/rcbr_rc",
+
+        "matches": [
+          ["KIMAUÁNISSO",         "Equipe-Paralela"          ],
+          ["Uai!rrior",           "Raijū"                    ],
+          ["OMEGABOTZ",           "ThundeRatz"               ],
+          ["KIMAUÁNISSO",         "MinervaBots"              ],
+          ["Phoenix",             "MinervaBots"              ],
+          ["ThundeRatz",          "Phoenix"                  ],
+          ["RobotBulls",          "Uai!rrior"                ],
+          ["KIMAUÁNISSO",         "OMEGABOTZ"                ],
+          ["KIMAUÁNISSO",         "Uai!rrior"                ],
+          ["KIMAUÁNISSO",         "Phoenix"                  ],
+          ["MinervaBots",         "Equipe-Paralela"          ],
+          ["ThundeRatz",          "MinervaBots"              ],
+          ["ThundeRatz",          "RobotBulls"               ],
+          ["Uai!rrior",           "MinervaBots"              ],
+          ["RobotBulls",          "ThundeRatz"               ],
+          ["Raijū",               "Phoenix"                  ],
+          ["Phoenix",             "Uai!rrior"                ],
+          ["Uai!rrior",           "RobotBulls"               ],
+          ["OMEGABOTZ",           "Phoenix"                  ],
+          ["OMEGABOTZ",           "Raijū"                    ],
+          ["KIMAUÁNISSO",         "ThundeRatz"               ],
+          ["ThundeRatz",          "OMEGABOTZ"                ],
+          ["KIMAUÁNISSO",         "Uai!rrior"                ],
+          ["ThundeRatz",          "KIMAUÁNISSO"              ],
+          ["KIMAUÁNISSO",         "ThundeRatz"               ]
+          ],
+
+        "matches-robots": [
+          ["Paçoca-RC",                  "Kuro-Usagi"                   ],
+          ["Roberto",                    "Raijū-RC"                     ],
+          ["RiscaFaca",                  "Moai-RC"                      ],
+          ["Eleven-RC",                  "Valeska"                      ],
+          ["Mooncake",                   "Atena"                        ],
+          ["Galena-RC",                  "Ronda"                        ],
+          ["Bullbasaur-Controlado",      "Se-Pega-no-Olho"              ],
+          ["Eleven-RC",                  "RiscaFaca"                    ],
+          ["Frank-RC",                   "Roberto"                      ],
+          ["Paçoca-RC",                  "Mooncake"                     ],
+          ["Atena",                      "Kuro-Usagi"                   ],
+          ["Moai-RC",                    "Valeska"                      ],
+          ["Galena-RC",                  "Bullbasaur-Controlado"        ],
+          ["Roberto",                    "Atena"                        ],
+          ["Bullbasaur-Controlado",      "Moai-RC"                      ],
+          ["Raijū-RC",                   "Mooncake"                     ],
+          ["Ronda",                      "Se-Pega-no-Olho"              ],
+          ["Roberto",                    "Bullbasaur-Controlado"        ],
+          ["RiscaFaca",                  "Ronda"                        ],
+          ["RiscaFaca",                  "Raijū-RC"                     ],
+          ["Frank-RC",                   "Galena-RC"                    ],
+          ["Galena-RC",                  "RiscaFaca"                    ],
+          ["Eleven-RC",                  "Roberto"                      ],
+          ["Galena-RC",                  "Eleven-RC"                    ],
+          ["Paçoca-RC",                  "Galena-RC"                    ]
+        ]
+      }
     ]
   }
 }
