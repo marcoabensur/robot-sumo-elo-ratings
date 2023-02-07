@@ -1,0 +1,68 @@
+{
+  "year": 2019,
+  "competitions": {
+    "competition": [
+      {
+        "name": "IRON Cup 2020",
+        "date": "01/03/2020",
+        "link": "https://events.robocore.net/ironcup-2020/brackets/21",
+
+        "matches": [
+          ["Trincabotz",         "MinervaBots"                          ],
+          ["MinervaBots",        "ThundeRatz"                           ],
+          ["RobotBulls",         "RioBotz"                              ],
+          ["RobotBulls",         "ESC-Escola-de-Robótica-São-Caetano"   ],
+          ["ThundeRatz",         "Uai!rrior"                            ],
+          ["UFFight",            "MinervaBots"                          ],
+          ["Trincabotz",         "MinervaBots"                          ],
+          ["ThundeRatz",         "Equipe-Paralela"                      ],
+          ["UFFight",            "DotBotz"                              ],
+          ["MinervaBots",        "ThundeRatz"                           ],
+          ["RioBotz",            "ESC-Escola-de-Robótica-São-Caetano"   ],
+          ["MinervaBots",        "DotBotz"                              ],
+          ["Equipe-Paralela",    "RioBotz"                              ],
+          ["Uai!rrior",          "RobotBulls"                           ],
+          ["RobotBulls",         "Trincabotz"                           ],
+          ["ThundeRatz",         "UFFight"                              ],
+          ["Equipe-Paralela",    "MinervaBots"                          ],
+          ["Uai!rrior",          "MinervaBots"                          ],
+          ["ThundeRatz",         "RobotBulls"                           ],
+          ["UFFight",            "Equipe-Paralela"                      ],
+          ["Trincabotz",         "Uai!rrior"                            ],
+          ["UFFight",            "Trincabotz"                           ],
+          ["Trincabotz",         "RobotBulls"                           ],
+          ["Trincabotz",         "ThundeRatz"                           ],
+          ["Trincabotz",         "ThundeRatz"                           ]
+          ],
+
+        "matches-robots": [
+          ["Hariyama",                  "Atena"                    ],
+          ["Valeska",                   "Moai-RC"                  ],
+          ["Bullbasaur-Controlado",     "Aldebaran"                ],
+          ["PitBull-Controlado",        "Rampinha"                 ],
+          ["Stonehenge",                "Se-Pega-no-Olho"          ],
+          ["Thorkell",                  "Auterna"                  ],
+          ["Hariyama",                  "Valeska"                  ],
+          ["Stonehenge",                "Kuro-Usagi"               ],
+          ["Thorkell",                  "Zé-Torquinho"             ],
+          ["Atena",                     "Moai-RC"                  ],
+          ["Aldebaran",                 "Rampinha"                 ],
+          ["Atena",                     "Zé-Torquinho"             ],
+          ["Kuro-Usagi",                "Aldebaran"                ],
+          ["Se-Pega-no-Olho",           "PitBull-Controlado"       ],
+          ["Bullbasaur-Controlado",     "Hariyama"                 ],
+          ["Stonehenge",                "Thorkell"                 ],
+          ["Kuro-Usagi",                "Atena"                    ],
+          ["Se-Pega-no-Olho",           "Valeska"                  ],
+          ["Stonehenge",                "Bullbasaur-Controlado"    ],
+          ["Thorkell",                  "Kuro-Usagi"               ],
+          ["Hariyama",                  "Se-Pega-no-Olho"          ],
+          ["Thorkell",                  "Hariyama"                 ],
+          ["Hariyama",                  "Bullbasaur-Controlado"    ],
+          ["Hariyama",                  "Stonehenge"               ],
+          ["Hariyama",                  "Stonehenge"               ]
+        ]
+      }
+    ]
+  }
+}
