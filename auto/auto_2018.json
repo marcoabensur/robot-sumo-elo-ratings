@@ -3,7 +3,7 @@
   "competitions": {
     "competition": [
       {
-        "name": "Primeiro Torneio SMILE",
+        "name": "1º Torneio SMILE",
         "date": "26-05-2018",
         "link": "https://challonge.com/robosmile_auto",
         "matches": [
@@ -199,7 +199,88 @@
 
           
         ]
+      },
+      {
+        "name": "Red Bull Basement",
+        "date": "15-09-2018",
+        "link": "https://challonge.com/rbbAuto",
+        "matches": [
+          ["FEG-Robótica", "OMEGABOTZ"],
+          ["KIMAUÁNISSO", "Robrow-Team"],
+          ["KIMAUÁNISSO", "Equipe-Phoenix"],
+          ["KIMAUÁNISSO", "OMEGABOTZ"],
+          ["OMEGABOTZ", "Equipe-Phoenix"],
+          ["Equipe-Phoenix", "Equipe-Phoenix"],
+          ["KIMAUÁNISSO", "FEG-Robótica"],
+          ["KIMAUÁNISSO", "OMEGABOTZ"],
+          ["Equipe-Phoenix", "Robrow-Team"],
+          ["Equipe-Phoenix", "FEG-Robótica"],
+          ["Equipe-Phoenix", "OMEGABOTZ"],
+          ["KIMAUÁNISSO", "Equipe-Phoenix"]
+        ],
+
+        "matches-robots": [
+          ["Metalgarurumon", "Drakkar"],
+          ["Eleven", "Mensageiro-do-Caos"],
+          ["Paçoca", "Ronda"],
+          ["Paçoca", "Doge"],
+          ["Itiban", "Golem"],
+          ["Golem", "Ronda"],
+          ["Paçoca", "Metalgarurumon"],
+          ["Eleven", "Itiban"],
+          ["Golem", "Mensageiro do Caos"],
+          ["Golem", "Metalgarurumon"],
+          ["Golem", "Itiban"],
+          ["Eleven", "Golem"]
+        ]
+      },
+      {
+        "name": "1º Torneio Bosch",
+        "date": "10-10-2018",
+        "link": "https://challonge.com/boschAuto",
+        "matches": [
+          ["KIMAUÁNISSO", "OMEGABOTZ"],
+          ["OMEGABOTZ", "FEG-Robótica"],
+          ["Equipe-Phoenix", "OMEGABOTZ" ],
+          ["Equipe-Phoenix", "OMEGABOTZ" ],
+          ["KIMAUÁNISSO", "Robrow-Team" ],
+          ["Robrow-Team", "FEG-Robótica" ],
+          ["Equipe-Phoenix", "FEG-Robótica" ],
+          ["Paçoca", "Equipe-Phoenix" ],
+          ["OMEGABOTZ", "FEG-Robótica" ],
+          ["Robrow-Team", "OMEGABOTZ" ],
+          ["Equipe-Phoenix", "OMEGABOTZ" ],
+          ["Equipe-Phoenix", "OMEGABOTZ" ],
+          ["KIMAUÁNISSO", "Equipe-Phoenix" ],
+          ["OMEGABOTZ", "Paçoca" ],
+          ["Paçoca", "Robrow-Team" ],
+          ["OMEGABOTZ", "KIMAUÁNISSO" ],
+          ["Paçoca", "Equipe-Phoenix" ],
+          ["OMEGABOTZ", "KIMAUÁNISSO" ]
+        ],
+
+        "matches-robots": [
+          ["Eleven", "Bender"],
+          ["Drakkar", "Hachiko"],
+          ["Golem", "Sumozão" ],
+          ["Golem", "Itiban" ],
+          ["Eleven", "Mensageiro-do-Caos" ],
+          ["Mensageiro-do-Caos", "Hachiko" ],
+          ["Ronda", "MetalGarurumon" ],
+          ["Paçoca", "Ronda" ],
+          ["Itiban", "MetalGarurumon" ],
+          ["Mensageiro-do-Caos", "Itiban" ],
+          ["Ronda", "Sumozão" ],
+          ["Ronda", "Doge" ],
+          ["Eleven", "Golem" ],
+          ["Drakkar", "Paçoca" ],
+          ["Paçoca", "Mensageiro-do-Caos" ],
+          ["Drakkar", "Eleven" ],
+          ["Paçoca", "Golem" ],
+          ["Drakkar", "Eleven" ]
+        ]
       }
+      
     ]
   }
 }
