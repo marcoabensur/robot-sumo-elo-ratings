@@ -44,7 +44,7 @@
           ["ThundeRatz",       "Ball-Robotics"    ],
           ["Trincabotz",       "Robótica-TERA"    ],
           ["KIMAUÁNISSO",      "Engetonica"       ],
-          ["Expert",           "WestBots"         ],
+          ["Expert-Robots",    "WestBots"         ],
           ["PatoBots",         "BrBots"           ],
           ["Polybot-Grenoble", "WestBots"         ],
 
@@ -52,7 +52,7 @@
 
           ["SALVADOR-VIPERS",  "UERJBotz"         ],
           ["ThundeRatz",       "Trincabotz"       ],
-          ["KIMAUÁNISSO",      "Expert"           ],
+          ["KIMAUÁNISSO",      "Expert-Robots"    ],
           ["PatoBots",         "Polybot-Grenoble" ],
 
           ["WickedBotz",       "SALVADOR-VIPERS"  ],

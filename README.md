@@ -16,12 +16,15 @@ Partidas entre mesma equipes?
 
 W.O?
 
+
 ### Premissas
-Na tentativa de se fazer um ranking mais justo e que reflita as reais habilidades dos competidores, optou-se por não se contabilizar no ranking geral times com menos de 10 partidas e duas competições e no ranking anual times com menos de 5 partidas. Isso porque para um elo ser mais representativo, um número maior de amostras se faz necessario.
+Na tentativa de se fazer um ranking mais justo e que reflita as reais habilidades dos competidores, optou-se por não se contabilizar no ranking geral times com menos de 10 partidas e no ranking anual times com menos de 5 partidas. Isso porque para um elo ser mais representativo, um número maior de amostras se faz necessario.
 
 Além disso, para o ranking geral de robôs considerou-se um mínimo de 8 partidas e 2 competições. E, um mínimo de 5 partidas para o ranking anual.
 
-Dessa forma, as posições denominadas com "*" significam que o time ou o robô não atingiu o mínimo para ser contabilizado, entretanto seu "Elo" ja é calculado
+Outro ponto, é que robôs extrangeiros nao entram na classificação por se tratar de um ranking brasileiro.
+
+Dessa forma, as posições denominadas com "*" significam que o time ou o robô não atingiu o mínimo para ser contabilizado ou é extrangeiro, entretanto seu "Elo" ja é calculado.
 
 
 ## Ranking Times Sumô 3kg Autônomo
@@ -34,18 +37,17 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 | #02 | 61 / 37 | 1618 | ThundeRatz
 | #03 | 11 / 08 | 1553 | Robrow-Team
 | #04 | 34 / 32 | 1553 | RobotBulls
-| #05 | 08 / 05 | 1551 | Sumomasters
-| #06 | 09 / 08 | 1548 | Raijū
-| #07 | 08 / 04 | 1534 | PatoBots
-| #08 | 17 / 13 | 1529 | SALVADOR-VIPERS
-| #09 | 16 / 22 | 1527 | Equipe-Paralela
-| #10 | 09 / 12 | 1505 | RioBotz
+|  *  | 08 / 05 | 1551 | Sumomasters
+| #05 | 09 / 08 | 1548 | Raijū
+| #06 | 08 / 04 | 1534 | PatoBots
+| #07 | 17 / 13 | 1529 | SALVADOR-VIPERS
+| #08 | 16 / 22 | 1527 | Equipe-Paralela
+| #09 | 09 / 12 | 1505 | RioBotz
 |  *  | 03 / 04 | 1504 | RSM-Robótica
 |  *  | 02 / 03 | 1500 | SIRE-UB
-|  *  | 01 / 01 | 1499 | Expert
-| #11 | 16 / 18 | 1498 | Trincabotz
-| #12 | 30 / 29 | 1497 | Equipe-Phoenix
-|  *  | 04 / 05 | 1497 | Expert-Robots
+| #10 | 16 / 18 | 1498 | Trincabotz
+| #11 | 30 / 29 | 1497 | Equipe-Phoenix
+| #12 | 05 / 06 | 1496 | Expert-Robots
 |  *  | 03 / 04 | 1494 | BrBots
 |  *  | 01 / 02 | 1491 | ZOW-E
 |  *  | 01 / 02 | 1490 | DragBotz
@@ -77,28 +79,34 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 ### Ranking Anual
 
-#### 2022
+<details>
+<summary>2022</summary>
+
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 23 / 10 | 1575 | KIMAUÁNISSO
-| #02 | 08 / 05 | 1536 | Sumomasters
-| #03 | 13 / 12 | 1518 | RobotBulls
-| #04 | 07 / 06 | 1516 | Raijū
-| #05 | 06 / 06 | 1506 | Equipe-Paralela
-| #06 | 04 / 03 | 1505 | FEG-Robótica
+|  *  | 08 / 05 | 1536 | Sumomasters
+| #02 | 13 / 12 | 1518 | RobotBulls
+| #03 | 07 / 06 | 1516 | Raijū
+| #04 | 06 / 06 | 1506 | Equipe-Paralela
+| #05 | 04 / 03 | 1505 | FEG-Robótica
 |  *  | 02 / 02 | 1502 | RioBotz
 |  *  | 02 / 02 | 1500 | Equipe-Phoenix
-| #07 | 10 / 11 | 1498 | ThundeRatz
-| #08 | 06 / 06 | 1497 | Trincabotz
-| #09 | 02 / 03 | 1492 | SIRE-UB
+| #06 | 10 / 11 | 1498 | ThundeRatz
+| #07 | 06 / 06 | 1497 | Trincabotz
+|  *  | 02 / 03 | 1492 | SIRE-UB
 |  *  | 01 / 02 | 1489 | Robótica-TERA
 |  *  | 01 / 02 | 1489 | Uai!rrior
 |  *  | 00 / 02 | 1482 | RAS-UFRB
 |  *  | 00 / 02 | 1479 | UERJBotz
-| #10 | 08 / 13 | 1473 | OMEGABOTZ
-| #11 | 00 / 06 | 1443 | MinervaBots
+| #08 | 08 / 13 | 1473 | OMEGABOTZ
+| #09 | 00 / 06 | 1443 | MinervaBots
 
-#### 2021
+</details>
+
+<details>
+<summary>2021</summary>
+
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 08 / 03 | 1548 | ThundeRatz
@@ -110,7 +118,11 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 | #05 | 01 / 04 | 1468 | Equipe-Phoenix
 | #06 | 02 / 08 | 1448 | OMEGABOTZ
 
-#### 2020
+</details>
+
+<details>
+<summary>2020</summary>
+
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 05 / 00 | 1550 | RioBotz
@@ -123,7 +135,11 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 00 / 02 | 1480 | Trincabotz
 |  *  | 00 / 02 | 1479 | UFBATS
 
-#### 2019
+</details>
+
+<details>
+<summary>2019</summary>
+
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 31 / 06 | 1666 | KIMAUÁNISSO
@@ -152,7 +168,11 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 | #14 | 32 / 34 | 1447 | OMEGABOTZ
 | #15 | 07 / 18 | 1431 | FEG-Robótica
 
-#### 2018
+</details>
+
+<details>
+<summary>2018</summary>
+
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 25 / 10 | 1593 | KIMAUÁNISSO
@@ -184,7 +204,11 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 00 / 02 | 1480 | Vortex
 |  *  | 00 / 02 | 1480 | GREAT
 
-#### 2017
+</details>
+
+<details>
+<summary>2017</summary>
+
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 15 / 01 | 1622 | KIMAUÁNISSO
@@ -196,9 +220,8 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 02 / 02 | 1502 | WickedBotz
 |  *  | 02 / 02 | 1501 | MinervaBots
 |  *  | 02 / 02 | 1500 | UERJBotz
-|  *  | 01 / 01 | 1500 | Expert-Robots
 |  *  | 02 / 02 | 1499 | Trincabotz
-|  *  | 01 / 01 | 1499 | Expert
+|  *  | 02 / 02 | 1499 | Expert-Robots
 |  *  | 02 / 02 | 1499 | Polybot-Grenoble
 |  *  | 01 / 02 | 1493 | Ztronics-Unip
 | #07 | 04 / 08 | 1482 | OMEGABOTZ
@@ -211,6 +234,9 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 00 / 02 | 1480 | EniacChallengers
 | #08 | 01 / 06 | 1453 | WestBots
 
+</details>
+
+
 ## Ranking Robôs Sumô 3kg Autônomo
 
 ### Ranking Geral 2017-2022
@@ -220,41 +246,41 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 | #02 | 33 / 10 | 1641 | Paçoca
 |  *  | 07 / 00 | 1571 | Dolgorsuren
 | #03 | 12 / 03 | 1570 | Frank
-| #04 | 07 / 01 | 1567 | Masakrator
-| #05 | 46 / 29 | 1567 | Moai
-| #06 | 11 / 04 | 1564 | Stonehenge-Auto
-| #07 | 20 / 12 | 1558 | Golem
-| #08 | 16 / 11 | 1544 | Drakkar
-| #09 | 06 / 02 | 1539 | PitBull
-| #10 | 14 / 12 | 1538 | Itiban
-| #11 | 07 / 04 | 1536 | Aldebaran+
-| #12 | 09 / 08 | 1533 | Raijū
-| #13 | 13 / 11 | 1532 | Bullbasauro-Descontrolado
+|  *  | 07 / 01 | 1567 | Masakrator
+| #04 | 46 / 29 | 1567 | Moai
+| #05 | 11 / 04 | 1564 | Stonehenge-Auto
+| #06 | 20 / 12 | 1558 | Golem
+| #07 | 16 / 11 | 1544 | Drakkar
+| #08 | 06 / 02 | 1539 | PitBull
+| #09 | 14 / 12 | 1538 | Itiban
+| #10 | 07 / 04 | 1536 | Aldebaran+
+| #11 | 09 / 08 | 1533 | Raijū
+| #12 | 13 / 11 | 1532 | Bullbasauro-Descontrolado
 |  *  | 05 / 02 | 1531 | Salomão
-| #14 | 09 / 06 | 1528 | MÔZÓVS
-| #15 | 04 / 04 | 1520 | Galena
+| #13 | 09 / 06 | 1528 | MÔZÓVS
+| #14 | 04 / 04 | 1520 | Galena
 |  *  | 04 / 02 | 1519 | KokiBot
 |  *  | 04 / 02 | 1518 | Cinnamon-Breaker
 |  *  | 03 / 02 | 1512 | Odyssay
 |  *  | 03 / 02 | 1511 | Paladino
-| #16 | 07 / 07 | 1510 | Doge
+| #15 | 07 / 07 | 1510 | Doge
 |  *  | 03 / 02 | 1509 | Rancor
 |  *  | 03 / 02 | 1508 | Cocha
-| #17 | 06 / 05 | 1508 | Lobo
-| #18 | 09 / 10 | 1506 | Bullbasaur
-| #19 | 16 / 22 | 1506 | Kuro-Usagi
-| #20 | 04 / 04 | 1506 | Bullvidoso-Descontrolado
-| #21 | 13 / 13 | 1506 | MetalGarurumon
-| #22 | 06 / 06 | 1506 | Mensageiro-do-Caos
-| #23 | 08 / 07 | 1505 | Traga-a-Vasilha
-| #24 | 04 / 04 | 1502 | Daltonomo
+| #16 | 06 / 05 | 1508 | Lobo
+| #17 | 09 / 10 | 1506 | Bullbasaur
+| #18 | 16 / 22 | 1506 | Kuro-Usagi
+| #19 | 04 / 04 | 1506 | Bullvidoso-Descontrolado
+| #20 | 13 / 13 | 1506 | MetalGarurumon
+| #21 | 06 / 06 | 1506 | Mensageiro-do-Caos
+| #22 | 08 / 07 | 1505 | Traga-a-Vasilha
+| #23 | 04 / 04 | 1502 | Daltonomo
 |  *  | 02 / 02 | 1502 | Jean-Michel
 |  *  | 02 / 02 | 1502 | Bender-II
-| #25 | 12 / 12 | 1501 | Auterna
+| #24 | 12 / 12 | 1501 | Auterna
 |  *  | 02 / 02 | 1500 | Bernadete
 |  *  | 02 / 02 | 1500 | Hulk
-| #26 | 11 / 10 | 1498 | Atena
-| #27 | 04 / 05 | 1495 | Charizard
+| #25 | 11 / 10 | 1498 | Atena
+| #26 | 04 / 05 | 1495 | Charizard
 |  *  | 03 / 04 | 1494 | JPLSM
 |  *  | 01 / 02 | 1494 | Rabanete
 |  *  | 02 / 03 | 1494 | SIRE-UB
@@ -272,11 +298,11 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 01 / 02 | 1490 | Gurizinho
 |  *  | 01 / 02 | 1489 | ZOW-E
 |  *  | 01 / 02 | 1489 | Locomotiva
-| #28 | 12 / 14 | 1488 | Hariyama
+| #27 | 12 / 14 | 1488 | Hariyama
 |  *  | 01 / 02 | 1487 | Roberto
-| #29 | 03 / 05 | 1486 | Loba
+| #28 | 03 / 05 | 1486 | Loba
 |  *  | 00 / 02 | 1485 | Bruxão
-| #30 | 15 / 21 | 1485 | RiscaFaca
+| #29 | 15 / 21 | 1485 | RiscaFaca
 |  *  | 02 / 04 | 1485 | Projeto-X
 |  *  | 01 / 03 | 1482 | Shiny
 |  *  | 00 / 02 | 1482 | Toro
@@ -302,44 +328,45 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 00 / 02 | 1480 | Coiote+
 |  *  | 00 / 02 | 1480 | Zerum
 |  *  | 00 / 02 | 1479 | Totoro
-| #31 | 07 / 11 | 1475 | Ronda
+| #30 | 07 / 11 | 1475 | Ronda
 |  *  | 01 / 04 | 1475 | Golden-Boy
 |  *  | 00 / 03 | 1473 | Bender
-| #32 | 03 / 06 | 1473 | Mooncake
+| #31 | 03 / 06 | 1473 | Mooncake
 |  *  | 01 / 04 | 1472 | Sr.Tarugo
 |  *  | 01 / 04 | 1471 | Zeidan
-| #33 | 02 / 06 | 1466 | C3+
+| #32 | 02 / 06 | 1466 | C3+
 |  *  | 00 / 04 | 1463 | Tòbias
-| #34 | 08 / 14 | 1462 | Hachiko
-| #35 | 02 / 06 | 1462 | Thanos
+| #33 | 08 / 14 | 1462 | Hachiko
+| #34 | 02 / 06 | 1462 | Thanos
 |  *  | 00 / 04 | 1461 | Sumo-BALL
-| #36 | 06 / 13 | 1448 | Shiryu
-| #37 | 02 / 09 | 1443 | Valeska
+| #35 | 06 / 13 | 1448 | Shiryu
+| #36 | 02 / 09 | 1443 | Valeska
 
+<details>
+<summary>2022</summary>
 
-#### 2022
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 14 / 04 | 1574 | Eleven
-| #02 | 07 / 01 | 1561 | Masakrator
-| #03 | 11 / 09 | 1527 | Bullbasauro-Descontrolado
-| #04 | 06 / 03 | 1526 | Paçoca
-| #05 | 07 / 06 | 1513 | Raijū
+|  *  | 07 / 01 | 1561 | Masakrator
+| #02 | 11 / 09 | 1527 | Bullbasauro-Descontrolado
+| #03 | 06 / 03 | 1526 | Paçoca
+| #04 | 07 / 06 | 1513 | Raijū
 |  *  | 02 / 01 | 1509 | Loba
-| #06 | 06 / 06 | 1506 | Kuro-Usagi
-| #07 | 04 / 04 | 1504 | Galena
+| #05 | 06 / 06 | 1506 | Kuro-Usagi
+| #06 | 04 / 04 | 1504 | Galena
 |  *  | 02 / 02 | 1501 | Aldebaran+
 |  *  | 02 / 02 | 1500 | Mooncake
-| #08 | 03 / 03 | 1499 | Charizard
+| #07 | 03 / 03 | 1499 | Charizard
 |  *  | 02 / 02 | 1498 | Hachiko
-| #09 | 06 / 06 | 1496 | Hariyama
-| #10 | 06 / 07 | 1491 | Moai
-| #11 | 02 / 03 | 1491 | Bullvidoso+Controlado
-| #12 | 02 / 03 | 1491 | SIRE-UB
+| #08 | 06 / 06 | 1496 | Hariyama
+| #09 | 06 / 07 | 1491 | Moai
+| #10 | 02 / 03 | 1491 | Bullvidoso+Controlado
+|  *  | 02 / 03 | 1491 | SIRE-UB
 |  *  | 01 / 02 | 1490 | Shiny
 |  *  | 01 / 02 | 1490 | Roberto
 |  *  | 01 / 02 | 1490 | Locomotiva
-| #13 | 08 / 11 | 1483 | RiscaFaca
+| #11 | 08 / 11 | 1483 | RiscaFaca
 |  *  | 00 / 02 | 1482 | Bruxão
 |  *  | 00 / 02 | 1480 | Shiryu
 |  *  | 00 / 02 | 1480 | Valeska
@@ -347,8 +374,11 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 00 / 02 | 1479 | Totoro
 |  *  | 00 / 04 | 1460 | Atena
 
+</details>
 
-#### 2021
+<details>
+<summary>2021</summary>
+
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 08 / 03 | 1549 | Moai
@@ -363,7 +393,11 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 00 / 03 | 1471 | Shiryu
 | #05 | 01 / 04 | 1471 | Mooncake
 
-#### 2020
+</details>
+
+<details>
+<summary>2020</summary>
+
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 05 / 00 | 1549 | Aldebaran+
@@ -379,8 +413,12 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 00 / 02 | 1480 | Hariyama
 |  *  | 00 / 02 | 1480 | Thanos
 |  *  | 00 / 02 | 1480 | Toro
+</details>
 
-#### 2019
+
+<details>
+<summary>2019</summary>
+
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 15 / 03 | 1610 | Eleven
@@ -428,7 +466,11 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 00 / 04 | 1461 | MetalGarurumon
 | #28 | 02 / 08 | 1454 | Kuro-Usagi
 
-#### 2018
+</details>
+
+<details>
+<summary>2018</summary>
+
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 07 / 00 | 1569 | Dolgorsuren
@@ -472,8 +514,11 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 | #14 | 04 / 07 | 1479 | Itiban
 |  *  | 00 / 03 | 1473 | Bender
 |  *  | 00 / 04 | 1462 | Hachiko
+</details>
 
-#### 2017
+<details>
+<summary>2017</summary>
+
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 13 / 01 | 1608 | Paçoca
@@ -509,6 +554,8 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 00 / 02 | 1480 | Challenger
 |  *  | 00 / 02 | 1480 | Facão-de-Pau
 |  *  | 00 / 02 | 1480 | Rhinoceros
+
+</details>
 
 
 ## Ranking Times Sumô 3kg Rádio-Controlado
