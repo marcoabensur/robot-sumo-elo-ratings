@@ -27,7 +27,7 @@
           ["MinervaBots",      "Robótica-TERA"    ],
           ["FEG-Robótica",     "ThundeRatz"       ],
           ["FEG-Robótica",     "RioBotz"          ],
-          ["Ztronics",         "Equipe-Phoenix"   ],
+          ["Ztronics-Unip",    "Equipe-Phoenix"   ],
 
           ["SALVADOR-VIPERS",  "OMEGABOTZ"        ],
           ["UERJBotz",         "EniacChallengers" ],
@@ -37,7 +37,7 @@
           ["SALVADOR-VIPERS",  "FEG-Robótica"     ],
           ["Equipe-Phoenix",   "WickedBotz"       ],
           ["FEG-Robótica",     "MinervaBots"      ],
-          ["FEG-Robótica",     "Ztronics"         ],
+          ["FEG-Robótica",     "Ztronics-Unip"    ],
 
           ["SALVADOR-VIPERS",  "Equipe-Phoenix"   ],
           ["UERJBotz",         "RioBotz"          ],
@@ -51,13 +51,13 @@
           ["Equipe-Phoenix",   "SALVADOR-VIPERS"  ],
 
           ["SALVADOR-VIPERS",  "UERJBotz"         ],
-          ["Moa",              "Trincabotz"       ],
+          ["ThundeRatz",       "Trincabotz"       ],
           ["KIMAUÁNISSO",      "Expert"           ],
           ["PatoBots",         "Polybot-Grenoble" ],
 
           ["WickedBotz",       "SALVADOR-VIPERS"  ],
           ["ThundeRatz",       "FEG-Robótica"     ],
-          ["KIMAUÁNISSO",      "Ztronics"         ],
+          ["KIMAUÁNISSO",      "Ztronics-Unip"    ],
           ["KokiBot",          "MinervaBots"      ],
 
           ["ThundeRatz",       "WickedBotz"       ],
@@ -120,7 +120,7 @@
           ["Golem",           "Traga-a-Vasilha" ],
 
           ["MÔZÓVS",          "Catuaba"         ],
-          ["Moa",             "Daltonomo"       ],
+          ["Moai",             "Daltonomo"       ],
           ["Paçoca",          "Expert"          ],
           ["KokiBot",         "Hulk"            ],
 
@@ -143,6 +143,38 @@
 
           ["Paçoca",          "Golem"]
 
+        ]
+      },
+      {
+        "name": "1° Tech Challenge",
+        "date": "11-24-2017",
+        "link": "https://challonge.com/rbbAuto",
+        "matches": [
+          ["OMEGABOTZ", "FEG-Robótica"],
+          ["KIMAUÁNISSO", "OMEGABOTZ"],
+          ["KIMAUÁNISSO", "OMEGABOTZ"],
+          ["OMEGABOTZ", "FEG-Robótica"],
+          ["ThundeRatz", "OMEGABOTZ"],
+          ["KIMAUÁNISSO", "OMEGABOTZ"],
+          ["KIMAUÁNISSO", "ThundeRatz"],
+          ["OMEGABOTZ", "FEG-Robótica"],
+          ["ThundeRatz", "OMEGABOTZ"],
+          ["OMEGABOTZ", "ThundeRatz"],
+          ["KIMAUÁNISSO", "OMEGABOTZ"]
+        ],
+        "matches-robots": [
+          ["Itiban", "MetalGarurumon"],
+          ["Eleven", "Rabanete"],
+          ["Paçoca", "TicoMia"],
+          ["Doge", "Lobo"],
+          ["Moai", "Itiban"],
+          ["Paçoca", "Doge"],
+          ["Eleven", "Moai"],
+          ["MetalGarurumon", "Lobo"],
+          ["TicoMia", "MetalGarurumon"],
+          ["Moai", "TicoMia"],
+          ["Rabanete", "Moai"],
+          ["Paçoca", "Rabanete"]
         ]
       }
     ]

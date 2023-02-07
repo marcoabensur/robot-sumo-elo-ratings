@@ -242,16 +242,16 @@
         ],
 
         "matches-robots": [
-          ["Metalgarurumon", "Drakkar"            ],
+          ["MetalGarurumon", "Drakkar"            ],
           ["Eleven",         "Mensageiro-do-Caos" ],
           ["Paçoca",         "Ronda"              ],
           ["Paçoca",         "Doge"               ],
           ["Itiban",         "Golem"              ],
           ["Golem",          "Ronda"              ],
-          ["Paçoca",         "Metalgarurumon"     ],
+          ["Paçoca",         "MetalGarurumon"     ],
           ["Eleven",         "Itiban"             ],
           ["Golem",          "Mensageiro-do-Caos" ],
-          ["Golem",          "Metalgarurumon"     ],
+          ["Golem",          "MetalGarurumon"     ],
           ["Golem",          "Itiban"             ],
           ["Eleven",         "Golem"              ]
         ]
@@ -318,14 +318,14 @@
         ],
 
         "matches-robots": [
-          ["Metalgarurumon", "Paçoca"  ],
+          ["MetalGarurumon", "Paçoca"  ],
           ["Moai",           "Itiban"  ],
-          ["Metalgarurumon", "Drakkar" ],
+          ["MetalGarurumon", "Drakkar" ],
           ["Moai",           "Eleven"  ],
           ["Drakkar",        "Eleven"  ],
-          ["Metalgarurumon", "Moai"    ],
+          ["MetalGarurumon", "Moai"    ],
           ["Drakkar",        "Moai"    ],
-          ["Metalgarurumon", "Drakkar" ]
+          ["MetalGarurumon", "Drakkar" ]
         ]
       }
       
