@@ -37,33 +37,33 @@
         ],
 
         "matches-robots": [
-          ["Auterna",                  "Coiote+"                  ], 
+          ["Auterna",     "Coiote+"      ], 
 
-          ["Drakkar",                  "Auterna"                  ],
-          ["SIGMA",                    "Sr.Tarugo"                ],
-          ["Moai",                     "Itiban"                   ],
-          ["Bullbasaur", "Thanos"                   ],
+          ["Drakkar",     "Auterna"      ],
+          ["SIGMA",       "Sr.Tarugo"    ],
+          ["Moai",        "Itiban"       ],
+          ["Bullbasaur",  "Thanos"       ],
 
-          ["Thanos",                   "Coiote+"                  ],
+          ["Thanos",      "Coiote+"      ],
 
-          ["Drakkar",                  "SIGMA"                    ],
-          ["Moai",                     "Bullbasaur" ],
+          ["Drakkar",     "SIGMA"        ],
+          ["Moai",        "Bullbasaur"   ],
 
-          ["Itiban",                   "Thanos"                   ],
-          ["Auterna",                  "Sr.Tarugo"                ],
+          ["Itiban",      "Thanos"       ],
+          ["Auterna",     "Sr.Tarugo"    ],
 
-          ["Moai",                     "Drakkar"                  ],
+          ["Moai",        "Drakkar"      ],
 
-          ["Itiban",                   "Bullbasaur" ],
-          ["Auterna",                  "SIGMA"                    ],
+          ["Itiban",      "Bullbasaur"   ],
+          ["Auterna",     "SIGMA"        ],
 
-          ["Auterna",                  "Itiban"                   ],
+          ["Auterna",     "Itiban"       ],
 
-          ["Auterna",                  "Drakkar"                  ],
+          ["Auterna",     "Drakkar"      ],
 
-          ["Auterna",                  "Moai"                     ],
+          ["Auterna",     "Moai"         ],
 
-          ["Moai",                     "Auterna"                  ]
+          ["Moai",        "Auterna"      ]
           
         ]
       }, 
@@ -85,16 +85,16 @@
         ],
 
         "matches-robots": [
-          ["Paçoca",                    "Projeto-X"                      ],
-          ["Itiban",                    "Eleven"                         ],
-          ["Paçoca",                    "MetalGarurumon"                 ],
+          ["Paçoca",                    "Projeto-X"        ],
+          ["Itiban",                    "Eleven"           ],
+          ["Paçoca",                    "MetalGarurumon"   ],
           ["Drakkar",                   "Bullbasaur"       ],
-          ["Bullbasaur",  "Eleven"                         ],
-          ["Bullbasaur",  "MetalGarurumon"                 ],
-          ["Itiban",                    "Projeto-X"                      ],
+          ["Bullbasaur",                "Eleven"           ],
+          ["Bullbasaur",                "MetalGarurumon"   ],
+          ["Itiban",                    "Projeto-X"        ],
           ["Itiban",                    "Bullbasaur"       ],
-          ["Paçoca",                    "Drakkar"                        ],
-          ["Paçoca",                    "Drakkar"                        ]
+          ["Paçoca",                    "Drakkar"          ],
+          ["Paçoca",                    "Drakkar"          ]
         ]
       }, 
       {
@@ -144,17 +144,17 @@
           ["Golem",                    "Moai"                     ],
           ["Itiban",                   "Ronda"                    ],
           ["Hachiko",                  "Drakkar"                  ],
-          ["Bullbasaur", "MetalGarurumon"           ],
+          ["Bullbasaur",               "MetalGarurumon"           ],
           ["Projeto-X",                "Kuro-Usagi"               ],
           ["Hariyama",                 "Auterna"                  ],
           ["Frank",                    "Doge"                     ],
           ["Hachiko",                  "Tòbias"                   ],
           ["Itiban",                   "Loba"                     ],
-          ["Bullbasaur", "Valeska"                  ],
+          ["Bullbasaur",               "Valeska"                  ],
           ["Projeto-X",                "Hariyama"                 ],
           ["Hachiko",                  "Golem"                    ],
           ["Frank",                    "Itiban"                   ],
-          ["Eleven",                   "Bullbasaur" ],
+          ["Eleven",                   "Bullbasaur"               ],
           ["Ronda",                    "Shiryu"                   ],
           ["Drakkar",                  "Auterna"                  ],
           ["Moai",                     "Tòbias"                   ],
@@ -167,9 +167,9 @@
           ["Itiban",                   "Moai"                     ],
           ["Doge",                     "Loba"                     ],
           ["Doge",                     "Golem"                    ],
-          ["Bullbasaur", "Drakkar"                  ],
+          ["Bullbasaur",               "Drakkar"                  ],
           ["Itiban",                   "Valeska"                  ],
-          ["Doge",                     "Bullbasaur" ],
+          ["Doge",                     "Bullbasaur"               ],
           ["Doge",                     "Projeto-X"                ],
           ["Eleven",                   "Itiban"                   ],
           ["Frank",                    "Hachiko"                  ],
@@ -243,7 +243,7 @@
           ["Atena",            "Jack-Chumbo"              ],
           ["Rancor",           "Aldebaran+"               ],
           ["Brutus",           "Cinnamon-Breaker"         ],
-          ["Moai",             "Bullbasaur" ],
+          ["Moai",             "Bullbasaur"               ],
           ["Shiryu",           "Cocha"                    ],
 
           ["Hariyama",         "Atena"                    ],
@@ -257,7 +257,7 @@
 
           ["Jack-Chumbo",      "Sumo-BALL"                ],
           ["Cinnamon-Breaker", "Aldebaran+"               ],
-          ["Cocha",            "Bullbasaur" ],
+          ["Cocha",            "Bullbasaur"               ],
 
           ["Traga-a-Vasilha",  "Jack-Chumbo"              ],
           ["Cinnamon-Breaker", "Kuro-Usagi"               ],
@@ -335,14 +335,14 @@
           ["KIMAUÁNISSO",    "RobotBulls"      ],
           ["Robrow-Team",    "ThundeRatz"      ],
           ["KIMAUÁNISSO",    "Robrow-Team"     ],
-          ["KIMAUÁNISSO",    "RobotBulls" ]          
+          ["KIMAUÁNISSO",    "RobotBulls"      ]          
         ],
 
         "matches-robots": [
           ["Stonehenge-Auto",          "Shiryu"                   ],
           ["Eleven",                   "RiscaFaca"                ],
           ["Atena",                    "Ronda"                    ],
-          ["Bullbasaur", "Zerum"                    ],
+          ["Bullbasaur",               "Zerum"                    ],
           ["Golem",                    "Auterna"                  ],
           ["Salomão",                  "Zeidan"                   ],
           ["Frank",                    "Kuro-Usagi"               ],
@@ -351,13 +351,13 @@
           ["Eleven",                   "Loba"                     ],
           ["JPLSM",                    "Hachiko"                  ],
           ["Stonehenge-Auto",          "Frank"                    ],
-          ["Bullbasaur", "Atena"                    ],
+          ["Bullbasaur",               "Atena"                    ],
           ["Eleven",                   "Golem"                    ],
           ["Zeidan",                   "Kuro-Usagi"               ],
           ["RiscaFaca",                "Zerum"                    ],
           ["RiscaFaca",                "Ronda"                    ],
           ["JPLSM",                    "Salomão"                  ],
-          ["Bullbasaur", "Stonehenge-Auto"          ],
+          ["Bullbasaur",               "Stonehenge-Auto"          ],
           ["Eleven",                   "JPLSM"                    ],
           ["Shiryu",                   "Hachiko"                  ],
           ["Loba",                     "Auterna"                  ],
@@ -370,7 +370,7 @@
           ["Frank",                    "Atena"                    ],
           ["Salomão",                  "Golem"                    ],
           ["Frank",                    "JPLSM"                    ],
-          ["Eleven",                   "Bullbasaur" ],
+          ["Eleven",                   "Bullbasaur"               ],
           ["Salomão",                  "Stonehenge-Auto"          ],
           ["Frank",                    "Salomão"                  ],
           ["Frank",                    "Bullbasaur" ]
