@@ -3,6 +3,8 @@
 ## Sumário
 
 **[Introdução](#introdução)**<br>
+**[O que é Rating Elo?](#o-que-é-rating-elo)**<br>
+**[Instruções](#instruções)**<br>
 **[Ranking Times Sumô 3kg Autônomo](#ranking-times-sumô-3kg-autônomo)**<br>
 **[Ranking Robôs Sumô 3kg Autônomo](#ranking-robôs-sumô-3kg-autônomo)**<br>
 **[Ranking Times Sumô 3kg Rádio-Controlado](#ranking-times-sumô-3kg-rádio-controlado)**<br>
@@ -11,12 +13,37 @@
 
 
 ## Introdução
-O que é ELO? Porque escolhemos? Etc..
+No cenário competitivo de robótica, historicamente, há apenas um ranking nacional existente que é considerado relevante às equipes brasileiras, que é o ranking da [Robocore](https://www.robocore.net/modules.php?name=GR_Equipes) (organizadora de competições ao redor do país). Entretanto, o maior defeito deste ranking é o seu caráter **puramente cumulativo de resultados**, ou seja, um troféu de ouro conquistado em 2010 terá mesmo peso na pontuação da equipe que um troféu conquistado em 2022. Além disso, é interessante notar que com apenas a participação do robô em dada competição, é garantida no mínimo uma pontuação somada equivalente a $\frac{1}{Participantes na categoria}$, e nunca há situação em que a equipe tem sua pontuação deduzida, o que faz com que equipes com maior tempo de existência possuam uma vantagem enorme em relação às novas equipes.
 
-### Instruções
-Como rodar o programa?
+Com isso, este projeto tem como intuito **projetar um ranking mais justo em relação à competitividade de robôs e equipes nas categorias Sumô 3kg (RC e Auto) no decorrer do tempo**. Para isso, foi utilizada uma simulação com base em pontuação de "Rating Elo".
 
-Como atualizar as planilhas?
+## O que é Rating Elo?
+O Rating Elo é um método estatístico que é conhecido por ser utilizado no Xadrez, com o intuito de rankear os melhores jogadores, atribuindo a cada um deles uma pontuação numérica. Com base na pontuação numérica, é possível quantificar a "força" de cada competidor, o que faz com que uma vitória contra um competidor "forte" (ou seja, com Elo alto) seja mais recompensada em relação a uma vitória contra um competidor "fraco" (com Elo baixo). Esta mesma lógica também funciona para derrotas, porém em lógica reversa, ou seja, uma derrota contra um competidor "forte" deduz menos pontos, enquanto uma derrota contra um competidor "fraco" deduz mais pontos.
+
+Para mais informações técnicas a respeito da aritmética por trás desse método, consulte a [Wikipedia](https://pt.wikipedia.org/wiki/Rating_Elo).
+
+Para esse projeto, foi considerado que todo robô inicia com pontuação de elo igual a **1500**.
+
+## Instruções
+
+### Como rodar o programa?
+Para rodar o programa (feito em Python), utilize o comando:
+
+> python elo.py <rc/auto> <robot/team> <true/false>
+
+Em que:
+- rc/auto: determina se será feita a análise para a categoria 3kg RC (rc) ou 3kg Auto (auto);
+- robot/team: determina se a análise será feita de acordo com times (team) ou robôs (robot);
+- true/false: determina se a análise será feita a cada competição (true) ou apenas a cada ano (false).
+
+### Como atualizar as planilhas?
+Para atualizar a planilha, é necessário criar um novo item correspondente à competição que deseja adicionar. Os dados básicos que devem ser fornecidos (com o intuito de facilitar a posterior verificação) são:
+- Nome da competição (campo "name")
+- Data da competição (campo "date"). Obs: para o primeiro teste, foi considerado sempre o último dia de competição.
+- Link das chaves (campo "link")
+
+Além disso, devem ser fornecidas as partidas em ordem cronológica (do mais antigo ao mais recente) com a seguinte sintaxe:
+
 
 Ordem das partidas?
 
