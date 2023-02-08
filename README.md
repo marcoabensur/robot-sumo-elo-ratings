@@ -5,6 +5,7 @@
 **[Introdução](#introdução)**<br>
 **[O que é Rating Elo?](#o-que-é-rating-elo)**<br>
 **[Instruções](#instruções)**<br>
+**[Premissas](#premissas)**<br>
 **[Ranking Times Sumô 3kg Autônomo](#ranking-times-sumô-3kg-autônomo)**<br>
 **[Ranking Robôs Sumô 3kg Autônomo](#ranking-robôs-sumô-3kg-autônomo)**<br>
 **[Ranking Times Sumô 3kg Rádio-Controlado](#ranking-times-sumô-3kg-rádio-controlado)**<br>
@@ -18,7 +19,7 @@ No cenário competitivo de robótica, historicamente, há apenas um ranking naci
 Com isso, este projeto tem como intuito **projetar um ranking mais justo em relação à competitividade de robôs e equipes nas categorias Sumô 3kg (RC e Auto) no decorrer do tempo**. Para isso, foi utilizada uma simulação com base em pontuação de "Rating Elo".
 
 ## O que é Rating Elo?
-O Rating Elo é um método estatístico que é conhecido por ser utilizado no Xadrez, com o intuito de rankear os melhores jogadores, atribuindo a cada um deles uma pontuação numérica. Com base na pontuação numérica, é possível quantificar a "força" de cada competidor, o que faz com que uma vitória contra um competidor "forte" (ou seja, com Elo alto) seja mais recompensada em relação a uma vitória contra um competidor "fraco" (com Elo baixo). Esta mesma lógica também funciona para derrotas, porém em lógica reversa, ou seja, uma derrota contra um competidor "forte" deduz menos pontos, enquanto uma derrota contra um competidor "fraco" deduz mais pontos.
+O Rating Elo é um método estatístico que é conhecido por ser utilizado no Xadrez e em outros esportes competitivos, com o intuito de rankear os melhores jogadores, atribuindo a cada um deles uma pontuação numérica. Com base na pontuação numérica, é possível quantificar a "força" de cada competidor, o que faz com que uma vitória contra um competidor "forte" (ou seja, com Elo alto) seja mais recompensada em relação a uma vitória contra um competidor "fraco" (com Elo baixo). Esta mesma lógica também funciona para derrotas, porém em lógica reversa, ou seja, uma derrota contra um competidor "forte" deduz menos pontos, enquanto uma derrota contra um competidor "fraco" deduz mais pontos.
 
 Para mais informações técnicas a respeito da aritmética por trás desse método, consulte a [Wikipedia](https://pt.wikipedia.org/wiki/Rating_Elo).
 
@@ -34,7 +35,7 @@ Para rodar o programa (feito em Python), utilize o comando:
 Em que:
 - rc/auto: determina se será feita a análise para a categoria 3kg RC (rc) ou 3kg Auto (auto);
 - robot/team: determina se a análise será feita de acordo com times (team) ou robôs (robot);
-- true/false: determina se a análise será feita a cada competição (true) ou apenas a cada ano (false).
+- true/false: determina se os dados serão mostrados a cada competição (true) ou apenas a cada ano (false).
 
 ### Como atualizar as planilhas?
 Para atualizar a planilha, é necessário criar um novo item correspondente à competição que deseja adicionar. Os dados básicos que devem ser fornecidos (com o intuito de facilitar a posterior verificação) são:
@@ -44,23 +45,26 @@ Para atualizar a planilha, é necessário criar um novo item correspondente à c
 
 Além disso, devem ser fornecidas as partidas em ordem cronológica (do mais antigo ao mais recente) com a seguinte sintaxe:
 
+> ["Equipe Vencedora", "Equipe Derrotada"]
 
-Ordem das partidas?
+E que devem ser adicionadas no campo "matches". Já para os robôs, a sintaxe é bem similar, e devem ser adicionados no campo "matches-robot":
 
-Partidas entre mesma equipes?
+> ["Robô Vencedor", "Robô Derrotado"]
 
-W.O?
+## Premissas
+Em relação às partidas listadas nos arquivos, foram considerados que:
 
+- Partidas só possuem como resultado vitória/derrota, não importando o placar (o que inclui partidas que resultaram em W.O). Isso ocorre devido à falta de informação para competições com chaveamento no sistema Robocore, que apenas indica o vencedor de cada luta;
+- W.O.s em sua grande maioria são tratados como lutas disputadas, como descrito acima. O único caso exclusivo se dá para competições em que a equipe declarou ausência prévia na competição, e mesma assim seus robôs foram mantidos nas chaves por motivo desconhecido (por exemplo: ThundeRatz na IRON Cup 2022);
+- Partidas entre robôs de mesma equipe foram desconsideradas nos cálculos. Isso se deve ao fato de serem poucos os casos em que as partidas de fato ocorrem, além de que, matematicamente, irá punir a própria equipe, reduzindo seu Elo.
 
-### Premissas
-Na tentativa de se fazer um ranking mais justo e que reflita as reais habilidades dos competidores, optou-se por não se contabilizar no ranking geral times com menos de 10 partidas e no ranking anual times com menos de 5 partidas. Isso porque para um elo ser mais representativo, um número maior de amostras se faz necessario.
+Na tentativa de se fazer um ranking mais justo e que reflita as reais habilidades dos competidores, algumas considerações foram realizadas para o ranking:
 
-Além disso, para o ranking geral de robôs considerou-se um mínimo de 8 partidas e 2 competições. E, um mínimo de 5 partidas para o ranking anual.
-
-Outro ponto, é que robôs extrangeiros nao entram na classificação por se tratar de um ranking brasileiro.
+- Optou-se por **não se contabilizar equipes com menos de 10 partidas** no **ranking geral** e times com **menos de 5 partidas** no **ranking anual**. Isso porque para um elo ser mais representativo, um número maior de amostras se faz necessário.
+- Para o **ranking geral** de robôs, considerou-se um mínimo de **8 partidas e 2 competições**. E, um mínimo de **5 partidas para o ranking anual**.
+- Robôs estrangeiros nao entram na classificação por se tratar de um ranking brasileiro.
 
 Dessa forma, as posições denominadas com "*" significam que o time ou o robô não atingiu o mínimo para ser contabilizado ou é extrangeiro, entretanto seu "Elo" ja é calculado.
-
 
 ## Ranking Times Sumô 3kg Autônomo
 
