@@ -58,7 +58,7 @@ Em relação às partidas listadas nos arquivos, foram considerados que:
 
 - Partidas só possuem como resultado vitória/derrota, não importando o placar (o que inclui partidas que resultaram em W.O.). Isso ocorre devido à falta de informação para competições com chaveamento no sistema Robocore, que apenas indica o vencedor de cada luta;
 - W.O.s em sua grande maioria são tratados como lutas disputadas, como descrito acima. Consideramos justo ser atribuído derrota a robôs que nao conseguiram ser finalizados com devida manutenção a tempo de lutar;
-- O único caso exclusivo a essas afirmativos sobre o W.O. se dá para competições em que a equipe declarou ausência prévia na competição, e mesma assim seus robôs foram mantidos nas chaves por motivo desconhecido (por exemplo: ThundeRatz na IRON Cup 2022);
+- O único caso exclusivo a essas afirmativas sobre o W.O. se dá para competições em que a equipe declarou ausência prévia na competição, e mesma assim seus robôs foram mantidos nas chaves por motivo desconhecido (por exemplo: ThundeRatz na IRON Cup 2022). Neste caso, foi considerado que as partidas não foram disputadas (ou seja, nenhuma equipe/robô teve seu elo alterado devido a essas partidas em específico);
 - Partidas entre robôs de mesma equipe foram desconsideradas nos cálculos. Isso se deve ao fato de serem poucos os casos em que as partidas de fato ocorrem, além de que, matematicamente, irá punir a própria equipe, reduzindo seu Elo.
 
 Na tentativa de se fazer um ranking mais justo e que reflita as reais habilidades dos competidores, algumas considerações foram realizadas para o ranking:
