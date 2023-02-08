@@ -67,7 +67,7 @@ Na tentativa de se fazer um ranking mais justo e que reflita as reais habilidade
 - Para o **ranking geral** de robôs, considerou-se um mínimo de **8 partidas**. E, um mínimo de **5 partidas para o ranking anual**;
 - Robôs estrangeiros não entram na classificação por se tratar de um ranking brasileiro.
 
-Dessa forma, as posições denominadas com "*" significam que o time ou o robô não atingiu o limite mínimo para ser contabilizado ou é estrangeiro, entretanto seu "Elo" ja é calculado e consta em ordem decrescente na lista.
+Dessa forma, as posições denominadas com "*" significam que o time ou o robô não atingiu o limite mínimo para ser contabilizado ou é estrangeiro, entretanto seu "Elo" ja é calculado e consta em ordem decrescente na lista. Por fim, é interessante notar que nos rankings a seguir, além de cada elo, estão contabilizados os números de Vitória e Derrota de cada equipe/robô, embora esta contabilização não seja utilizada diretamente no cálculo final de cada elo, e sirva apenas como um dado adicional a ser apresentado.
 
 ## Ranking Times Sumô 3kg Autônomo
 
