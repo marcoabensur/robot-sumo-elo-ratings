@@ -576,6 +576,8 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 <details>
 <summary>Ranking Geral 2017-2022</summary>
 
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 126 / 033 | 1826 | KIMAUÁNISSO
 | #02 | 093 / 051 | 1642 | ThundeRatz
 | #03 | 030 / 020 | 1608 | Equipe-Paralela
@@ -618,6 +620,8 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 <details>
 <summary>2022</summary>
 
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 043 / 008 | 1718 | KIMAUÁNISSO
 | #02 | 022 / 017 | 1540 | ThundeRatz
 | #03 | 008 / 006 | 1527 | Equipe-Paralela
@@ -646,7 +650,8 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 <details>
 <summary>2021</summary>
 
-Year Ratings
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 010 / 003 | 1566 | KIMAUÁNISSO
 | #02 | 006 / 004 | 1520 | ThundeRatz
 | #03 | 006 / 004 | 1518 | Equipe-Paralela
@@ -661,7 +666,8 @@ Year Ratings
 <details>
 <summary>2020</summary>
 
-Year Ratings
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 006 / 002 | 1539 | Trincabotz
 | #02 | 004 / 001 | 1529 | UFFight
 | #03 | 004 / 004 | 1501 | ThundeRatz
@@ -677,7 +683,8 @@ Year Ratings
 <details>
 <summary>2019</summary>
 
-Year Ratings
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 036 / 009 | 1680 | KIMAUÁNISSO
 | #02 | 028 / 009 | 1624 | ThundeRatz
 | #03 | 014 / 008 | 1560 | Equipe-Paralela
@@ -702,6 +709,8 @@ Year Ratings
 <details>
 <summary>2018</summary>
 
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 030 / 011 | 1622 | KIMAUÁNISSO
 | #02 | 022 / 011 | 1597 | ThundeRatz
 | #03 | 005 / 004 | 1511 | SALVADOR-VIPERS
@@ -724,7 +733,8 @@ Year Ratings
 <details>
 <summary>2017</summary>
 
-Year Ratings
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 007 / 002 | 1552 | KIMAUÁNISSO
 | #02 | 011 / 006 | 1541 | ThundeRatz
 | #03 | 006 / 002 | 1539 | UFFight
@@ -749,6 +759,8 @@ Year Ratings
 <details>
 <summary>Ranking Geral 2017-2022</summary>
 
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 047 / 009 | 1738 | Eleven-RC
 | #02 | 033 / 003 | 1720 | Paçoca-RC
 | #03 | 042 / 013 | 1666 | Stonehenge
@@ -841,6 +853,8 @@ Year Ratings
 <details>
 <summary>2022</summary>
 
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 013 / 000 | 1615 | Paçoca-RC
 | #02 | 014 / 002 | 1600 | Eleven-RC
 | #03 | 014 / 008 | 1554 | Galena-RC
@@ -879,7 +893,8 @@ Year Ratings
 <details>
 <summary>2021</summary>
 
-Year Ratings
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 005 / 002 | 1531 | Moai-RC
 |  *  | 003 / 000 | 1530 | Frank-RC
 |  *  | 003 / 000 | 1530 | Eleven-RC
@@ -902,6 +917,8 @@ Year Ratings
 <details>
 <summary>2020</summary>
 
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 006 / 002 | 1540 | Hariyama
 | #02 | 004 / 001 | 1530 | Thorkell
 | #03 | 004 / 002 | 1519 | Stonehenge
@@ -921,6 +938,8 @@ Year Ratings
 <details>
 <summary>2019</summary>
 
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 014 / 002 | 1619 | Eleven-RC
 | #02 | 016 / 004 | 1600 | Stonehenge
 | #03 | 010 / 003 | 1565 | Dolgorsuren-Dagvadorj
@@ -967,6 +986,8 @@ Year Ratings
 <details>
 <summary>2018</summary>
 
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 015 / 005 | 1585 | Stonehenge
 | #02 | 012 / 003 | 1584 | Paçoca-RC
 | #03 | 011 / 003 | 1573 | Eleven-RC
@@ -1008,6 +1029,8 @@ Year Ratings
 <details>
 <summary>2017</summary>
 
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 007 / 002 | 1545 | Stonehenge
 | #02 | 006 / 002 | 1537 | Paladino
 | #03 | 005 / 002 | 1530 | Eleven-RC
