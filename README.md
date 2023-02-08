@@ -1,6 +1,14 @@
 # Elo Ratings Sumô de Robôs Brasil
 
-## Table of Contents
+## Sumário
+
+**[Introdução](#introdução)**<br>
+**[Ranking Times Sumô 3kg Autônomo](#ranking-times-sumô-3kg-autônomo)**<br>
+**[Ranking Robôs Sumô 3kg Autônomo](#ranking-robôs-sumô-3kg-autônomo)**<br>
+**[Ranking Times Sumô 3kg Rádio-Controlado](#ranking-times-sumô-3kg-rádio-controlado)**<br>
+**[Ranking Robôs Sumô 3kg Rádio-Controlado](#ranking-robôs-sumô-3kg-rádio-controlado)**<br>
+
+
 
 ## Introdução
 O que é ELO? Porque escolhemos? Etc..
@@ -566,20 +574,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 ## Ranking Times Sumô 3kg Rádio-Controlado
 
 
-#### 2022
-#### 2021
-#### 2020
-#### 2019
-#### 2018
-#### 2017
-
-
 ## Ranking Robôs Sumô 3kg Rádio-Controlado
 
 
-#### 2022
-#### 2021
-#### 2020
-#### 2019
-#### 2018
-#### 2017
+
