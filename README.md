@@ -51,20 +51,23 @@ E que devem ser adicionadas no campo "matches". Já para os robôs, a sintaxe é
 
 > ["Robô Vencedor", "Robô Derrotado"]
 
+Para mais detalhes, consulte um arquivo .json presente nas pastas "rc" ou "auto".
+
 ## Premissas
 Em relação às partidas listadas nos arquivos, foram considerados que:
 
-- Partidas só possuem como resultado vitória/derrota, não importando o placar (o que inclui partidas que resultaram em W.O). Isso ocorre devido à falta de informação para competições com chaveamento no sistema Robocore, que apenas indica o vencedor de cada luta;
-- W.O.s em sua grande maioria são tratados como lutas disputadas, como descrito acima. O único caso exclusivo se dá para competições em que a equipe declarou ausência prévia na competição, e mesma assim seus robôs foram mantidos nas chaves por motivo desconhecido (por exemplo: ThundeRatz na IRON Cup 2022);
+- Partidas só possuem como resultado vitória/derrota, não importando o placar (o que inclui partidas que resultaram em W.O.). Isso ocorre devido à falta de informação para competições com chaveamento no sistema Robocore, que apenas indica o vencedor de cada luta;
+- W.O.s em sua grande maioria são tratados como lutas disputadas, como descrito acima. Consideramos justo ser atribuído derrota a robôs que nao conseguiram ser finalizados com devida manutenção a tempo de lutar;
+- O único caso exclusivo a essas afirmativos sobre o W.O. se dá para competições em que a equipe declarou ausência prévia na competição, e mesma assim seus robôs foram mantidos nas chaves por motivo desconhecido (por exemplo: ThundeRatz na IRON Cup 2022);
 - Partidas entre robôs de mesma equipe foram desconsideradas nos cálculos. Isso se deve ao fato de serem poucos os casos em que as partidas de fato ocorrem, além de que, matematicamente, irá punir a própria equipe, reduzindo seu Elo.
 
 Na tentativa de se fazer um ranking mais justo e que reflita as reais habilidades dos competidores, algumas considerações foram realizadas para o ranking:
 
-- Optou-se por **não se contabilizar equipes com menos de 10 partidas** no **ranking geral** e times com **menos de 5 partidas** no **ranking anual**. Isso porque para um elo ser mais representativo, um número maior de amostras se faz necessário.
-- Para o **ranking geral** de robôs, considerou-se um mínimo de **8 partidas e 2 competições**. E, um mínimo de **5 partidas para o ranking anual**.
-- Robôs estrangeiros nao entram na classificação por se tratar de um ranking brasileiro.
+- Optou-se por **não se contabilizar equipes com menos de 10 partidas** no **ranking geral** e times com **menos de 5 partidas** no **ranking anual**. Isso porque para um elo ser mais representativo, um número maior de amostras se faz necessário;
+- Para o **ranking geral** de robôs, considerou-se um mínimo de **8 partidas**. E, um mínimo de **5 partidas para o ranking anual**;
+- Robôs estrangeiros não entram na classificação por se tratar de um ranking brasileiro.
 
-Dessa forma, as posições denominadas com "*" significam que o time ou o robô não atingiu o mínimo para ser contabilizado ou é extrangeiro, entretanto seu "Elo" ja é calculado.
+Dessa forma, as posições denominadas com "*" significam que o time ou o robô não atingiu o limite mínimo para ser contabilizado ou é estrangeiro, entretanto seu "Elo" ja é calculado e consta em ordem decrescente na lista.
 
 ## Ranking Times Sumô 3kg Autônomo
 
