@@ -88,7 +88,7 @@ def print_ordered(rankings, win_ratio, elo_threshold):
             count += 1
             print("| #{:02d} | ".format(count), end="")
 
-        print("{:02d} / {:02d} | {} | {}".format((win_ratio[item[0]][0]), (win_ratio[item[0]][1]), round(item[1]), item[0]))
+        print("{:03d} / {:03d} | {} | {}".format((win_ratio[item[0]][0]), (win_ratio[item[0]][1]), round(item[1]), item[0]))
     print("")
 
 
