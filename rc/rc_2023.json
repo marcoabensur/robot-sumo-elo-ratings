@@ -1,0 +1,47 @@
+{
+  "year": 2023,
+  "competitions": {
+    "competition": [
+      {
+        "name": "IRON Cup 2023",
+        "date": "26/02/2023",
+        "link": "https://events.robocore.net/ironcup-2023/brackets/21",
+
+        "matches": [
+          ["MinervaBots",                "RobotBulls"      ],
+          ["RioBotz",                    "Uai!rrior"       ],
+          ["Raijū",                      "Trincabotz"      ],
+          ["OMEGABOTZ",                  "RobotBulls"      ],
+          ["RioBotz",                    "MinervaBots"     ],
+          ["Raijū",                      "OMEGABOTZ"       ],
+          ["Raijū",                      "RioBotz"         ],
+          ["Uai!rrior",                  "RobotBulls"      ],
+          ["Trincabotz",                 "RobotBulls"      ],
+          ["Uai!rrior",                  "OMEGABOTZ"       ],
+          ["Trincabotz",                 "MinervaBots"     ],
+          ["Trincabotz",                 "Uai!rrior"       ],
+          ["RioBotz",                    "Trincabotz"      ],
+          ["Raijū",                      "RioBotz"         ]
+          
+          ],
+
+        "matches-robots": [
+          ["Atena",                "Bullvidoso-Controlado"                    ],
+          ["Aldebaran",            "Roberto"                                  ],
+          ["Raijū-RC",             "Hariyama"                                 ],
+          ["RiscaFaca",            "Bullbasaur-Controlado"                    ],
+          ["Aldebaran",            "Atena"                                    ],
+          ["Raijū-RC",             "RiscaFaca"                                ],
+          ["Raijū-RC",             "Aldebaran"                                ],
+          ["Roberto",              "Bullvidoso-Controlado"                    ],
+          ["Hariyama",             "Bullbasaur-Controlado"                    ],
+          ["Roberto",              "RiscaFaca"                                ],
+          ["Hariyama",             "Atena"                                    ],
+          ["Hariyama",             "Roberto"                                  ],
+          ["Aldebaran",            "Hariyama"                                 ],
+          ["Raijū-RC",             "Aldebaran"                                ]
+        ]
+      }
+    ]
+  }
+}
