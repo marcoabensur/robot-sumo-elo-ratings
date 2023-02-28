@@ -608,34 +608,34 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 ## Ranking Times Sumô 3kg Rádio-Controlado
 
 <details>
-<summary>Ranking Geral 2017-2022</summary>
+<summary>Ranking Geral 2017-2023</summary>
 
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 126 / 033 | 1826 | KIMAUÁNISSO
 | #02 | 093 / 051 | 1642 | ThundeRatz
 | #03 | 030 / 020 | 1608 | Equipe-Paralela
-| #04 | 015 / 009 | 1543 | UFFight
-| #05 | 020 / 015 | 1532 | Imperial-Botz
-| #06 | 022 / 023 | 1520 | Trincabotz
-| #07 | 007 / 008 | 1518 | Raijū
+| #04 | 011 / 008 | 1554 | Raijū
+| #05 | 015 / 009 | 1543 | UFFight
+| #06 | 020 / 015 | 1532 | Imperial-Botz
+| #07 | 025 / 025 | 1524 | Trincabotz
 | #08 | 036 / 046 | 1510 | Phoenix
 |  *  | 002 / 002 | 1502 | Robótica-TERA
 |  *  | 001 / 002 | 1501 | SIRE-UB
-| #09 | 054 / 087 | 1499 | OMEGABOTZ
 |  *  | 001 / 002 | 1495 | PinoyFlash
 |  *  | 001 / 002 | 1495 | GERSE
 |  *  | 003 / 004 | 1493 | Quantum-team
-| #10 | 009 / 011 | 1492 | SALVADOR-VIPERS
+| #09 | 009 / 011 | 1492 | SALVADOR-VIPERS
 |  *  | 001 / 002 | 1491 | Expert-Robots
+| #10 | 055 / 089 | 1489 | OMEGABOTZ
 |  *  | 001 / 002 | 1489 | UERJBotz
-| #11 | 014 / 022 | 1488 | Uai!rrior
+| #11 | 016 / 024 | 1488 | Uai!rrior
 |  *  | 000 / 002 | 1485 | Titans
-| #12 | 025 / 034 | 1484 | RobotBulls
 |  *  | 000 / 002 | 1483 | Star-Bots
 |  *  | 000 / 002 | 1480 | GER
 |  *  | 000 / 002 | 1480 | BrBots
 |  *  | 000 / 002 | 1478 | GaudérioBotz
+| #12 | 010 / 016 | 1476 | RioBotz
 |  *  | 002 / 005 | 1474 | DragonBotz
 |  *  | 000 / 004 | 1472 | Equipe-Atena-SEMEAR
 |  *  | 001 / 004 | 1470 | TamanduTech
@@ -643,9 +643,9 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 000 / 004 | 1465 | OVERLOAD
 |  *  | 000 / 004 | 1464 | DotBotz
 |  *  | 000 / 004 | 1462 | Haka
-| #13 | 007 / 014 | 1461 | RioBotz
-| #14 | 031 / 041 | 1452 | MinervaBots
 |  *  | 000 / 006 | 1451 | RSM-Robótica
+| #13 | 025 / 038 | 1446 | RobotBulls
+| #14 | 032 / 043 | 1445 | MinervaBots
 |  *  | 000 / 006 | 1445 | Bodetronic
 | #15 | 003 / 024 | 1355 | ESC-Escola-de-Robótica-São-Caetano
 
@@ -791,7 +791,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 ## Ranking Robôs Sumô 3kg Rádio-Controlado
 
 <details>
-<summary>Ranking Geral 2017-2022</summary>
+<summary>Ranking Geral 2017-2023</summary>
 
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
@@ -803,29 +803,28 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 | #06 | 015 / 010 | 1572 | Galena-RC
 | #07 | 010 / 005 | 1554 | Dolgorsuren-Dagvadorj
 | #08 | 007 / 002 | 1551 | Banguela-RC
-| #09 | 034 / 026 | 1539 | Moai-RC
-| #10 | 007 / 003 | 1537 | PitBull-Controlado
-| #11 | 008 / 004 | 1536 | Mr.PIG
+| #09 | 011 / 008 | 1541 | Raijū-RC
+| #10 | 034 / 026 | 1539 | Moai-RC
+| #11 | 007 / 003 | 1537 | PitBull-Controlado
+| #12 | 008 / 004 | 1536 | Mr.PIG
 |  *  | 004 / 001 | 1534 | Thorkell
 |  *  | 005 / 002 | 1532 | CaiPiloto
-| #12 | 010 / 006 | 1530 | Paladino
-| #13 | 008 / 005 | 1526 | Harry-Porco
-| #14 | 022 / 023 | 1517 | Ronda
-| #15 | 005 / 004 | 1514 | Roberto
+| #13 | 010 / 006 | 1530 | Paladino
+| #14 | 008 / 005 | 1526 | Harry-Porco
+| #15 | 022 / 023 | 1517 | Ronda
 |  *  | 002 / 001 | 1512 | Autistônomo
-| #16 | 011 / 010 | 1510 | Atena
-| #17 | 016 / 019 | 1508 | Bullbasaur-Controlado
+| #16 | 025 / 025 | 1511 | Hariyama
+| #17 | 007 / 006 | 1510 | Roberto
 | #18 | 004 / 004 | 1505 | Charizard-RC
 | #19 | 012 / 013 | 1505 | Shiryu
 | #20 | 007 / 007 | 1505 | Itiban
 | #21 | 006 / 006 | 1503 | Môzóvs
-| #22 | 007 / 008 | 1503 | Raijū-RC
-| #23 | 022 / 023 | 1502 | Hariyama
 |  *  | 001 / 001 | 1501 | Areki
 |  *  | 002 / 002 | 1501 | Gordox
 |  *  | 002 / 002 | 1500 | Seppuku
 |  *  | 002 / 002 | 1499 | MiniZord
 |  *  | 002 / 002 | 1497 | O-Agonia
+| #22 | 012 / 012 | 1497 | Atena
 |  *  | 001 / 002 | 1493 | MadimBull
 |  *  | 001 / 002 | 1493 | RalaCoxa
 |  *  | 000 / 001 | 1493 | Utopia
@@ -833,6 +832,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 001 / 002 | 1491 | SIRE-RC-UB
 |  *  | 000 / 001 | 1491 | Adubinho
 |  *  | 001 / 002 | 1491 | Grigio
+| #23 | 006 / 008 | 1491 | Aldebaran
 |  *  | 001 / 002 | 1491 | Titan
 |  *  | 001 / 002 | 1491 | Odyssay
 |  *  | 000 / 001 | 1491 | Ninjai
@@ -842,15 +842,15 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 001 / 002 | 1489 | Totoro-RC
 | #24 | 004 / 007 | 1488 | Zoio
 |  *  | 001 / 002 | 1488 | Leia
-| #25 | 006 / 009 | 1486 | Mooncake
+| #25 | 016 / 021 | 1487 | Bullbasaur-Controlado
+| #26 | 006 / 009 | 1486 | Mooncake
 |  *  | 002 / 004 | 1485 | Fanático
-| #26 | 003 / 005 | 1484 | Traga-Vasilha
+| #27 | 003 / 005 | 1484 | Traga-Vasilha
 |  *  | 000 / 002 | 1482 | Trator
 |  *  | 000 / 002 | 1482 | Batata
-| #27 | 004 / 006 | 1482 | C3
+| #28 | 004 / 006 | 1482 | C3
 |  *  | 000 / 002 | 1482 | Vader-2
-| #28 | 004 / 006 | 1482 | Porco-Aranha
-| #29 | 011 / 017 | 1481 | RiscaFaca
+| #29 | 004 / 006 | 1482 | Porco-Aranha
 |  *  | 000 / 002 | 1481 | Supra-Sumo
 |  *  | 000 / 002 | 1481 | HeavyBull
 |  *  | 000 / 002 | 1481 | Killer
@@ -867,7 +867,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 | #30 | 010 / 016 | 1478 | Drakkar
 |  *  | 001 / 004 | 1477 | Urutu
 | #31 | 004 / 007 | 1476 | Blanka
-| #32 | 003 / 006 | 1476 | Aldebaran
+| #32 | 012 / 019 | 1474 | RiscaFaca
 | #33 | 004 / 008 | 1473 | Se-Pega-no-Olho
 |  *  | 002 / 005 | 1471 | EtecAP
 |  *  | 001 / 004 | 1469 | Pericão
@@ -879,8 +879,8 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 | #36 | 002 / 008 | 1453 | Zerum
 | #37 | 018 / 025 | 1446 | Valeska
 |  *  | 000 / 006 | 1446 | JPLSM
-| #38 | 003 / 010 | 1445 | Bullvidoso-Controlado
 |  *  | 000 / 006 | 1444 | Tomoe
+| #38 | 003 / 012 | 1429 | Bullvidoso-Controlado
 | #39 | 000 / 012 | 1398 | Rampinha
 </details>
 
