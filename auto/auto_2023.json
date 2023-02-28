@@ -1,0 +1,41 @@
+{
+  "year": 2023,
+  "competitions": {
+    "competition": [
+      {
+        "name": "IronCup 2023",
+        "date": "26-02-2023",
+        "link": "https://events.robocore.net/ironcup-2023/brackets/20",
+        "matches": [
+          ["RioBotz",     "RobotBulls"],
+          ["Raijū",       "MinervaBots"],
+          ["Trincabotz",  "OMEGABOTZ"],
+          ["Raijū",       "RioBotz"],
+          ["RobotBulls",  "Trincabotz"],
+          ["Raijū",       "RobotBulls"],
+          ["MinervaBots", "RobotBulls"],
+          ["Trincabotz",  "MinervaBots"],
+          ["RioBotz",     "OMEGABOTZ"],
+          ["RioBotz",     "Trincabotz"],
+          ["RobotBulls",  "RioBotz"],
+          ["Raijū",       "RobotBulls"]
+        ],
+
+        "matches-robots": [
+          ["Aldebaran+",                "Bullvidoso+Controlado"],
+          ["Raijū",                     "Atena"],
+          ["Hariyama",                  "RiscaFaca"],
+          ["Raijū",                     "Aldebaran+"],
+          ["Bullbasauro-Descontrolado", "Hariyama"],
+          ["Raijū",                     "Bullbasauro-Descontrolado"],
+          ["Atena",                     "Bullvidoso+Controlado"],
+          ["Hariyama",                  "Atena"],
+          ["Aldebaran+",                "RiscaFaca"],
+          ["Aldebaran+",                "Hariyama"],
+          ["Bullbasauro-Descontrolado", "Aldebaran+"],
+          ["Raijū",                     "Bullbasauro-Descontrolado"]
+        ]
+      }
+    ]
+  }
+}
