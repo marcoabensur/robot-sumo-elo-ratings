@@ -35,6 +35,91 @@
           ["Bullbasauro-Descontrolado", "Aldebaran+"],
           ["Raijū",                     "Bullbasauro-Descontrolado"]
         ]
+      },
+      {
+        "name": "RSM Challenge 2023",
+        "date": "23-04-2023",
+        "link": "https://events.robocore.net/rsm-2023/brackets/20",
+        "matches": [
+          ["Equipe-Paralela", "FEG-Robótica"],
+          ["Raijū", "Roshi-Team"],
+          ["KIMAUÁNISSO", "S-DeepCombat"],
+          ["ThundeRatz", "UERJBotz"],
+          ["Equipe-Paralela", "RobotBulls"],
+          ["MinervaBots", "S-DeepCombat"],
+          ["KIMAUÁNISSO", "Trincabotz"],
+
+          ["Raijū", "Equipe-Paralela"],
+          ["KIMAUÁNISSO", "ThundeRatz"],
+          ["ThundeRatz", "Equipe-Paralela"],
+          ["KIMAUÁNISSO", "MinervaBots"],
+
+          ["KIMAUÁNISSO", "Raijū"],
+          ["ThundeRatz", "KIMAUÁNISSO"],
+
+          ["ThundeRatz", "KIMAUÁNISSO"],
+
+
+          ["S-DeepCombat", "UERJBotz"],
+          ["S-DeepCombat", "Trincabotz"],
+
+          ["MinervaBots", "Roshi-Team"],
+          ["Equipe-Paralela", "S-DeepCombat"],
+          ["ThundeRatz", "RobotBulls"],
+          ["Equipe-Paralela", "S-DeepCombat"],
+          
+          ["MinervaBots", "Equipe-Paralela"],
+          ["Equipe-Paralela", "ThundeRatz"],
+
+          ["KIMAUÁNISSO", "MinervaBots"],
+          ["Equipe-Paralela", "Raijū"],
+
+          ["Equipe-Paralela", "KIMAUÁNISSO"],
+          ["KIMAUÁNISSO", "Equipe-Paralela"],
+          ["KIMAUÁNISSO", "ThundeRatz"],
+          ["KIMAUÁNISSO", "ThundeRatz"]
+        ],
+
+        "matches-robots": [
+          ["Coelho-Escovado", "Hachiko"],
+          ["Raijū", "Sindrome"],
+          ["Eleven", "SENAI-KOMBAT"],
+          ["Moai", "Totoro"],
+          ["Kuro-Usagi", "Bullbasauro-Descontrolado"],
+          ["Atena", "Anchieta-Warrior"],
+          ["Charizard", "Hariyama"],
+
+          ["Raijū", "Coelho-Escovado"],
+          ["Eleven", "Moai"],
+          ["Galena", "Kuro-Usagi"],
+          ["Charizard", "Atena"],
+
+          ["Eleven", "Raijū"],
+          ["Galena", "Charizard"],
+
+          ["Galena", "Eleven"],
+
+
+          ["SENAI-KOMBAT", "Totoro"],
+          ["Anchieta-Warrior", "Hariyama"],
+
+          ["Atena", "Sindrome"],
+          ["Kuro-Usagi", "SENAI-KOMBAT"],
+          ["Moai", "Bullbasauro-Descontrolado"],
+          ["Coelho-Escovado", "Anchieta-Warrior"],
+          
+          ["Atena", "Kuro-Usagi"],
+          ["Coelho-Escovado", "Moai"],
+
+          ["Charizard", "Atena"],
+          ["Coelho-Escovado", "Raijū"],
+
+          ["Coelho-Escovado", "Charizard"],
+          ["Eleven", "Coelho-Escovado"],
+          ["Eleven", "Galena"],
+          ["Eleven", "Galena"]
+
+        ]
       }
     ]
   }
