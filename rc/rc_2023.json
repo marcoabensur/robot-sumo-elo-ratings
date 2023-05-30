@@ -114,8 +114,51 @@
           ["Coelho-Escovado",       "Raijū-RC"],
           ["Coelho-Escovado",       "Paçoca-RC"],
           ["Paçoca-RC",             "Coelho-Escovado"]
+        ]
+      },
+      {
+        "name": "RoboChallenge 2023",
+        "date": "28/05/2023",
+        "link": "https://events.robocore.net/rcbr-2023/brackets/21",
 
+        "matches": [
+          ["Equipe-Paralela",     "Raijū"],
+          ["KIMAUÁNISSO",         "ThundeRatz"],
+          ["KIMAUÁNISSO",         "TamanduTech"],
+          ["ThundeRatz",          "OMEGABOTZ"],
+          ["KIMAUÁNISSO",         "Equipe-Paralela"],
+          ["KIMAUÁNISSO",         "Phoenix"],
+          ["KIMAUÁNISSO",         "Equipe-Paralela"],
+          ["ThundeRatz",          "Phoenix"],
+          ["KIMAUÁNISSO",         "ThundeRatz"],
+          ["Phoenix",             "Raijū"],
+          ["ThundeRatz",          "Equipe-Paralela"],
+          ["Phoenix",             "TamanduTech"],
+          ["Equipe-Paralela",     "OMEGABOTZ"],
+          ["ThundeRatz",          "Phoenix"],
+          ["Phoenix",             "Equipe-Paralela"],
+          ["KIMAUÁNISSO",         "Phoenix"],
+          ["KIMAUÁNISSO",         "ThundeRatz"]
+          ],
 
+        "matches-robots": [
+          ["Coelho-Escovado",     "Raijū-RC"],
+          ["Frank-RC",            "Galena-RC"],
+          ["Eleven-RC",           "Tractiana"],
+          ["Moai-RC",             "RiscaFaca"],
+          ["Charizard-RC",        "Coelho-Escovado"],
+          ["Frank-RC",            "Mooncake"],
+          ["Eleven-RC",           "Kuro-Usagi"],
+          ["Moai-RC",             "Ronda"],
+          ["Eleven-RC",           "Moai-RC"],
+          ["Ronda",               "Raijū-RC"],
+          ["Galena-RC",           "Kuro-Usagi"],
+          ["Mooncake",            "Tractiana"],
+          ["Coelho-Escovado",     "RiscaFaca"],
+          ["Galena-RC",           "Ronda"],
+          ["Mooncake",            "Coelho-Escovado"],
+          ["Frank-RC",            "Mooncake"],
+          ["Frank-RC",            "Moai-RC"]
         ]
       }
     ]
