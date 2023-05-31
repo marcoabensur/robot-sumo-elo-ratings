@@ -43,10 +43,10 @@
         "matches": [
           ["Equipe-Paralela", "FEG-Robótica"],
           ["Raijū", "Roshi-Team"],
-          ["KIMAUÁNISSO", "S-DeepCombat"],
+          ["KIMAUÁNISSO", "Cupim-do-Aço"],
           ["ThundeRatz", "UERJBotz"],
           ["Equipe-Paralela", "RobotBulls"],
-          ["MinervaBots", "S-DeepCombat"],
+          ["MinervaBots", "Cupim-do-Aço"],
           ["KIMAUÁNISSO", "Trincabotz"],
 
           ["Raijū", "Equipe-Paralela"],
@@ -60,13 +60,13 @@
           ["ThundeRatz", "KIMAUÁNISSO"],
 
 
-          ["S-DeepCombat", "UERJBotz"],
-          ["S-DeepCombat", "Trincabotz"],
+          ["Cupim-do-Aço", "UERJBotz"],
+          ["Cupim-do-Aço", "Trincabotz"],
 
           ["MinervaBots", "Roshi-Team"],
-          ["Equipe-Paralela", "S-DeepCombat"],
+          ["Equipe-Paralela", "Cupim-do-Aço"],
           ["ThundeRatz", "RobotBulls"],
-          ["Equipe-Paralela", "S-DeepCombat"],
+          ["Equipe-Paralela", "Cupim-do-Aço"],
           
           ["MinervaBots", "Equipe-Paralela"],
           ["Equipe-Paralela", "ThundeRatz"],
@@ -83,7 +83,7 @@
         "matches-robots": [
           ["Coelho-Escovado", "Hachiko"],
           ["Raijū", "Sindrome"],
-          ["Eleven", "SENAI-KOMBAT"],
+          ["Eleven", "SENAI-KOMBAT-23"],
           ["Moai", "Totoro"],
           ["Kuro-Usagi", "Bullbasauro-Descontrolado"],
           ["Atena", "Anchieta-Warrior"],
@@ -100,11 +100,11 @@
           ["Galena", "Eleven"],
 
 
-          ["SENAI-KOMBAT", "Totoro"],
+          ["SENAI-KOMBAT-23", "Totoro"],
           ["Anchieta-Warrior", "Hariyama"],
 
           ["Atena", "Sindrome"],
-          ["Kuro-Usagi", "SENAI-KOMBAT"],
+          ["Kuro-Usagi", "SENAI-KOMBAT-23"],
           ["Moai", "Bullbasauro-Descontrolado"],
           ["Coelho-Escovado", "Anchieta-Warrior"],
           
@@ -119,6 +119,53 @@
           ["Eleven", "Galena"],
           ["Eleven", "Galena"]
 
+        ]
+      },
+      {
+        "name": "RoboChallenge 2023",
+        "date": "28/05/2023",
+        "link": "https://events.robocore.net/rcbr-2023/brackets/20",
+
+        "matches": [
+          ["KIMAUÁNISSO", "OMEGABOTZ"],
+          ["KIMAUÁNISSO", "Cupim-do-Aço"],
+          ["ThundeRatz", "Equipe-Paralela"],
+          ["KIMAUÁNISSO", "Cupim-do-Aço"],
+          ["Raijū", "Equipe-Paralela"],
+          ["KIMAUÁNISSO", "ThundeRatz"],
+          ["ThundeRatz", "KIMAUÁNISSO"],
+          ["Raijū", "KIMAUÁNISSO"],
+          ["Raijū", "ThundeRatz"],
+          ["OMEGABOTZ", "Equipe-Paralela"],
+          ["Equipe-Paralela", "Cupim-do-Aço"],
+          ["ThundeRatz", "OMEGABOTZ"],
+          ["Equipe-Paralela", "Cupim-do-Aço"],
+          ["KIMAUÁNISSO", "ThundeRatz"],
+          ["KIMAUÁNISSO", "Equipe-Paralela"],
+          ["KIMAUÁNISSO", "ThundeRatz"],
+          ["KIMAUÁNISSO", "Raijū"],
+          ["Raijū", "KIMAUÁNISSO"]
+          ],
+
+        "matches-robots": [
+          ["Charizard",       "RiscaFaca"],
+          ["Eleven",          "SENAI-KOMBAT-23"],
+          ["Galena",          "Coelho-Escovado"],
+          ["Charizard",       "Anchieta-Warrior"],
+          ["Raijū",           "Kuro-Usagi"],
+          ["Eleven",          "Moai"],
+          ["Galena",          "Charizard"],
+          ["Raijū",           "Eleven"],
+          ["Raijū",           "Galena"],
+          ["RiscaFaca",       "Kuro-Usagi"],
+          ["Coelho-Escovado", "SENAI-KOMBAT-23"],
+          ["Moai",            "RiscaFaca"],
+          ["Coelho-Escovado", "Anchieta-Warrior"],
+          ["Eleven",          "Moai"],
+          ["Charizard",       "Coelho-Escovado"],
+          ["Eleven",          "Galena"],
+          ["Eleven",          "Raijū"],
+          ["Raijū",           "Eleven"]
         ]
       }
     ]
