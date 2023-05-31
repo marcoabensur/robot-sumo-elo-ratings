@@ -126,7 +126,9 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 <details>
 <summary>2023</summary>
-Year Ratings
+
+| Position  | Win/Losses  | Elo  | Team              |
+|:---------: |:-----------:|:-----:|:----------------:|
 | #01 | 017 / 006 | 1588 | KIMAUÁNISSO
 | #02 | 010 / 003 | 1567 | Raijū
 | #03 | 003 / 002 | 1509 | RioBotz
@@ -140,6 +142,7 @@ Year Ratings
 | #08 | 001 / 004 | 1474 | OMEGABOTZ
 | #09 | 002 / 006 | 1466 | RobotBulls
 | #10 | 002 / 008 | 1448 | Cupim-do-Aço
+
 </details>
 
 
