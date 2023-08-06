@@ -8,14 +8,20 @@ foreign_robots = [
     "SIRE-UB",
     "HAKA A",
     "HAKA B",
-    "Grigio"
+    "Grigio",
+    "Georges",
+    "Mbaretech",
+    "Luison"
 ]
 
 foreign_teams = [
     "Sumomasters",
     "SIRE-UB",
     "SIRE-RC-UB",
-    "PinoyFlash"
+    "PinoyFlash",
+    "Polybot-Grenoble",
+    "Team-Fiuna",
+    "Luison-Roboteam"
 ]
 
 
