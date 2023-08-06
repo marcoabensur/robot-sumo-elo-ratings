@@ -76,33 +76,35 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
-| #01 | 116 / 035 | 1724 | KIMAUÁNISSO
+| #01 | 127 / 037 | 1743 | KIMAUÁNISSO
 | #02 | 019 / 011 | 1622 | Raijū
-| #03 | 069 / 045 | 1619 | ThundeRatz
+| #03 | 073 / 049 | 1601 | ThundeRatz
 | #04 | 011 / 008 | 1553 | Robrow-Team
+| #05 | 040 / 040 | 1553 | RobotBulls
 |  *  | 008 / 005 | 1551 | Sumomasters
-| #05 | 025 / 030 | 1547 | Equipe-Paralela
 | #06 | 008 / 004 | 1534 | PatoBots
 | #07 | 017 / 013 | 1529 | SALVADOR-VIPERS
-| #08 | 012 / 014 | 1516 | RioBotz
-| #09 | 036 / 038 | 1513 | RobotBulls
-|  *  | 003 / 004 | 1504 | RSM-Robótica
+| #08 | 027 / 034 | 1527 | Equipe-Paralela
+|  *  | 003 / 002 | 1523 | Team-Fiuna
+| #09 | 005 / 006 | 1512 | Instituto-RSM
+| #10 | 013 / 016 | 1507 | RioBotz
 |  *  | 002 / 003 | 1500 | SIRE-UB
-| #10 | 030 / 029 | 1497 | Equipe-Phoenix
 | #11 | 005 / 006 | 1496 | Expert-Robots
+| #12 | 020 / 024 | 1495 | Trincabotz
 |  *  | 003 / 004 | 1494 | BrBots
+| #13 | 031 / 031 | 1491 | Equipe-Phoenix
 |  *  | 001 / 002 | 1491 | ZOW-E
 |  *  | 001 / 002 | 1490 | DragBotz
 |  *  | 001 / 002 | 1489 | RoboCamp
 |  *  | 001 / 002 | 1487 | Uai!rrior
 |  *  | 000 / 002 | 1487 | RAS-UFRB
+|  *  | 000 / 002 | 1486 | Luison-Roboteam
 |  *  | 002 / 004 | 1485 | WickedBotz
 |  *  | 000 / 002 | 1484 | Senai-SC
 |  *  | 002 / 004 | 1483 | Ztronics-Unip
-| #12 | 018 / 022 | 1483 | Trincabotz
 |  *  | 000 / 002 | 1481 | Roshi-Team
 |  *  | 000 / 002 | 1481 | Crossbots
-| #13 | 029 / 035 | 1480 | MinervaBots
+| #14 | 029 / 035 | 1480 | MinervaBots
 |  *  | 000 / 002 | 1480 | Engetonica
 |  *  | 000 / 002 | 1480 | GROM
 |  *  | 000 / 002 | 1480 | EniacChallengers
@@ -110,14 +112,14 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 000 / 002 | 1480 | Vortex
 |  *  | 000 / 002 | 1480 | GREAT
 |  *  | 000 / 002 | 1480 | Machine-Eagle
-| #14 | 008 / 012 | 1478 | WestBots
-| #15 | 033 / 043 | 1475 | FEG-Robótica
-| #16 | 004 / 008 | 1465 | Polybot-Grenoble
+| #15 | 008 / 012 | 1478 | WestBots
 |  *  | 002 / 006 | 1463 | UFBATS
-| #17 | 002 / 008 | 1461 | Cupim-do-Aço
-| #18 | 003 / 008 | 1458 | Robótica-TERA
-| #19 | 003 / 008 | 1455 | DotBotz
-| #20 | 062 / 084 | 1455 | OMEGABOTZ
+| #16 | 002 / 008 | 1461 | Cupim-do-Aço
+| #17 | 003 / 008 | 1455 | DotBotz
+| #18 | 062 / 084 | 1455 | OMEGABOTZ
+| #19 | 035 / 047 | 1454 | FEG-Robótica
+|  *  | 004 / 010 | 1453 | Polybot-Grenoble
+| #20 | 003 / 010 | 1446 | Robótica-TERA
 |  *  | 000 / 006 | 1443 | Ball-Robotics
 | #21 | 005 / 014 | 1427 | UERJBotz
 
@@ -129,19 +131,25 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
-| #01 | 017 / 006 | 1588 | KIMAUÁNISSO
+| #01 | 028 / 008 | 1637 | KIMAUÁNISSO
 | #02 | 010 / 003 | 1567 | Raijū
-| #03 | 003 / 002 | 1509 | RioBotz
-| #04 | 009 / 008 | 1508 | Equipe-Paralela
-| #05 | 008 / 008 | 1508 | ThundeRatz
-| #06 | 004 / 004 | 1502 | MinervaBots
-|  *  | 000 / 001 | 1490 | FEG-Robótica
+|  *  | 003 / 002 | 1513 | Team-Fiuna
+| #03 | 012 / 012 | 1508 | ThundeRatz
+|  *  | 002 / 002 | 1503 | Instituto-RSM
+| #04 | 006 / 008 | 1502 | RobotBulls
+| #05 | 004 / 004 | 1502 | MinervaBots
+| #06 | 004 / 004 | 1497 | RioBotz
+|  *  | 001 / 002 | 1492 | Equipe-Phoenix
+| #07 | 011 / 012 | 1489 | Equipe-Paralela
+| #08 | 004 / 006 | 1486 | Trincabotz
+|  *  | 000 / 002 | 1483 | Luison-Roboteam
+|  *  | 000 / 002 | 1483 | Robótica-TERA
+|  *  | 000 / 002 | 1483 | Polybot-Grenoble
 |  *  | 000 / 002 | 1481 | Roshi-Team
-| #07 | 002 / 004 | 1480 | Trincabotz
 |  *  | 000 / 002 | 1480 | UERJBotz
-| #08 | 001 / 004 | 1474 | OMEGABOTZ
-| #09 | 002 / 006 | 1466 | RobotBulls
-| #10 | 002 / 008 | 1448 | Cupim-do-Aço
+| #09 | 001 / 004 | 1474 | OMEGABOTZ
+| #10 | 002 / 005 | 1462 | FEG-Robótica
+| #11 | 002 / 008 | 1448 | Cupim-do-Aço
 
 </details>
 
@@ -312,27 +320,28 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
-| #01 | 054 / 014 | 1710 | Eleven
+| #01 | 058 / 015 | 1712 | Eleven
 | #02 | 033 / 010 | 1641 | Paçoca
 | #03 | 019 / 011 | 1606 | Raijū
+| #04 | 015 / 004 | 1584 | Frank
 |  *  | 007 / 000 | 1571 | Dolgorsuren
-| #04 | 012 / 003 | 1570 | Frank
 |  *  | 007 / 001 | 1567 | Masakrator
-| #05 | 011 / 004 | 1564 | Stonehenge-Auto
-| #06 | 049 / 033 | 1560 | Moai
+| #05 | 014 / 008 | 1565 | Charizard
+| #06 | 011 / 004 | 1564 | Stonehenge-Auto
 | #07 | 020 / 012 | 1558 | Golem
-| #08 | 009 / 008 | 1546 | Galena
+| #08 | 012 / 010 | 1553 | Galena
 | #09 | 016 / 011 | 1544 | Drakkar
-| #10 | 010 / 006 | 1541 | Aldebaran+
-| #11 | 006 / 002 | 1539 | PitBull
-| #12 | 014 / 012 | 1538 | Itiban
-| #13 | 007 / 004 | 1534 | Coelho-Escovado
+| #10 | 050 / 035 | 1544 | Moai
+| #11 | 019 / 017 | 1540 | Bullbasauro-Descontrolado
+| #12 | 006 / 002 | 1539 | PitBull
+| #13 | 014 / 012 | 1538 | Itiban
+| #14 | 009 / 006 | 1532 | Coelho-Escovado
 |  *  | 005 / 002 | 1531 | Salomão
-| #14 | 009 / 006 | 1528 | MÔZÓVS
-| #15 | 010 / 008 | 1526 | Charizard
+| #15 | 011 / 008 | 1530 | Aldebaran+
+| #16 | 009 / 006 | 1528 | MÔZÓVS
 |  *  | 004 / 002 | 1519 | KokiBot
 |  *  | 004 / 002 | 1518 | Cinnamon-Breaker
-| #16 | 015 / 015 | 1513 | Bullbasauro-Descontrolado
+|  *  | 003 / 002 | 1515 | Mbaretech
 |  *  | 003 / 002 | 1512 | Odyssay
 |  *  | 003 / 002 | 1511 | Paladino
 | #17 | 007 / 007 | 1510 | Doge
@@ -343,6 +352,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 | #20 | 004 / 004 | 1506 | Bullvidoso-Descontrolado
 | #21 | 013 / 013 | 1506 | MetalGarurumon
 | #22 | 006 / 006 | 1506 | Mensageiro-do-Caos
+|  *  | 002 / 002 | 1505 | Dinamite-Auto
 | #23 | 008 / 007 | 1505 | Traga-a-Vasilha
 | #24 | 004 / 004 | 1502 | Daltonomo
 |  *  | 002 / 002 | 1502 | Jean-Michel
@@ -355,6 +365,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 001 / 002 | 1494 | Rabanete
 |  *  | 002 / 003 | 1494 | SIRE-UB
 |  *  | 001 / 002 | 1494 | TicoMia
+|  *  | 001 / 002 | 1492 | Skoll
 |  *  | 001 / 002 | 1492 | SIGMA
 |  *  | 001 / 002 | 1491 | PLC-ROBOT
 |  *  | 001 / 002 | 1491 | PL-CH
@@ -367,16 +378,17 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 001 / 002 | 1490 | Gurizinho
 |  *  | 001 / 002 | 1489 | ZOW-E
 |  *  | 001 / 002 | 1489 | Locomotiva
-| #27 | 018 / 026 | 1487 | Kuro-Usagi
 |  *  | 001 / 002 | 1487 | Roberto
-| #28 | 003 / 005 | 1486 | Loba
+|  *  | 000 / 002 | 1486 | Georges
 |  *  | 000 / 002 | 1485 | Bruxão
 |  *  | 002 / 004 | 1485 | Projeto-X
 |  *  | 001 / 003 | 1482 | Shiny
+|  *  | 000 / 002 | 1482 | Luison
 |  *  | 000 / 002 | 1482 | Toro
 |  *  | 002 / 004 | 1482 | Jack-Chumbo
 |  *  | 000 / 002 | 1482 | Sumozão
 |  *  | 000 / 002 | 1482 | Sindrome
+| #27 | 016 / 020 | 1481 | Hariyama
 |  *  | 000 / 002 | 1481 | CaLipe
 |  *  | 000 / 002 | 1481 | AngryBull
 |  *  | 001 / 004 | 1481 | SENAI-KOMBAT-23
@@ -388,6 +400,7 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 000 / 002 | 1480 | Panelinha
 |  *  | 000 / 002 | 1480 | Cthulhu
 |  *  | 000 / 002 | 1480 | Ariticum
+|  *  | 000 / 002 | 1480 | Shenbong-Auto
 |  *  | 000 / 002 | 1480 | BLL
 |  *  | 000 / 002 | 1480 | Weng-Weng-2
 |  *  | 000 / 002 | 1480 | Titan
@@ -397,15 +410,16 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 |  *  | 002 / 004 | 1480 | Expert
 |  *  | 000 / 002 | 1480 | Coiote+
 |  *  | 000 / 002 | 1480 | Zerum
+| #28 | 004 / 007 | 1477 | Loba
 | #29 | 007 / 011 | 1475 | Ronda
 |  *  | 001 / 004 | 1475 | Golden-Boy
 |  *  | 002 / 005 | 1474 | Bullvidoso+Controlado
 |  *  | 000 / 003 | 1473 | Bender
-| #30 | 003 / 006 | 1473 | Mooncake
 |  *  | 001 / 004 | 1472 | Sr.Tarugo
 |  *  | 001 / 004 | 1472 | Anchieta-Warrior
 |  *  | 001 / 004 | 1471 | Zeidan
-| #31 | 014 / 018 | 1471 | Hariyama
+| #30 | 004 / 008 | 1469 | Mooncake
+| #31 | 018 / 028 | 1468 | Kuro-Usagi
 | #32 | 002 / 006 | 1466 | C3+
 |  *  | 000 / 004 | 1463 | Tòbias
 |  *  | 000 / 004 | 1462 | Totoro
@@ -422,24 +436,33 @@ Dessa forma, as posições denominadas com "*" significam que o time ou o robô 
 
 | Position  | Win/Losses  | Elo  | Team              |
 |:---------: |:-----------:|:-----:|:----------------:|
-| #01 | 011 / 003 | 1573 | Eleven
-| #02 | 010 / 003 | 1565 | Raijū
-| #03 | 006 / 003 | 1529 | Charizard
-| #04 | 007 / 004 | 1527 | Coelho-Escovado
-| #05 | 005 / 004 | 1514 | Galena
-| #06 | 003 / 002 | 1509 | Aldebaran+
+| #01 | 015 / 004 | 1591 | Eleven
+| #02 | 010 / 003 | 1566 | Charizard
+| #03 | 010 / 003 | 1565 | Raijū
+| #04 | 009 / 006 | 1525 | Coelho-Escovado
+| #05 | 008 / 006 | 1523 | Galena
+|  *  | 003 / 001 | 1520 | Frank
+|  *  | 003 / 002 | 1510 | Mbaretech
+| #06 | 006 / 006 | 1508 | Bullbasauro-Descontrolado
+|  *  | 002 / 002 | 1502 | Dinamite-Auto
 | #07 | 004 / 004 | 1501 | Atena
-| #08 | 003 / 004 | 1493 | Moai
+| #08 | 004 / 004 | 1498 | Aldebaran+
+|  *  | 001 / 002 | 1491 | Mooncake
+|  *  | 001 / 002 | 1491 | Skoll
 |  *  | 000 / 001 | 1490 | Hachiko
-| #09 | 002 / 004 | 1482 | Bullbasauro-Descontrolado
+|  *  | 001 / 002 | 1489 | Loba
+| #09 | 004 / 006 | 1485 | Hariyama
+| #10 | 004 / 006 | 1483 | Moai
+|  *  | 000 / 002 | 1482 | Georges
 |  *  | 000 / 002 | 1481 | Sindrome
+|  *  | 000 / 002 | 1481 | Shenbong-Auto
+|  *  | 000 / 002 | 1480 | Luison
 |  *  | 000 / 002 | 1480 | Bullvidoso+Controlado
 |  *  | 000 / 002 | 1480 | Totoro
-| #10 | 002 / 004 | 1480 | Kuro-Usagi
-| #11 | 002 / 004 | 1480 | Hariyama
-| #12 | 001 / 004 | 1473 | SENAI-KOMBAT-23
-| #13 | 001 / 004 | 1472 | Anchieta-Warrior
-| #14 | 001 / 004 | 1472 | RiscaFaca
+| #11 | 001 / 004 | 1473 | SENAI-KOMBAT-23
+| #12 | 001 / 004 | 1472 | Anchieta-Warrior
+| #13 | 001 / 004 | 1472 | RiscaFaca
+| #14 | 002 / 006 | 1461 | Kuro-Usagi
 
 
 </details>
