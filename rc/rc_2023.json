@@ -160,6 +160,87 @@
           ["Frank-RC",            "Mooncake"],
           ["Frank-RC",            "Moai-RC"]
         ]
+      },
+      {
+        "name": "RoboCore Experience - CPBR15",
+        "date": "30/07/2023",
+        "link": "https://events.robocore.net/rcx-cpbr15/brackets/21",
+
+        "matches": [
+          ["Equipe-Paralela",     "Robótica-TERA"],
+          ["Equipe-Paralela",     "KIMAUÁNISSO"],
+          ["RobotBulls",          "ThundeRatz"],
+          ["KIMAUÁNISSO",         "INTACTUZ"],
+          ["RSM-Robótica",        "Phoenix"],
+          ["Phoenix",             "ThundeRatz"],
+          ["KIMAUÁNISSO",         "Trincabotz"],
+          ["Uai!rrior",           "RioBotz"],
+          ["KIMAUÁNISSO",         "Equipe-Atena-SEMEAR"],
+
+          ["RobotBulls",          "Equipe-Paralela"],
+          ["KIMAUÁNISSO",         "RSM-Robótica"],
+          ["KIMAUÁNISSO",         "Phoenix"],
+          ["KIMAUÁNISSO",         "Uai!rrior"],
+
+          ["RobotBulls",          "KIMAUÁNISSO"],
+          ["KIMAUÁNISSO",         "RobotBulls"],
+
+          ["Robótica-TERA",       "Equipe-Atena-SEMEAR"],
+          ["RioBotz",             "Robótica-TERA"],
+          ["ThundeRatz",          "Trincabotz"],
+          ["Phoenix",             "INTACTUZ"],
+          ["KIMAUÁNISSO",         "ThundeRatz"],
+
+          ["RioBotz",             "RSM-Robótica"],
+          ["ThundeRatz",          "Equipe-Paralela"],
+          ["Phoenix",             "Uai!rrior"],
+          ["KIMAUÁNISSO",         "Phoenix"],
+
+          ["ThundeRatz",          "RioBotz"],
+          ["KIMAUÁNISSO",         "Phoenix"],
+
+          ["KIMAUÁNISSO",         "ThundeRatz"],
+
+          ["KIMAUÁNISSO",         "RobotBulls"]
+          ],
+
+        "matches-robots": [
+          ["Coelho-Escovado",           "Shenbong-RC"],
+          ["Coelho-Escovado",           "Frank-RC"],
+          ["Bullbasaur-Controlado",     "Galena-RC"],
+          ["Charizard-RC",              "INTACTUZ V1.0"],
+          ["Dinamite",                  "Ronda"],
+          ["Mooncake",                  "Moai-RC"],
+          ["Eleven-RC",                 "Hariyama"],
+          ["Roberto",                   "Aldebaran"],
+          ["Paçoca-RC",                 "Kurupira"],
+
+          ["Bullbasaur-Controlado",     "Coelho-Escovado"],
+          ["Charizard-RC",              "Dinamite"],
+          ["Eleven-RC",                 "Mooncake"],
+          ["Paçoca-RC",                 "Roberto"],
+
+          ["Bullbasaur-Controlado",     "Charizard-RC"],
+          ["Paçoca-RC",                 "Bullbasaur-Controlado"],
+
+          ["Shenbong-RC",               "Kurupira"],
+          ["Aldebaran",                 "Shenbong-RC"],
+          ["Moai-RC",                   "Hariyama"],
+          ["Ronda",                     "INTACTUZ V1.0"],
+          ["Frank-RC",                  "Galena-RC"],
+
+          ["Aldebaran",                 "Dinamite"],
+          ["Moai-RC",                   "Coelho-Escovado"],
+          ["Ronda",                     "Roberto"],
+          ["Frank-RC",                  "Mooncake"],
+
+          ["Moai-RC",                   "Aldebaran"],
+          ["Frank-RC",                  "Phoenix"],
+
+          ["Eleven-RC",                 "Moai-RC"],
+
+          ["Frank-RC",                  "Bullbasaur-Controlado"]
+        ]
       }
     ]
   }
