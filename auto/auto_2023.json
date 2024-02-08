@@ -243,6 +243,27 @@
           ["Bullbasauro-Descontrolado", "Frank"],
           ["Charizard", "Bullbasauro-Descontrolado"]
         ]
+      },
+      {
+        "name": "Summit 2023",
+        "date": "17-11-2023",
+        "invalid": "true",
+        "link": "https://challonge.com/summit2023_sumo3kgauto",
+        "matches": [
+          ["Instituto-RSM", "Trincabotz"],
+          ["MinervaBots", "Instituto-RSM"],
+          ["Instituto-RSM", "Trincabotz"],
+          ["Instituto-RSM", "MinervaBots"],
+          ["Instituto-RSM", "MinervaBots"]
+        ],
+
+        "matches-robots": [
+          ["Dinamite-Auto", "Hariyama"],
+          ["Atena", "Dinamite-Auto"],
+          ["Dinamite-Auto", "Hariyama"],
+          ["Dinamite-Auto", "Atena"],
+          ["Dinamite-Auto", "Atena"]
+        ]
       }
     ]
   }
