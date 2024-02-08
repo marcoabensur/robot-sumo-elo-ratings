@@ -27,6 +27,7 @@
       {
         "name": "1º Torneio SMILE",
         "date": "26-05-2018",
+        "invalid": "true",
         "link": "https://challonge.com/robosmile_auto",
         "matches": [
           ["ThundeRatz", "KIMAUÁNISSO" ],

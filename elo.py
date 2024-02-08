@@ -153,19 +153,21 @@ def main():
 
         for competition in year_competitions:
             matches = competition[rating_type]
+            if 'invalid' in competition and competition['invalid'] == "true":
+                print("Invalid competition: " + competition['name'] + ", Less than 4 robots")
+            else:
+                year_wins_and_losses = update_wins_losses(matches, year_wins_and_losses)
+                complete_wins_and_losses = update_wins_losses(matches, complete_wins_and_losses)
+                
+                year_matches += matches
+                year_ratings = update_ratings(matches, year_ratings)
+                
+                all_matches += matches
+                complete_ratings = update_ratings(matches, complete_ratings)
 
-            year_wins_and_losses = update_wins_losses(matches, year_wins_and_losses)
-            complete_wins_and_losses = update_wins_losses(matches, complete_wins_and_losses)
-            
-            year_matches += matches
-            year_ratings = update_ratings(matches, year_ratings)
-            
-            all_matches += matches
-            complete_ratings = update_ratings(matches, complete_ratings)
-
-            if (print_logs):
-                print_detailed_info(competition['name'], year_ratings, complete_ratings,
-                                    competition['date'], year_wins_and_losses, complete_wins_and_losses, rating_type)
+                if (print_logs):
+                    print_detailed_info(competition['name'], year_ratings, complete_ratings,
+                                        competition['date'], year_wins_and_losses, complete_wins_and_losses, rating_type)
 
         if (not print_logs):
             print("Complete Ratings\r\n")
