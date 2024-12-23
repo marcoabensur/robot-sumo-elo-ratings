@@ -11,7 +11,17 @@ foreign_robots = [
     "Grigio",
     "Georges",
     "Mbaretech",
-    "Luison"
+    "Luison",
+    "Virus-MX",
+    "Topotoropo",
+    "Bot-Lee",
+    "Tanos",
+    "Mbaretech",
+    "Mbaretech-2.0",
+    "Topotoropo-RC",
+    "Sindrome-RC",
+    "Kaizen",
+    "Bot-Lee-RC"
 ]
 
 foreign_teams = [
@@ -21,7 +31,11 @@ foreign_teams = [
     "PinoyFlash",
     "Polybot-Grenoble",
     "Team-Fiuna",
-    "Luison-Roboteam"
+    "Luison-Roboteam",
+    "Roshi-Team",
+    "UDITECH",
+    "Club-Robótica-IST-TUNGURAHUA",
+    "Team-Fiuna"
 ]
 
 
