@@ -1,0 +1,53 @@
+{
+  "year": 2025,
+  "competitions": {
+    "competition": [
+      {
+        "name": "IronCup 2025",
+        "date": "16-02-2025",
+        "link": "https://events.robocore.net/ironcup-2025/brackets/21",
+        "matches": [
+          ["Instituto-RSM","RobotBulls"],
+          ["KIMAUÁNISSO","OMEGABOTZ"],
+          ["ThundeRatz","RobotBulls"],
+          ["KIMAUÁNISSO","ThundeRatz"],
+          ["RobotBulls","OMEGABOTZ"],
+          ["KIMAUÁNISSO","Instituto-RSM"],
+          ["ThundeRatz","RioBotz"],
+          ["KIMAUÁNISSO","Netuno"],
+          ["KIMAUÁNISSO","ThundeRatz"],
+          ["KIMAUÁNISSO","RobotBulls"],
+          ["RobotBulls","OMEGABOTZ"],
+          ["Instituto-RSM","OMEGABOTZ"],
+          ["RioBotz","ThundeRatz"],
+          ["RobotBulls","Netuno"],
+          ["Instituto-RSM","RioBotz"],
+          ["ThundeRatz","Instituto-RSM"],
+          ["ThundeRatz","RobotBulls"],
+          ["KIMAUÁNISSO","ThundeRatz"]
+        ],
+
+        "matches-robots": [
+          ["Dinamite","Bullbasauro-Controlado"],
+          ["Gyarados-RC","Artemis-RC"],
+          ["Galena-RC","Zabullza"],
+          ["Charizard-RC","Moai-RC"],
+          ["ExcaliBull","Syrax-RC"],
+          ["Gyarados-RC","Dinamite"],
+          ["Galena-RC","Aldebaran"],
+          ["Charizard-RC","Ganon"],
+          ["Gyarados-RC","Galena-RC"],
+          ["Charizard-RC","ExcaliBull"],
+          ["Bullbasauro-Controlado","Artemis-RC"],
+          ["Dinamite","Syrax-RC"],
+          ["Aldebaran","Moai-RC"],
+          ["Zabullza","Ganon"],
+          ["Dinamite","Aldebaran"],
+          ["Galena-RC","Dinamite"],
+          ["Galena-RC","ExcaliBull"],
+          ["Charizard-RC","Galena-RC"]
+        ]
+      }
+    ]
+  }
+}

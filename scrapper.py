@@ -162,6 +162,6 @@ def main(event_id: str, category_id: str):
 
 
 if __name__ == "__main__":
-    event_id = "rcbr-2024"
-    category_id = "21"
+    event_id = "ironcup-2025"
+    category_id = "20"
     main(event_id, category_id)

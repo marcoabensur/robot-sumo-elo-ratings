@@ -1,0 +1,49 @@
+{
+  "year": 2025,
+  "competitions": {
+    "competition": [
+      {
+        "name": "IronCup 2025",
+        "date": "16-02-2025",
+        "link": "https://events.robocore.net/ironcup-2025/brackets/20",
+        "matches": [
+          ["KIMAUÁNISSO","RioBotz"],
+          ["KIMAUÁNISSO","Netuno"],
+          ["ThundeRatz","RobotBulls"],
+          ["RobotBulls","OMEGABOTZ"],
+          ["KIMAUÁNISSO","ThundeRatz"],
+          ["KIMAUÁNISSO","ThundeRatz"],
+          ["KIMAUÁNISSO","RobotBulls"],
+          ["ThundeRatz","RioBotz"],
+          ["RobotBulls","Netuno"],
+          ["ThundeRatz","OMEGABOTZ"],
+          ["RobotBulls","ThundeRatz"],
+          ["ThundeRatz","RobotBulls"],
+          ["ThundeRatz","RobotBulls"],
+          ["ThundeRatz","KIMAUÁNISSO"],
+          ["ThundeRatz","KIMAUÁNISSO"],
+          ["KIMAUÁNISSO","ThundeRatz"]
+        ],
+
+        "matches-robots": [
+          ["Charizard","Aldebaran+"],
+          ["Charizard","Ganon"],
+          ["Moai","ExcaliBull"],
+          ["Bullbasauro-Descontrolado","Ártemis"],
+          ["Gyarados","Galena"],
+          ["Charizard","Moai"],
+          ["Gyarados","Bullbasauro-Descontrolado"],
+          ["Galena","Aldebaran+"],
+          ["ExcaliBull","Ganon"],
+          ["Galena","Ártemis"],
+          ["ExcaliBull","Moai"],
+          ["Galena","Bullbasauro-Descontrolado"],
+          ["Galena","ExcaliBull"],
+          ["Galena","Charizard"],
+          ["Galena","Gyarados"],       
+          ["Gyarados","Galena"]     
+        ]
+      }
+    ]
+  }
+}
