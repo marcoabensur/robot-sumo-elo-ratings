@@ -43,6 +43,63 @@
           ["Galena","Gyarados"],       
           ["Gyarados","Galena"]     
         ]
+      },
+      {
+        "name": "RSM Challenge 2025",
+        "date": "04-05-2025",
+        "link": "https://events.robocore.net/rsm-2025//brackets/20",
+        "matches": [
+          ["KIMAUÁNISSO", "Breaking-Tech"],
+          ["RobotBulls", "ATIM-INTERNACIONAL"],
+          ["ThundeRatz", "Equipe-Paralela"],
+          ["Raijū", "Phoenix"],
+          ["RobotBulls", "Club-Robótica-UTE"],
+          ["KIMAUÁNISSO", "RioBotz"],
+          ["Equipe-Paralela", "ThundeRatz"],
+          ["KIMAUÁNISSO", "RobotBulls"],
+          ["Raijū", "ThundeRatz"],
+          ["KIMAUÁNISSO", "RobotBulls"],
+          ["KIMAUÁNISSO", "Equipe-Paralela"],
+          ["KIMAUÁNISSO", "Raijū"],
+          ["RioBotz", "Club-Robótica-UTE"],
+          ["Phoenix", "Equipe-Paralela"],
+          ["Breaking-Tech", "ATIM-INTERNACIONAL"],
+          ["ThundeRatz", "RioBotz"],
+          ["RobotBulls", "Phoenix"],
+          ["ThundeRatz", "Breaking-Tech"],
+          ["RobotBulls", "ThundeRatz"],
+          ["ThundeRatz", "RobotBulls"],
+          ["Equipe-Paralela", "RobotBulls"],
+          ["ThundeRatz", "Raijū"],
+          ["Equipe-Paralela", "ThundeRatz"],
+          ["KIMAUÁNISSO", "Equipe-Paralela"]
+        ],
+        "matches-robots": [
+          ["Gyarados", "Igris"],
+          ["ExcaliBull", "BULUC-CHABTAN"],
+          ["Moai", "Coelho-Escovado"],
+          ["Raijū", "Mooncake"],
+          ["Bullbasauro-Descontrolado", "Buru"],
+          ["Charizard", "Aldebaran+"],
+          ["Kamex", "Galena"],
+          ["Gyarados", "ExcaliBull"],
+          ["Raijū", "Moai"],
+          ["Charizard", "Bullbasauro-Descontrolado"],
+          ["Gyarados", "Kamex"],
+          ["Charizard", "Raijū"],
+          ["Aldebaran+", "Buru"],
+          ["Mooncake", "Coelho-Escovado"],
+          ["Igris", "BULUC-CHABTAN"],
+          ["Galena", "Aldebaran+"],
+          ["ExcaliBull", "Mooncake"],
+          ["Moai", "Igris"],
+          ["ExcaliBull", "Galena"],
+          ["Moai", "Bullbasauro-Descontrolado"],
+          ["Kamex", "ExcaliBull"],
+          ["Moai", "Raijū"],
+          ["Kamex", "Moai"],
+          ["Charizard", "Kamex"]
+        ]
       }
     ]
   }

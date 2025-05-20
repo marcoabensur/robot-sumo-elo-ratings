@@ -21,7 +21,11 @@ foreign_robots = [
     "Topotoropo-RC",
     "Sindrome-RC",
     "Kaizen",
-    "Bot-Lee-RC"
+    "Bot-Lee-RC",
+    "Breaking-Tech",
+    "ATIM-INTERNACIONAL",
+    "Club-Robótica-UTE",
+    "Club-de-robótica-y-automatizac"
 ]
 
 foreign_teams = [
@@ -35,7 +39,11 @@ foreign_teams = [
     "Roshi-Team",
     "UDITECH",
     "Club-Robótica-IST-TUNGURAHUA",
-    "Team-Fiuna"
+    "Team-Fiuna",
+    "BULUC-CHABTAN",
+    "Buru",
+    "Igris",
+    "Atom-CRAUC"
 ]
 
 
